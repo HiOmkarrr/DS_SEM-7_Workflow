@@ -74,8 +74,8 @@ if page == "Problem Statement":
         3) EDA, 4) Modeling, 5) Explainability (SHAP, LIME) & Fairness (Fairlearn),
         6) Containerization & API, 7) CI/CD with GitHub Actions.
 
-        Dataset used for Experiments 3–8: `prompt/final_processed_zudio_data.csv`.
-        Experiment 2 is demonstrated on: `prompt/original_raw_data.csv`.
+        Dataset used for Experiments 3–8: `/final_processed_zudio_data.csv`.
+        Experiment 2 is demonstrated on: `/original_raw_data.csv`.
         """
     )
     st.success("Use the sidebar to navigate through the steps.")
