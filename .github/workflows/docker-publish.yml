@@ -4,7 +4,7 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - 'config/model_config.json'  # Trigger only when config changes
+      - 'config/model_config.json'  # Trigger only when config change
       - '.github/workflows/docker-publish.yml'
   workflow_dispatch:
 
