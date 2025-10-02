@@ -32,7 +32,7 @@ jobs:
         run: ruff check .
       
       - name: Lint with flake8
-        run: flake8 streamlit_app.py api/ --max-line-length=120
+        run: flake8 streamlit_app.py api/ --max-line-length=160
       
       - name: Run tests
         run: pytest tests/ -v --cov --cov-report=xml

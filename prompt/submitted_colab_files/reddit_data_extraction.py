@@ -42,8 +42,6 @@ df.to_csv(f"{keyword}_posts.csv", index=False)
 
 print(f"✅ Saved {len(df)} posts matching keyword '{keyword}'")
 
-import pandas as pd
-
 df = pd.read_csv('/content/zudio_posts.csv')
 
 df['content']

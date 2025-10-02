@@ -25,6 +25,7 @@ page = st.sidebar.radio(
     ],
 )
 
+
 @st.cache_data(show_spinner=False)
 def load_csv(path: str) -> pd.DataFrame:
     try:
@@ -72,7 +73,7 @@ if page == "Problem Statement":
         1) Data ingestion (import and Reddit scraping), 2) Cleaning/Feature Engineering,
         3) EDA, 4) Modeling, 5) Explainability (SHAP, LIME) & Fairness (Fairlearn),
         6) Containerization & API, 7) CI/CD with GitHub Actions.
-        
+
         Dataset used for Experiments 3–8: `prompt/final_processed_zudio_data.csv`.
         Experiment 2 is demonstrated on: `prompt/original_raw_data.csv`.
         """
@@ -89,7 +90,11 @@ elif page == "Data Import / Scrape":
         st.info(f"Rows: {len(df_final)} | Columns: {list(df_final.columns)}")
         if not df_final.empty and "product_engagement" in df_final.columns:
             st.markdown("**Default target: `product_engagement`**")
-            st.caption("Reason: It captures continuous engagement (rating × log(1+count) plus trending/bestseller effects), enabling richer regression analysis and XAI/fairness on a meaningful business KPI.")
+            st.caption(
+                "Reason: It captures continuous engagement (rating × log(1+count) plus "
+                "trending/bestseller effects), enabling richer regression analysis and "
+                "XAI/fairness on a meaningful business KPI."
+            )
     with col2:
         st.markdown("**Import Original Raw Dataset (Experiment 2)**")
         df_raw = load_csv(RAW_DATA_PATH)
@@ -254,41 +259,66 @@ elif page == "EDA":
             import matplotlib.pyplot as plt
             from scipy.stats import ttest_ind
             # Explain the hypothesis once
-            st.caption("H0: The mean product_engagement is the same across groups. H1: The means differ. We use Welch's t-test because group variances/sizes may differ.")
+            st.caption(
+                "H0: The mean product_engagement is the same across groups. H1: The means differ. "
+                "We use Welch's t-test because group variances/sizes may differ."
+            )
             for flag_col in ["trending", "is_bestseller"]:
                 if flag_col in df.columns:
                     st.caption(f"Two-sample t-test: {flag_col} vs product_engagement")
                     try:
-                        a = df.loc[df[flag_col].astype(str).str.lower().isin(["true", "1", "yes", "y"]) , "product_engagement"].dropna().astype(float)
-                        b = df.loc[~df[flag_col].astype(str).str.lower().isin(["true", "1", "yes", "y"]) , "product_engagement"].dropna().astype(float)
+                        a = df.loc[
+                            df[flag_col].astype(str).str.lower().isin(["true", "1", "yes", "y"]),
+                            "product_engagement"
+                        ].dropna().astype(float)
+                        b = df.loc[
+                            ~df[flag_col].astype(str).str.lower().isin(["true", "1", "yes", "y"]),
+                            "product_engagement"
+                        ].dropna().astype(float)
                         if len(a) > 2 and len(b) > 2:
                             tstat, pval = ttest_ind(a, b, equal_var=False)
-                            st.write(f"t={tstat:.3f}, p={pval:.4f} (Welch's t-test). Reason: comparing mean engagement between two independent groups.)")
+                            st.write(
+                                f"t={tstat:.3f}, p={pval:.4f} (Welch's t-test). "
+                                f"Reason: comparing mean engagement between two independent groups.)"
+                            )
                             fig, ax = plt.subplots(1, 2, figsize=(10, 4))
                             ax[0].boxplot([a, b], labels=[f"{flag_col}=True", f"{flag_col}=False"])
                             ax[0].set_title("Engagement distribution")
                             ax[1].hist(a, bins=30, alpha=0.6, label="True")
                             ax[1].hist(b, bins=30, alpha=0.6, label="False")
-                            ax[1].legend(); ax[1].set_title("Histogram")
+                            ax[1].legend()
+                            ax[1].set_title("Histogram")
                             st.pyplot(fig)
                             # Interpretation helper
                             if pval < 0.05:
-                                st.info("Interpretation: p<0.05 → reject H0. Evidence suggests mean engagement differs between groups.")
+                                st.info(
+                                    "Interpretation: p<0.05 → reject H0. Evidence suggests "
+                                    "mean engagement differs between groups."
+                                )
                             else:
-                                st.info("Interpretation: p≥0.05 → fail to reject H0. No strong evidence of a mean difference.")
+                                st.info(
+                                    "Interpretation: p≥0.05 → fail to reject H0. "
+                                    "No strong evidence of a mean difference."
+                                )
                         else:
                             st.info("Not enough samples in one of the groups.")
                     except Exception as exc:
                         st.info(f"t-test skipped: {exc}")
 
         # Chi-square test of independence between two categorical variables
-        st.markdown("**Hypothesis testing: Chi-square test of independence (is_bestseller vs trending)**")
+        st.markdown(
+            "**Hypothesis testing: Chi-square test of independence "
+            "(is_bestseller vs trending)**"
+        )
         if "is_bestseller" in df.columns and "trending" in df.columns:
             try:
                 import seaborn as sns
                 import matplotlib.pyplot as plt
                 from scipy.stats import chi2_contingency
-                st.caption("H0: Variables are independent (no association). H1: Variables are associated. We use Chi-square on the contingency table of counts.")
+                st.caption(
+                    "H0: Variables are independent (no association). H1: Variables are associated. "
+                    "We use Chi-square on the contingency table of counts."
+                )
                 # Normalize to boolean-like strings
                 a_col = df["is_bestseller"].astype(str).str.lower().isin(["true", "1", "yes", "y"]).astype(int)
                 b_col = df["trending"].astype(str).str.lower().isin(["true", "1", "yes", "y"]).astype(int)
@@ -299,19 +329,29 @@ elif page == "EDA":
                 st.write(f"Chi-square={chi2:.3f}, dof={dof}, p-value={p:.4f}")
                 fig, ax = plt.subplots(figsize=(4, 3))
                 sns.heatmap(contingency, annot=True, fmt='d', cmap='Blues', cbar=False, ax=ax)
-                ax.set_xlabel("trending (0/1)"); ax.set_ylabel("is_bestseller (0/1)")
+                ax.set_xlabel("trending (0/1)")
+                ax.set_ylabel("is_bestseller (0/1)")
                 ax.set_title("Observed counts")
                 st.pyplot(fig)
                 if p < 0.05:
-                    st.info("Interpretation: p<0.05 → reject H0. There is a significant association between is_bestseller and trending.")
+                    st.info(
+                        "Interpretation: p<0.05 → reject H0. There is a significant association "
+                        "between is_bestseller and trending."
+                    )
                 else:
-                    st.info("Interpretation: p≥0.05 → fail to reject H0. No significant association detected.")
+                    st.info(
+                        "Interpretation: p≥0.05 → fail to reject H0. "
+                        "No significant association detected."
+                    )
             except Exception as exc:
                 st.info(f"Chi-square test skipped: {exc}")
 
 elif page == "Model Selection":
     st.subheader("Model Selection & Training (Regression)")
-    st.caption("Train Linear Regression, Random Forest, and XGBoost with preprocessing. Target must be numeric.")
+    st.caption(
+        "Train Linear Regression, Random Forest, and XGBoost with preprocessing. "
+        "Target must be numeric."
+    )
     import numpy as np
     df = load_csv(FINAL_DATA_PATH)
     if df.empty:
@@ -323,7 +363,10 @@ elif page == "Model Selection":
         if target_col:
             y = df[target_col]
             if not pd.api.types.is_numeric_dtype(y):
-                st.error("Selected target is not numeric. Please choose a numeric target for regression models.")
+                st.error(
+                    "Selected target is not numeric. "
+                    "Please choose a numeric target for regression models."
+                )
             else:
                 X = df.drop(columns=[target_col])
                 from sklearn.model_selection import train_test_split
@@ -382,15 +425,47 @@ elif page == "Model Selection":
                 def make_model(name: str):
                     if name == "LinearRegression":
                         from sklearn.linear_model import LinearRegression
-                        model = Pipeline(steps=[("prep", preprocessor), ("model", LinearRegression(fit_intercept=lr_fit_intercept, positive=lr_positive))])
+                        model = Pipeline(
+                            steps=[
+                                ("prep", preprocessor),
+                                ("model", LinearRegression(
+                                    fit_intercept=lr_fit_intercept,
+                                    positive=lr_positive
+                                ))
+                            ]
+                        )
                         return model
                     if name == "RandomForestRegressor":
                         from sklearn.ensemble import RandomForestRegressor
-                        model = Pipeline(steps=[("prep", preprocessor), ("model", RandomForestRegressor(n_estimators=rf_n_estimators, max_depth=None if rf_max_depth == 0 else rf_max_depth, min_samples_split=rf_min_samples_split, random_state=42))])
+                        model = Pipeline(
+                            steps=[
+                                ("prep", preprocessor),
+                                ("model", RandomForestRegressor(
+                                    n_estimators=rf_n_estimators,
+                                    max_depth=None if rf_max_depth == 0 else rf_max_depth,
+                                    min_samples_split=rf_min_samples_split,
+                                    random_state=42
+                                ))
+                            ]
+                        )
                         return model
                     if name == "XGBRegressor":
                         from xgboost import XGBRegressor
-                        model = Pipeline(steps=[("prep", preprocessor), ("model", XGBRegressor(n_estimators=xgb_n_estimators, learning_rate=xgb_learning_rate, max_depth=xgb_max_depth, subsample=0.8, colsample_bytree=0.8, random_state=42, tree_method="hist", n_jobs=4))])
+                        model = Pipeline(
+                            steps=[
+                                ("prep", preprocessor),
+                                ("model", XGBRegressor(
+                                    n_estimators=xgb_n_estimators,
+                                    learning_rate=xgb_learning_rate,
+                                    max_depth=xgb_max_depth,
+                                    subsample=0.8,
+                                    colsample_bytree=0.8,
+                                    random_state=42,
+                                    tree_method="hist",
+                                    n_jobs=4
+                                ))
+                            ]
+                        )
                         return model
                     raise ValueError("Unknown model")
 
@@ -417,25 +492,67 @@ elif page == "Model Selection":
                     tuned_results = {}
                     from sklearn.linear_model import LinearRegression
                     lr_pipe = Pipeline(steps=[("prep", preprocessor), ("model", LinearRegression())])
-                    lr_grid = {"model__fit_intercept": [True, False], "model__positive": [False, True]}
-                    lr_cv = GridSearchCV(lr_pipe, lr_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise")
+                    lr_grid = {
+                        "model__fit_intercept": [True, False],
+                        "model__positive": [False, True]
+                    }
+                    lr_cv = GridSearchCV(
+                        lr_pipe, lr_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise"
+                    )
                     lr_cv.fit(X_train, y_train)
                     r2, mae, rmse = evaluate(lr_cv.best_estimator_)
-                    tuned_results["LinearRegression"] = {"model": lr_cv.best_estimator_, "R2": r2, "MAE": mae, "RMSE": rmse, "best_params": lr_cv.best_params_}
+                    tuned_results["LinearRegression"] = {
+                        "model": lr_cv.best_estimator_,
+                        "R2": r2,
+                        "MAE": mae,
+                        "RMSE": rmse,
+                        "best_params": lr_cv.best_params_
+                    }
                     from sklearn.ensemble import RandomForestRegressor
-                    rf_pipe = Pipeline(steps=[("prep", preprocessor), ("model", RandomForestRegressor(random_state=42))])
-                    rf_grid = {"model__n_estimators": [100, 300], "model__max_depth": [None, 10], "model__min_samples_split": [2, 5]}
-                    rf_cv = GridSearchCV(rf_pipe, rf_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise")
+                    rf_pipe = Pipeline(
+                        steps=[("prep", preprocessor), ("model", RandomForestRegressor(random_state=42))]
+                    )
+                    rf_grid = {
+                        "model__n_estimators": [100, 300],
+                        "model__max_depth": [None, 10],
+                        "model__min_samples_split": [2, 5]
+                    }
+                    rf_cv = GridSearchCV(
+                        rf_pipe, rf_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise"
+                    )
                     rf_cv.fit(X_train, y_train)
                     r2, mae, rmse = evaluate(rf_cv.best_estimator_)
-                    tuned_results["RandomForestRegressor"] = {"model": rf_cv.best_estimator_, "R2": r2, "MAE": mae, "RMSE": rmse, "best_params": rf_cv.best_params_}
+                    tuned_results["RandomForestRegressor"] = {
+                        "model": rf_cv.best_estimator_,
+                        "R2": r2,
+                        "MAE": mae,
+                        "RMSE": rmse,
+                        "best_params": rf_cv.best_params_
+                    }
                     from xgboost import XGBRegressor
-                    xgb_pipe = Pipeline(steps=[("prep", preprocessor), ("model", XGBRegressor(random_state=42, tree_method="hist", n_jobs=4))])
-                    xgb_grid = {"model__n_estimators": [200, 400], "model__max_depth": [4, 8], "model__learning_rate": [0.05, 0.1]}
-                    xgb_cv = GridSearchCV(xgb_pipe, xgb_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise")
+                    xgb_pipe = Pipeline(
+                        steps=[
+                            ("prep", preprocessor),
+                            ("model", XGBRegressor(random_state=42, tree_method="hist", n_jobs=4))
+                        ]
+                    )
+                    xgb_grid = {
+                        "model__n_estimators": [200, 400],
+                        "model__max_depth": [4, 8],
+                        "model__learning_rate": [0.05, 0.1]
+                    }
+                    xgb_cv = GridSearchCV(
+                        xgb_pipe, xgb_grid, cv=3, scoring="r2", n_jobs=-1, error_score="raise"
+                    )
                     xgb_cv.fit(X_train, y_train)
                     r2, mae, rmse = evaluate(xgb_cv.best_estimator_)
-                    tuned_results["XGBRegressor"] = {"model": xgb_cv.best_estimator_, "R2": r2, "MAE": mae, "RMSE": rmse, "best_params": xgb_cv.best_params_}
+                    tuned_results["XGBRegressor"] = {
+                        "model": xgb_cv.best_estimator_,
+                        "R2": r2,
+                        "MAE": mae,
+                        "RMSE": rmse,
+                        "best_params": xgb_cv.best_params_
+                    }
                     st.session_state["model_results"] = tuned_results
 
                 if colC.button("Clear Results"):
@@ -450,15 +567,14 @@ elif page == "Model Selection":
                     st.success(f"Best model: {best_name} (R2={res[best_name]['R2']:.3f}, RMSE={res[best_name]['RMSE']:.3f})")
                     if "best_params" in res[best_name]:
                         st.markdown("**Best model hyperparameters**")
-                        st.json(res[best_name]["best_params"]) 
-                    
+                        st.json(res[best_name]["best_params"])
+
                     if st.button("Save Best Model & Config for CI/CD"):
-                        import joblib
                         import json
-                        
+
                         os.makedirs("models", exist_ok=True)
                         os.makedirs("config", exist_ok=True)
-                        
+
                         # Save model bundle
                         bundle = {
                             "model": res[best_name]["model"],
@@ -469,10 +585,10 @@ elif page == "Model Selection":
                             "best_params": res[best_name].get("best_params"),
                         }
                         joblib.dump(bundle, "models/model.joblib")
-                        
+
                         # Extract hyperparameters from best_params
                         best_params = res[best_name].get("best_params", {})
-                        
+
                         # Create reproducible config
                         config = {
                             "model_type": best_name,
@@ -498,7 +614,7 @@ elif page == "Model Selection":
                             },
                             "created_at": pd.Timestamp.now().isoformat()
                         }
-                        
+
                         # Extract model-specific hyperparameters
                         if best_name == "LinearRegression":
                             config["hyperparameters"] = {
@@ -523,16 +639,16 @@ elif page == "Model Selection":
                                 "tree_method": "hist",
                                 "n_jobs": 4
                             }
-                        
+
                         # Save config as JSON
                         config_path = "config/model_config.json"
                         with open(config_path, "w") as f:
                             json.dump(config, f, indent=2)
-                        
+
                         st.success("✅ Saved model to models/model.joblib")
                         st.success(f"✅ Saved config to {config_path}")
                         st.info("Commit config/model_config.json to trigger CI/CD training with these exact parameters")
-                        
+
                         # Show what to commit
                         st.code(f"""
 git add config/model_config.json
@@ -744,6 +860,7 @@ elif page == "XAI & Fairness":
                                     adjusted_cal[mask] = preds[mask] - bias
                                     cal_adjust[g] = {"bias": float(bias), "adj": float(-bias)}
                             # Residual reweighting
+
                             def residual_reweight(y_true, y_pred, s, alpha=0.7):
                                 out = y_pred.copy()
                                 for g in groups_list:
@@ -754,6 +871,7 @@ elif page == "XAI & Fairness":
                                 return out
                             adjusted_rw = residual_reweight(y_valid, preds, sens)
                             # Compare bias disparity
+
                             def bias_disparity(y_true, y_pred, s):
                                 biases = []
                                 for g in groups_list:
