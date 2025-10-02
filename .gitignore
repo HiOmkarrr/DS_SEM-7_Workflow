@@ -1,0 +1,116 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+exp7-8/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Data files - tracked by DVC
+*.csv
+# Whitelist essential data files
+!prompt/final_processed_zudio_data.csv
+!prompt/original_raw_data.csv
+
+# Model artifacts - DO NOT commit (trained in CI/CD)
+models/*.joblib
+models/*.pkl
+models/*.h5
+models/*.onnx
+!models/.gitkeep
+
+# Config - DO commit for reproducible training
+!config/
+!config/*.json
+
+# DVC
+.dvc/cache/
+.dvc/tmp/
+*.dvc.lock
+
+# Reports and artifacts
+artifacts/
+reports/
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+
+# Linting
+.mypy_cache/
+.ruff_cache/
+.pytype/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib

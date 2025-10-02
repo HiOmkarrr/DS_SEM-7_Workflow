@@ -1,0 +1,16 @@
+stages:
+  data:
+    cmd: echo "Data stage placeholder"
+    deps:
+      - prompt/final_processed_zudio_data.csv
+      - prompt/original_raw_data.csv
+    outs:
+      - artifacts/data_ready:
+          persist: true
+  model:
+    cmd: echo "Model stage placeholder"
+    deps:
+      - artifacts/data_ready
+    outs:
+      - models/model.joblib:
+          persist: true

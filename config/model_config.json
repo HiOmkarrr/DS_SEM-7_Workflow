@@ -1,0 +1,68 @@
+{
+  "model_type": "XGBRegressor",
+  "target_column": "product_engagement",
+  "feature_columns": [
+    "category",
+    "price",
+    "original_price",
+    "rating",
+    "rating_count",
+    "scraped_date",
+    "size",
+    "color",
+    "material",
+    "discount_percentage",
+    "availability",
+    "is_bestseller",
+    "return_policy",
+    "delivery_time",
+    "trending",
+    "customer_reviews"
+  ],
+  "numeric_columns": [
+    "price",
+    "original_price",
+    "rating",
+    "rating_count",
+    "discount_percentage",
+    "customer_reviews"
+  ],
+  "categorical_columns": [
+    "category",
+    "scraped_date",
+    "size",
+    "color",
+    "material",
+    "availability",
+    "is_bestseller",
+    "return_policy",
+    "delivery_time",
+    "trending"
+  ],
+  "hyperparameters": {
+    "n_estimators": 200,
+    "learning_rate": 0.05,
+    "max_depth": 4,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "random_state": 42,
+    "tree_method": "hist",
+    "n_jobs": 4
+  },
+  "preprocessing": {
+    "numeric_imputer": "median",
+    "numeric_scaler": "standard",
+    "categorical_imputer": "most_frequent",
+    "categorical_encoder": "onehot"
+  },
+  "train_test_split": {
+    "test_size": 0.2,
+    "random_state": 42
+  },
+  "metrics": {
+    "R2": 0.9980673626026748,
+    "MAE": 0.17168278871625622,
+    "RMSE": 0.37578776239024
+  },
+  "created_at": "2025-10-02T12:57:22.813582"
+}

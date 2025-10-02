@@ -1,0 +1,43 @@
+i am providing you a set of documents of experiments that i have implemented for the data science subject lab.
+now i want to implement experiment 7 and 8(first)
+Experiment 7
+Aim: CI/CD Pipeline with Open Source Tools
+Objective: Automate testing, version checks, and deployment using GitHub Actions.
+ Detailed Steps
+- Create GitHub Actions workflow YAML
+- Add test, lint, and build jobs
+- Pull data/models with DVC if needed
+- Test pipeline on push to `main`
+Open-Source Tools
+GitHub Actions, GitLab CI, DVC
+ Deliverables
+- Workflow YAML
+- CI logs/screenshots
+Conclusion
+
+
+Experiment 8
+ Aim: Dashboard, Responsible AI Reporting & Final Portfolio
+Objective: Build Streamlit/Dash dashboard, write Responsible AI report, and publish final repo.
+ Detailed Steps
+- Develop dashboard for predictions & insights
+- Include SHAP plots, metrics, drift checks
+- Write Responsible AI checklist (fairness, privacy, consent)
+- Publish final code, notebooks, API, and workflow on GitHub
+Open-Source Tools
+Streamlit, Dash, Markdown, Jupyter, GitHub/GitLab
+ Deliverables
+- Streamlit app link
+- Responsible_AI.md
+- Final public repo link
+Conclusion
+
+
+
+
+now i want a all comprehensive software that demonstrates the working of all this in a systematic, pipelined manner so that i can present the working of all the pipeline in step by step manner
+for example: I want to first present the problem statement that i have selected to a page on the software will tell about the problem statement, then comes data scraping, data cleaning and feature engineering part, i want to have data import as well as scrape option(scraping using praw) in the software. then comes the eda part, i want proper visualizations as per the finalized dataset given and a simpler version of the colab file given
+then comes the model selection, and why we have selected that particular model (implement just like the specific respective colab file given)
+then apply explainable AI (XAI) methods (SHAP & LIME) for interpreting model predictions and evaluate fairness using Fairlearn
+then Containerization & API Deployment
+now note that i want to demonstrate and present the working of this in step by step experiment wise manner and also implement ci/cd using GitHub actions workflow automation over it

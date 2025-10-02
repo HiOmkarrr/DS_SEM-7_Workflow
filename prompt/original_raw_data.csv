@@ -1,0 +1,1241 @@
+category,Clothing,price,original_price,rating,rating_count,scraped_date,size,color,material,discount_percentage,availability,is_bestseller,return_policy,delivery_time,trending,customer_reviews
+Men Tshirts,T-Shirt,628,857,4.8,3497,2025-08-02,XXL,Green,Cotton Blend,26.72,In Stock,FALSE,30 days,7 days,FALSE,459
+Men Tshirts,T-Shirt,875,986,4,726,2025-08-02,XL,Grey,Silk,11.26,Only 1 Left,FALSE,30 days,6 days,FALSE,430
+Men Tshirts,T-Shirt,631,784,4.2,3354,2025-08-02,XL,Grey,Cotton,19.52,Few Left,FALSE,30 days,4 days,FALSE,301
+Men Tshirts,T-Shirt,694,944,4,4377,2025-08-02,XL,Pink,Denim,26.48,Only 1 Left,TRUE,30 days,4 days,FALSE,222
+Men Tshirts,T-Shirt,499,568,4.4,4141,2025-08-02,L,Red,Cotton,12.15,Only 1 Left,FALSE,30 days,4 days,FALSE,207
+Men Tshirts,T-Shirt,577,707,4.6,2587,2025-08-02,XS,Olive,Silk,18.39,Few Left,TRUE,30 days,4 days,FALSE,497
+Men Tshirts,T-Shirt,426,538,4.3,4069,2025-08-02,M,Yellow,Silk,20.82,Back in Stock,FALSE,30 days,6 days,FALSE,374
+Men Tshirts,T-Shirt,554,897,4.3,2351,2025-08-02,S,Purple,Silk,38.24,Back in Stock,FALSE,30 days,3 days,TRUE,235
+Men Tshirts,T-Shirt,588,870,3.6,3904,2025-08-02,L,White,Denim,32.41,Limited Stock,FALSE,30 days,5 days,FALSE,336
+Men Tshirts,T-Shirt,428,691,4.1,860,2025-08-02,3XL,Brown,Linen,38.06,Few Left,FALSE,30 days,2 days,FALSE,333
+Men Tshirts,T-Shirt,580,834,4.3,3840,2025-08-02,S,Beige,Cotton Blend,30.46,In Stock,FALSE,30 days,2 days,FALSE,262
+Men Tshirts,T-Shirt,778,1046,3.7,2480,2025-08-02,XXL,Red,Polyester,25.62,In Stock,FALSE,30 days,5 days,FALSE,109
+Men Tshirts,T-Shirt,877,1119,4.1,106,2025-08-02,XL,Brown,Cotton Blend,21.63,In Stock,FALSE,30 days,6 days,FALSE,371
+Men Tshirts,T-Shirt,600,775,4.2,2308,2025-08-02,L,Green,Cotton,22.58,Back in Stock,FALSE,30 days,3 days,FALSE,467
+Men Tshirts,T-Shirt,582,937,4,982,2025-08-02,XXL,Orange,Polyester,37.89,Back in Stock,FALSE,30 days,7 days,FALSE,462
+Men Tshirts,T-Shirt,449,683,4.1,3913,2025-08-02,XL,Yellow,Denim,34.26,Only 1 Left,TRUE,30 days,7 days,FALSE,38
+Men Jeans,Jeans,1344,1563,3.8,89,2025-08-02,XS,Grey,Linen,14.01,In Stock,FALSE,30 days,2 days,FALSE,135
+Men Jeans,Jeans,1118,1394,3.6,1582,2025-08-02,3XL,Yellow,Linen,19.8,Limited Stock,TRUE,30 days,2 days,FALSE,204
+Men Jeans,Jeans,1308,1733,3.9,447,2025-08-02,3XL,Black,Denim,24.52,Only 1 Left,FALSE,30 days,7 days,FALSE,10
+Men Jeans,Jeans,1266,1495,4.5,2213,2025-08-02,XL,Green,Polyester,15.32,In Stock,TRUE,30 days,3 days,FALSE,273
+Men Jeans,Jeans,1004,1280,3.7,1120,2025-08-02,XL,Beige,Polyester,21.56,Only 1 Left,FALSE,30 days,2 days,FALSE,358
+Men Jeans,Jeans,1501,1795,4,2084,2025-08-02,L,Navy,Denim,16.38,In Stock,FALSE,30 days,6 days,TRUE,241
+Men Jeans,Jeans,1241,1399,4.3,4616,2025-08-02,L,Purple,Cotton Blend,11.29,Limited Stock,FALSE,30 days,7 days,FALSE,22
+Men Jeans,Jeans,1739,1971,3.8,3959,2025-08-02,S,Orange,Cotton Blend,11.77,Limited Stock,FALSE,30 days,7 days,FALSE,485
+Men Jeans,Jeans,1129,1323,4.1,1063,2025-08-02,M,Navy,Cotton Blend,14.66,Limited Stock,FALSE,30 days,5 days,FALSE,348
+Men Jeans,Jeans,1888,1926,4,3572,2025-08-02,XS,Maroon,Linen,1.97,Few Left,FALSE,30 days,6 days,FALSE,402
+Men Jeans,Jeans,1524,1690,3.6,3524,2025-08-02,XXL,Brown,Linen,9.82,Only 1 Left,FALSE,30 days,7 days,FALSE,419
+Men Jeans,Jeans,1689,1697,3.7,143,2025-08-02,M,Beige,Cotton Blend,0.47,Few Left,FALSE,30 days,2 days,FALSE,177
+Men Jeans,Jeans,1205,1844,3.6,4419,2025-08-02,XS,Yellow,Silk,34.65,In Stock,FALSE,30 days,2 days,FALSE,0
+Men Jeans,Jeans,933,1154,4.6,4798,2025-08-02,XS,Grey,Polyester,19.15,Only 1 Left,FALSE,30 days,7 days,FALSE,55
+Men Jeans,Jeans,1294,1311,4.6,783,2025-08-02,3XL,Maroon,Cotton,1.3,Back in Stock,FALSE,30 days,6 days,FALSE,285
+Men Jeans,Jeans,983,1144,4.7,3774,2025-08-02,3XL,Pink,Linen,14.07,Few Left,FALSE,30 days,7 days,FALSE,404
+Men Shirts,Shirt,1073,1132,3.6,1867,2025-08-02,XL,Beige,Cotton Blend,5.21,Back in Stock,FALSE,30 days,2 days,FALSE,446
+Men Shirts,Shirt,716,1015,4.2,3624,2025-08-02,S,Brown,Denim,29.46,Limited Stock,TRUE,30 days,2 days,FALSE,413
+Men Shirts,Shirt,1031,1089,4.8,2855,2025-08-02,M,Blue,Polyester,5.33,Only 1 Left,FALSE,30 days,7 days,FALSE,440
+Men Shirts,Shirt,988,1147,4.4,1133,2025-08-02,M,White,Denim,13.86,Few Left,FALSE,30 days,4 days,FALSE,374
+Men Shirts,Shirt,708,784,4.3,543,2025-08-02,XS,Blue,Denim,9.69,Only 1 Left,FALSE,30 days,2 days,FALSE,352
+Men Shirts,Shirt,762,959,3.8,831,2025-08-02,XXL,Red,Cotton,20.54,Back in Stock,FALSE,30 days,4 days,FALSE,110
+Men Shirts,Shirt,995,1066,4.2,2012,2025-08-02,3XL,Purple,Cotton Blend,6.66,Only 1 Left,TRUE,30 days,2 days,FALSE,233
+Men Shirts,Shirt,813,1094,3.7,2892,2025-08-02,S,Blue,Denim,25.69,Few Left,FALSE,30 days,2 days,FALSE,419
+Men Shirts,Shirt,1409,1486,4.4,2704,2025-08-02,XS,Grey,Silk,5.18,Only 1 Left,FALSE,30 days,2 days,FALSE,275
+Men Shirts,Shirt,880,959,4.1,2330,2025-08-02,XXL,Pink,Polyester,8.24,Limited Stock,FALSE,30 days,4 days,FALSE,121
+Men Shirts,Shirt,1001,1020,3.8,646,2025-08-02,S,Maroon,Silk,1.86,Back in Stock,FALSE,30 days,7 days,FALSE,228
+Men Shirts,Shirt,732,1376,3.9,2462,2025-08-02,XL,Beige,Silk,46.8,Only 1 Left,FALSE,30 days,3 days,FALSE,459
+Men Shirts,Shirt,1122,1242,4.6,877,2025-08-02,3XL,Black,Denim,9.66,Limited Stock,TRUE,30 days,7 days,FALSE,422
+Men Shirts,Shirt,1346,2878,4.2,118,2025-08-02,3XL,Brown,Cotton Blend,53.23,Only 1 Left,FALSE,30 days,4 days,FALSE,327
+Men Shirts,Shirt,736,904,4.5,1313,2025-08-02,XS,Maroon,Denim,18.58,In Stock,FALSE,30 days,7 days,FALSE,497
+Men Shirts,Shirt,1250,1463,3.7,501,2025-08-02,L,Olive,Linen,14.56,Only 1 Left,TRUE,30 days,5 days,FALSE,461
+Women Dresses,Dress,1728,2505,3.9,2246,2025-08-02,XL,Navy,Cotton Blend,31.02,Limited Stock,FALSE,30 days,5 days,TRUE,65
+Women Dresses,Dress,1759,2009,4.5,1518,2025-08-02,S,White,Linen,12.44,Limited Stock,FALSE,30 days,6 days,FALSE,487
+Women Dresses,Dress,1177,1433,3.5,2183,2025-08-02,XL,Beige,Cotton Blend,17.86,Limited Stock,FALSE,30 days,4 days,TRUE,466
+Women Dresses,Dress,1418,1614,3.9,2125,2025-08-02,3XL,Grey,Denim,12.14,Back in Stock,FALSE,30 days,6 days,FALSE,295
+Women Dresses,Dress,1122,1425,4.7,3185,2025-08-02,XS,Purple,Denim,21.26,Back in Stock,FALSE,30 days,6 days,FALSE,163
+Women Dresses,Dress,1566,1735,3.8,1522,2025-08-02,XL,Green,Cotton,9.74,Few Left,FALSE,30 days,4 days,FALSE,160
+Women Dresses,Dress,1429,1592,4.1,375,2025-08-02,L,Green,Linen,10.24,Limited Stock,FALSE,30 days,5 days,FALSE,340
+Women Dresses,Dress,1430,1557,4.4,1898,2025-08-02,XL,Maroon,Silk,8.16,Few Left,FALSE,30 days,3 days,FALSE,393
+Women Dresses,Dress,1480,1684,4.4,1993,2025-08-02,S,Beige,Polyester,12.11,Only 1 Left,FALSE,30 days,3 days,FALSE,480
+Women Dresses,Dress,1419,1710,4.1,1735,2025-08-02,XS,Olive,Linen,17.02,Limited Stock,FALSE,30 days,3 days,FALSE,268
+Women Dresses,Dress,1568,1626,4.4,2901,2025-08-02,3XL,Pink,Cotton,3.57,Few Left,FALSE,30 days,2 days,FALSE,121
+Women Dresses,Dress,1519,1769,4.3,2030,2025-08-02,M,White,Silk,14.13,Back in Stock,FALSE,30 days,3 days,TRUE,430
+Women Dresses,Dress,1751,1897,4.3,1876,2025-08-02,S,Olive,Silk,7.7,Few Left,FALSE,30 days,6 days,FALSE,58
+Women Dresses,Dress,869,1117,3.8,3403,2025-08-02,XXL,Pink,Silk,22.2,Limited Stock,FALSE,30 days,5 days,TRUE,53
+Women Dresses,Dress,1388,3051,3.7,966,2025-08-02,XXL,Black,Cotton Blend,54.51,Only 1 Left,FALSE,30 days,4 days,FALSE,463
+Women Dresses,Dress,1124,1700,3.7,3937,2025-08-02,M,Maroon,Cotton Blend,33.88,Limited Stock,FALSE,30 days,4 days,FALSE,240
+Women Tops,Shirt,598,1323,3.8,3866,2025-08-02,XXL,Orange,Denim,54.8,Back in Stock,TRUE,30 days,7 days,FALSE,349
+Women Tops,Tank Top,758,868,4.8,1780,2025-08-02,XL,Orange,Cotton Blend,12.67,Back in Stock,FALSE,30 days,7 days,FALSE,239
+Women Tops,Tunic,797,1922,4,1872,2025-08-02,XL,Purple,Polyester,58.53,Limited Stock,FALSE,30 days,5 days,FALSE,171
+Women Tops,Blouse,1010,1025,4.4,470,2025-08-02,L,Maroon,Cotton Blend,1.46,Back in Stock,FALSE,30 days,3 days,FALSE,353
+Women Tops,Casual Top,860,1112,4.6,1103,2025-08-02,XS,Navy,Silk,22.66,Limited Stock,FALSE,30 days,7 days,FALSE,303
+Women Tops,Blouse,506,936,4.5,2908,2025-08-02,XS,Green,Cotton Blend,45.94,Back in Stock,FALSE,30 days,7 days,FALSE,188
+Women Tops,Top,736,980,4.1,2670,2025-08-02,M,Grey,Denim,24.9,In Stock,FALSE,30 days,4 days,TRUE,439
+Women Tops,T-Shirt,968,1608,4.1,562,2025-08-02,S,Navy,Cotton,39.8,Few Left,FALSE,30 days,4 days,FALSE,387
+Women Tops,Blouse,750,994,4,4410,2025-08-02,XL,Pink,Denim,24.55,Limited Stock,FALSE,30 days,2 days,FALSE,295
+Women Tops,Shirt,733,1061,4.3,169,2025-08-02,L,Pink,Polyester,30.91,In Stock,TRUE,30 days,6 days,FALSE,139
+Women Tops,Tank Top,795,999,4.3,4342,2025-08-02,XL,Beige,Silk,20.42,Back in Stock,FALSE,30 days,6 days,FALSE,386
+Women Tops,T-Shirt,744,856,3.9,4456,2025-08-02,M,Olive,Denim,13.08,In Stock,FALSE,30 days,5 days,FALSE,28
+Women Tops,Shirt,520,763,4.1,3678,2025-08-02,XXL,Red,Cotton Blend,31.85,Only 1 Left,FALSE,30 days,2 days,FALSE,128
+Women Tops,Shirt,699,824,4.8,578,2025-08-02,XXL,Pink,Denim,15.17,Back in Stock,FALSE,30 days,7 days,FALSE,188
+Women Tops,Crop Top,1027,2300,3.5,3173,2025-08-02,XL,Orange,Linen,55.35,Few Left,FALSE,30 days,5 days,FALSE,498
+Women Tops,Blouse,654,877,3.9,4113,2025-08-02,3XL,Black,Linen,25.43,Limited Stock,TRUE,30 days,6 days,FALSE,250
+Women Jeans,Jeans,1307,1532,4.6,862,2025-08-02,S,Blue,Denim,14.69,In Stock,FALSE,30 days,7 days,FALSE,193
+Women Jeans,Jeans,2012,2046,3.6,2257,2025-08-02,L,Green,Silk,1.66,In Stock,FALSE,30 days,4 days,FALSE,169
+Women Jeans,Jeans,2022,2206,4,1872,2025-08-02,M,Orange,Linen,8.34,In Stock,FALSE,30 days,2 days,FALSE,251
+Women Jeans,Jeans,1980,2090,4.5,230,2025-08-02,M,Red,Polyester,5.26,In Stock,FALSE,30 days,7 days,FALSE,397
+Women Jeans,Jeans,1719,1796,4.1,3119,2025-08-02,L,Brown,Denim,4.29,Few Left,FALSE,30 days,3 days,FALSE,276
+Women Jeans,Jeans,1430,1524,3.6,873,2025-08-02,M,Beige,Silk,6.17,Few Left,FALSE,30 days,6 days,TRUE,353
+Women Jeans,Jeans,1745,1932,4.4,3003,2025-08-02,3XL,Red,Silk,9.68,Limited Stock,FALSE,30 days,5 days,FALSE,204
+Women Jeans,Jeans,1351,2166,3.9,4943,2025-08-02,M,Navy,Denim,37.63,In Stock,FALSE,30 days,6 days,TRUE,148
+Women Jeans,Jeans,1805,2043,4,2456,2025-08-02,L,Olive,Denim,11.65,Few Left,FALSE,30 days,6 days,FALSE,461
+Women Jeans,Jeans,984,1042,4.2,2050,2025-08-02,XXL,Red,Polyester,5.57,Back in Stock,FALSE,30 days,5 days,FALSE,435
+Women Jeans,Jeans,1795,2082,3.8,1627,2025-08-02,XL,Black,Denim,13.78,Back in Stock,FALSE,30 days,4 days,FALSE,300
+Women Jeans,Jeans,1502,1742,3.6,4531,2025-08-02,XL,Beige,Linen,13.78,Only 1 Left,FALSE,30 days,6 days,FALSE,454
+Women Jeans,Jeans,1372,1396,4.1,478,2025-08-02,XXL,Green,Cotton,1.72,In Stock,FALSE,30 days,7 days,FALSE,111
+Women Jeans,Jeans,1880,1986,3.8,990,2025-08-02,L,Blue,Polyester,5.34,In Stock,FALSE,30 days,7 days,FALSE,175
+Women Jeans,Jeans,2078,2111,4.6,1054,2025-08-02,XXL,Pink,Denim,1.56,Limited Stock,FALSE,30 days,6 days,FALSE,187
+Women Jeans,Jeans,1807,1971,3.8,1299,2025-08-02,M,Blue,Denim,8.32,Only 1 Left,FALSE,30 days,4 days,TRUE,443
+Men Tshirts,T-Shirt,343,614,4.4,4796,2025-08-02,M,Beige,Viscose,44.14,Few Left,FALSE,10 days,3 days,FALSE,225
+Men Tshirts,T-Shirt,618,700,4.1,5342,2025-08-02,S,Red,Viscose,11.71,Limited Stock,FALSE,10 days,2 days,FALSE,487
+Men Tshirts,T-Shirt,536,659,4.3,1234,2025-08-02,3XL,White,Cotton Blend,18.66,Few Left,FALSE,10 days,4 days,FALSE,449
+Men Tshirts,T-Shirt,428,964,3.7,2117,2025-08-02,XL,Red,Denim,55.6,Only 1 Left,FALSE,10 days,3 days,FALSE,294
+Men Tshirts,T-Shirt,429,758,4.4,6253,2025-08-02,S,Beige,Denim,43.4,Limited Stock,TRUE,10 days,1 days,FALSE,457
+Men Tshirts,T-Shirt,517,655,3.4,5321,2025-08-02,M,Beige,Cotton,21.07,In Stock,FALSE,10 days,2 days,FALSE,267
+Men Tshirts,T-Shirt,469,753,3.5,1049,2025-08-02,XL,Blue,Viscose,37.72,Limited Stock,FALSE,10 days,4 days,FALSE,408
+Men Tshirts,T-Shirt,362,1044,4.3,6595,2025-08-02,L,Red,Viscose,65.33,Only 1 Left,FALSE,10 days,5 days,FALSE,41
+Men Tshirts,T-Shirt,320,444,3.9,4821,2025-08-02,XXL,Beige,Viscose,27.93,Limited Stock,FALSE,10 days,5 days,FALSE,433
+Men Tshirts,T-Shirt,358,740,3.6,308,2025-08-02,XXL,Navy,Denim,51.62,Limited Stock,FALSE,10 days,2 days,FALSE,208
+Men Tshirts,T-Shirt,595,716,4.3,1054,2025-08-02,XL,Purple,Denim,16.9,Back in Stock,FALSE,10 days,4 days,FALSE,261
+Men Tshirts,T-Shirt,527,905,4.7,3375,2025-08-02,M,Navy,Viscose,41.77,Only 1 Left,FALSE,10 days,1 days,FALSE,86
+Men Tshirts,T-Shirt,642,922,3.8,1166,2025-08-02,XXL,Blue,Denim,30.37,In Stock,FALSE,10 days,1 days,FALSE,222
+Men Tshirts,T-Shirt,310,321,3.7,6041,2025-08-02,S,Navy,Cotton Blend,3.43,Limited Stock,FALSE,10 days,5 days,FALSE,373
+Men Tshirts,T-Shirt,466,645,3.9,892,2025-08-02,XXL,Black,Polyester,27.75,Limited Stock,FALSE,10 days,3 days,FALSE,148
+Men Tshirts,T-Shirt,522,567,4.1,7351,2025-08-02,M,Beige,Cotton Blend,7.94,Back in Stock,FALSE,10 days,4 days,FALSE,155
+Men Jeans,Jeans,844,1158,4.4,823,2025-08-02,XL,Beige,Cotton,27.12,Limited Stock,FALSE,10 days,3 days,FALSE,424
+Men Jeans,Jeans,1154,1502,4.4,866,2025-08-02,XXL,Black,Polyester,23.17,Few Left,FALSE,10 days,1 days,FALSE,429
+Men Jeans,Jeans,968,1815,3.7,3242,2025-08-02,XXL,Purple,Polyester,46.67,Only 1 Left,FALSE,10 days,2 days,FALSE,351
+Men Jeans,Jeans,1485,1569,3.6,6509,2025-08-02,3XL,Olive,Viscose,5.35,Few Left,FALSE,10 days,5 days,FALSE,55
+Men Jeans,Jeans,841,1171,4.7,1283,2025-08-02,S,Navy,Cotton Blend,28.18,Back in Stock,FALSE,10 days,3 days,FALSE,335
+Men Jeans,Jeans,1026,1104,3.3,874,2025-08-02,S,Orange,Viscose,7.07,In Stock,TRUE,10 days,1 days,FALSE,221
+Men Jeans,Jeans,1388,2249,4,7476,2025-08-02,3XL,Navy,Lycra,38.28,Limited Stock,FALSE,10 days,4 days,FALSE,345
+Men Jeans,Jeans,1138,1949,4.7,7659,2025-08-02,XXL,Pink,Viscose,41.61,Few Left,FALSE,10 days,5 days,FALSE,187
+Men Jeans,Jeans,1365,1377,4.4,4614,2025-08-02,XXL,Navy,Polyester,0.87,Back in Stock,FALSE,10 days,5 days,FALSE,137
+Men Jeans,Jeans,1530,1734,3.7,6962,2025-08-02,S,Pink,Polyester,11.76,Limited Stock,FALSE,10 days,2 days,FALSE,67
+Men Jeans,Jeans,1471,1642,4.5,4984,2025-08-02,S,Maroon,Cotton,10.41,Few Left,TRUE,10 days,3 days,FALSE,278
+Men Jeans,Jeans,1447,1868,3.6,6646,2025-08-02,3XL,Green,Lycra,22.54,In Stock,FALSE,10 days,1 days,FALSE,156
+Men Jeans,Jeans,934,1322,3.8,2289,2025-08-02,L,Red,Cotton,29.35,Limited Stock,FALSE,10 days,1 days,FALSE,228
+Men Jeans,Jeans,1465,2467,3.9,3556,2025-08-02,XS,Grey,Polyester,40.62,Few Left,FALSE,10 days,1 days,TRUE,423
+Men Jeans,Jeans,1137,1137,4.4,1204,2025-08-02,3XL,White,Denim,0,In Stock,FALSE,10 days,3 days,FALSE,74
+Men Jeans,Jeans,689,860,3.8,7909,2025-08-02,3XL,Brown,Cotton Blend,19.88,In Stock,FALSE,10 days,2 days,FALSE,139
+Men Shirts,Shirt,1191,1311,4.1,588,2025-08-02,XS,Olive,Cotton Blend,9.15,In Stock,FALSE,10 days,5 days,FALSE,140
+Men Shirts,Shirt,689,886,3.8,4627,2025-08-02,3XL,Orange,Cotton,22.23,Few Left,FALSE,10 days,2 days,FALSE,283
+Men Shirts,Shirt,656,700,3.2,333,2025-08-02,S,Yellow,Denim,6.29,Limited Stock,TRUE,10 days,3 days,FALSE,431
+Men Shirts,Shirt,694,885,3.3,6288,2025-08-02,XL,Pink,Viscose,21.58,Back in Stock,FALSE,10 days,1 days,FALSE,188
+Men Shirts,Shirt,860,1447,4.4,2684,2025-08-02,XL,Purple,Lycra,40.57,Limited Stock,FALSE,10 days,1 days,FALSE,379
+Men Shirts,Shirt,1222,2000,4.5,3236,2025-08-02,3XL,Maroon,Polyester,38.9,Back in Stock,FALSE,10 days,1 days,TRUE,234
+Men Shirts,Shirt,1254,1961,4.6,5883,2025-08-02,M,Olive,Cotton,36.05,Limited Stock,FALSE,10 days,4 days,FALSE,434
+Men Shirts,Shirt,1193,1261,3.5,3801,2025-08-02,XXL,Navy,Lycra,5.39,Only 1 Left,FALSE,10 days,3 days,FALSE,370
+Men Shirts,Shirt,744,1116,3.2,890,2025-08-02,XL,White,Cotton,33.33,Limited Stock,TRUE,10 days,4 days,FALSE,344
+Men Shirts,Shirt,1005,1074,4.3,5042,2025-08-02,S,Black,Denim,6.42,In Stock,FALSE,10 days,2 days,FALSE,330
+Men Shirts,Shirt,592,644,3.5,5780,2025-08-02,XL,Brown,Lycra,8.07,In Stock,FALSE,10 days,2 days,FALSE,433
+Men Shirts,Shirt,660,942,4.4,6038,2025-08-02,XXL,Grey,Cotton,29.94,In Stock,FALSE,10 days,3 days,FALSE,69
+Men Shirts,Shirt,605,1768,4.1,2630,2025-08-02,S,White,Cotton Blend,65.78,In Stock,FALSE,10 days,3 days,FALSE,273
+Men Shirts,Shirt,876,1621,3.9,5988,2025-08-02,3XL,Brown,Viscose,45.96,Only 1 Left,FALSE,10 days,2 days,FALSE,357
+Men Shirts,Shirt,824,1104,3.3,1123,2025-08-02,XS,Orange,Lycra,25.36,In Stock,FALSE,10 days,5 days,TRUE,397
+Men Shirts,Shirt,839,979,4.3,6118,2025-08-02,XS,Pink,Cotton Blend,14.3,Few Left,FALSE,10 days,4 days,FALSE,140
+Women Dresses,Dress,1290,1396,4.3,899,2025-08-02,S,Red,Viscose,7.59,Few Left,FALSE,10 days,5 days,FALSE,471
+Women Dresses,Dress,964,3084,4.4,695,2025-08-02,XXL,Beige,Cotton Blend,68.74,Only 1 Left,FALSE,10 days,4 days,TRUE,193
+Women Dresses,Dress,956,989,4.2,3792,2025-08-02,L,Beige,Cotton,3.34,Only 1 Left,TRUE,10 days,3 days,FALSE,7
+Women Dresses,Dress,1162,1672,3.5,4156,2025-08-02,M,Olive,Cotton,30.5,In Stock,FALSE,10 days,3 days,FALSE,15
+Women Dresses,Dress,1342,1722,4.3,6084,2025-08-02,L,Olive,Cotton,22.07,Only 1 Left,TRUE,10 days,3 days,FALSE,84
+Women Dresses,Dress,762,1031,3.3,3146,2025-08-02,L,Pink,Polyester,26.09,Limited Stock,FALSE,10 days,5 days,FALSE,188
+Women Dresses,Dress,601,1435,3.4,4011,2025-08-02,L,Beige,Denim,58.12,Few Left,FALSE,10 days,3 days,FALSE,25
+Women Dresses,Dress,1100,1435,3.8,6539,2025-08-02,XXL,Yellow,Lycra,23.34,Few Left,FALSE,10 days,2 days,FALSE,55
+Women Dresses,Dress,648,777,3.9,1156,2025-08-02,XS,Maroon,Lycra,16.6,Limited Stock,FALSE,10 days,1 days,FALSE,86
+Women Dresses,Dress,982,1374,3.3,7359,2025-08-02,S,Blue,Lycra,28.53,Limited Stock,FALSE,10 days,2 days,FALSE,363
+Women Dresses,Dress,1052,1314,4.3,3173,2025-08-02,L,Orange,Cotton Blend,19.94,In Stock,FALSE,10 days,1 days,FALSE,63
+Women Dresses,Dress,1206,1206,4.6,7440,2025-08-02,L,Pink,Lycra,0,Back in Stock,TRUE,10 days,5 days,FALSE,181
+Women Dresses,Dress,1315,1538,4.5,5683,2025-08-02,M,Brown,Lycra,14.5,Limited Stock,FALSE,10 days,2 days,FALSE,499
+Women Dresses,Dress,813,1184,3.6,2018,2025-08-02,XS,Olive,Viscose,31.33,Only 1 Left,FALSE,10 days,2 days,FALSE,444
+Women Dresses,Dress,701,1013,3.8,3093,2025-08-02,M,Olive,Denim,30.8,Only 1 Left,TRUE,10 days,3 days,FALSE,485
+Women Dresses,Dress,996,1075,3.7,2353,2025-08-02,XL,Green,Viscose,7.35,In Stock,FALSE,10 days,3 days,FALSE,256
+Women Tops,Crop Top,416,1039,3.9,2278,2025-08-02,3XL,Olive,Viscose,59.96,Back in Stock,FALSE,10 days,3 days,FALSE,217
+Women Tops,Crop Top,826,950,4.1,1915,2025-08-02,3XL,Olive,Cotton Blend,13.05,Back in Stock,FALSE,10 days,5 days,TRUE,356
+Women Tops,Shirt,820,829,4.2,6410,2025-08-02,XL,Green,Polyester,1.09,Only 1 Left,FALSE,10 days,2 days,TRUE,236
+Women Tops,Shirt,780,978,3.6,5057,2025-08-02,XS,Beige,Lycra,20.25,Back in Stock,FALSE,10 days,3 days,FALSE,35
+Women Tops,Tank Top,685,843,4.7,4045,2025-08-02,S,Beige,Lycra,18.74,Limited Stock,FALSE,10 days,1 days,FALSE,105
+Women Tops,Shirt,511,1233,3.4,4498,2025-08-02,XL,Blue,Lycra,58.56,Only 1 Left,FALSE,10 days,5 days,FALSE,1
+Women Tops,Shirt,709,1670,3.8,6027,2025-08-02,S,Orange,Cotton Blend,57.54,In Stock,TRUE,10 days,2 days,FALSE,463
+Women Tops,Tunic,380,641,3.8,3611,2025-08-02,3XL,Orange,Cotton,40.72,Limited Stock,FALSE,10 days,4 days,FALSE,132
+Women Tops,Casual Top,483,485,4.3,2204,2025-08-02,XS,Yellow,Lycra,0.41,Limited Stock,FALSE,10 days,5 days,FALSE,279
+Women Tops,Blouse,437,514,3.6,6125,2025-08-02,3XL,Purple,Cotton,14.98,Few Left,TRUE,10 days,3 days,FALSE,37
+Women Tops,Casual Top,452,615,4.5,5459,2025-08-02,S,White,Polyester,26.5,Limited Stock,FALSE,10 days,4 days,FALSE,296
+Women Tops,Casual Top,481,675,3.2,654,2025-08-02,XS,Orange,Cotton Blend,28.74,In Stock,FALSE,10 days,2 days,FALSE,415
+Women Tops,Crop Top,394,443,3.7,1799,2025-08-02,XL,Grey,Lycra,11.06,Back in Stock,FALSE,10 days,1 days,FALSE,221
+Women Tops,Crop Top,535,927,4.4,6624,2025-08-02,XL,Red,Cotton,42.29,Back in Stock,FALSE,10 days,1 days,FALSE,3
+Women Tops,Crop Top,384,574,4.6,2658,2025-08-02,XL,Maroon,Lycra,33.1,Only 1 Left,FALSE,10 days,2 days,FALSE,205
+Women Tops,T-Shirt,430,809,3.4,3535,2025-08-02,XS,Beige,Cotton,46.85,Few Left,FALSE,10 days,1 days,TRUE,330
+Women Jeans,Jeans,801,1305,3.6,6893,2025-08-02,M,Black,Cotton Blend,38.62,In Stock,FALSE,10 days,2 days,FALSE,109
+Women Jeans,Jeans,917,2597,4.7,3777,2025-08-02,XL,Red,Cotton,64.69,Few Left,TRUE,10 days,2 days,FALSE,410
+Women Jeans,Jeans,905,2776,3.7,367,2025-08-02,XL,Orange,Lycra,67.4,Only 1 Left,FALSE,10 days,2 days,FALSE,416
+Women Jeans,Jeans,1585,2077,4.1,7647,2025-08-02,XS,Green,Lycra,23.69,In Stock,FALSE,10 days,1 days,FALSE,111
+Women Jeans,Jeans,1265,1581,3.8,4534,2025-08-02,M,Purple,Denim,19.99,Only 1 Left,FALSE,10 days,5 days,FALSE,13
+Women Jeans,Jeans,1290,1370,3.4,4366,2025-08-02,S,Maroon,Lycra,5.84,Limited Stock,FALSE,10 days,4 days,FALSE,270
+Women Jeans,Jeans,790,961,3.9,2152,2025-08-02,XXL,Pink,Viscose,17.79,Limited Stock,FALSE,10 days,1 days,TRUE,403
+Women Jeans,Jeans,1649,4110,4,4241,2025-08-02,M,Blue,Cotton Blend,59.88,Only 1 Left,FALSE,10 days,1 days,FALSE,146
+Women Jeans,Jeans,1035,1342,4,7336,2025-08-02,3XL,Orange,Cotton Blend,22.88,In Stock,FALSE,10 days,1 days,FALSE,370
+Women Jeans,Jeans,1380,1476,4.3,6151,2025-08-02,S,Pink,Cotton Blend,6.5,Only 1 Left,FALSE,10 days,2 days,FALSE,444
+Women Jeans,Jeans,1404,1617,4.1,4266,2025-08-02,L,Olive,Denim,13.17,In Stock,FALSE,10 days,1 days,TRUE,0
+Women Jeans,Jeans,1243,2397,3.8,6524,2025-08-02,XXL,Purple,Cotton,48.14,Only 1 Left,FALSE,10 days,3 days,FALSE,322
+Women Jeans,Jeans,1268,1411,3.8,259,2025-08-02,3XL,Green,Cotton,10.13,In Stock,FALSE,10 days,1 days,FALSE,433
+Women Jeans,Jeans,1292,1668,3.3,7358,2025-08-02,L,Red,Lycra,22.54,Back in Stock,FALSE,10 days,4 days,FALSE,57
+Women Jeans,Jeans,884,1282,4.7,4323,2025-08-02,M,Grey,Cotton Blend,31.05,In Stock,FALSE,10 days,1 days,FALSE,166
+Women Jeans,Jeans,1625,3522,3.6,5759,2025-08-02,S,Yellow,Cotton,53.86,Few Left,FALSE,10 days,3 days,FALSE,114
+Men Tshirts,T-Shirt,320,363,4.6,1713,2025-08-02,XXL,Green,Polyester,11.85,Only 1 Left,FALSE,15 days,8 days,TRUE,38
+Men Tshirts,T-Shirt,349,481,4.4,1183,2025-08-02,XS,Pink,Cotton Blend,27.44,Only 1 Left,FALSE,15 days,4 days,FALSE,36
+Men Tshirts,T-Shirt,370,430,4.1,1060,2025-08-02,M,Black,Viscose,13.95,Only 1 Left,FALSE,15 days,6 days,FALSE,280
+Men Tshirts,T-Shirt,359,460,4.4,1798,2025-08-02,XL,Green,Viscose,21.96,Few Left,FALSE,15 days,6 days,FALSE,491
+Men Tshirts,T-Shirt,407,443,4.2,1097,2025-08-02,XL,Beige,Viscose,8.13,Back in Stock,FALSE,15 days,4 days,FALSE,113
+Men Tshirts,T-Shirt,359,458,4.1,474,2025-08-02,L,White,Polyester,21.62,In Stock,FALSE,15 days,5 days,FALSE,239
+Men Tshirts,T-Shirt,463,737,4.5,1206,2025-08-02,L,Beige,Viscose,37.18,Few Left,FALSE,15 days,6 days,FALSE,291
+Men Tshirts,T-Shirt,373,410,3.9,758,2025-08-02,S,Red,Polyester,9.02,Back in Stock,FALSE,15 days,7 days,FALSE,305
+Men Tshirts,T-Shirt,399,582,4.2,1764,2025-08-02,XL,White,Viscose,31.44,Only 1 Left,FALSE,15 days,3 days,FALSE,256
+Men Tshirts,T-Shirt,350,463,4.1,1032,2025-08-02,3XL,Olive,Cotton Blend,24.41,Only 1 Left,FALSE,15 days,3 days,FALSE,404
+Men Tshirts,T-Shirt,306,487,4.2,1291,2025-08-02,3XL,Orange,Polyester,37.17,Back in Stock,FALSE,15 days,3 days,FALSE,456
+Men Tshirts,T-Shirt,359,457,3.9,1476,2025-08-02,S,Blue,Viscose,21.44,In Stock,FALSE,15 days,7 days,FALSE,282
+Men Tshirts,T-Shirt,395,469,4.3,1827,2025-08-02,S,Olive,Cotton Blend,15.78,In Stock,FALSE,15 days,5 days,TRUE,423
+Men Jeans,Jeans,729,1172,4.4,1592,2025-08-02,3XL,Olive,Viscose,37.8,Back in Stock,FALSE,15 days,7 days,FALSE,471
+Men Jeans,Jeans,1135,1224,4.4,1749,2025-08-02,M,Orange,Viscose,7.27,In Stock,FALSE,15 days,3 days,FALSE,161
+Men Jeans,Jeans,866,928,4.1,558,2025-08-02,XL,Black,Cotton,6.68,In Stock,FALSE,15 days,3 days,FALSE,423
+Men Jeans,Jeans,1027,1515,3.9,1318,2025-08-02,L,Brown,Cotton Blend,32.21,Few Left,FALSE,15 days,4 days,FALSE,321
+Men Jeans,Jeans,999,1187,4.6,1650,2025-08-02,3XL,Yellow,Viscose,15.84,Few Left,FALSE,15 days,3 days,FALSE,443
+Men Jeans,Jeans,909,1169,4.3,1390,2025-08-02,3XL,Grey,Cotton Blend,22.24,Few Left,FALSE,15 days,3 days,FALSE,112
+Men Jeans,Jeans,691,996,4.4,976,2025-08-02,XS,Green,Viscose,30.62,Few Left,FALSE,15 days,3 days,FALSE,158
+Men Jeans,Jeans,945,1084,4.3,380,2025-08-02,S,Green,Cotton,12.82,Limited Stock,FALSE,15 days,8 days,FALSE,388
+Men Jeans,Jeans,882,991,4.2,1621,2025-08-02,M,Blue,Cotton,11,Only 1 Left,FALSE,15 days,3 days,FALSE,166
+Men Jeans,Jeans,712,865,3.9,645,2025-08-02,XS,Purple,Viscose,17.69,Only 1 Left,FALSE,15 days,6 days,FALSE,490
+Men Jeans,Jeans,1197,1261,3.8,564,2025-08-02,S,Pink,Cotton,5.08,Back in Stock,FALSE,15 days,4 days,FALSE,435
+Men Jeans,Jeans,1010,1087,4.5,1698,2025-08-02,3XL,Green,Polyester,7.08,Back in Stock,FALSE,15 days,8 days,TRUE,123
+Men Jeans,Jeans,934,953,4.2,554,2025-08-02,XS,Maroon,Viscose,1.99,In Stock,FALSE,15 days,3 days,FALSE,148
+Men Shirts,Shirt,502,582,4.1,507,2025-08-02,L,Purple,Cotton,13.75,Back in Stock,TRUE,15 days,8 days,FALSE,173
+Men Shirts,Shirt,629,783,3.8,1018,2025-08-02,3XL,Pink,Cotton Blend,19.67,Few Left,FALSE,15 days,5 days,FALSE,194
+Men Shirts,Shirt,686,826,3.9,1016,2025-08-02,S,Purple,Cotton,16.95,Limited Stock,FALSE,15 days,6 days,FALSE,258
+Men Shirts,Shirt,452,463,4.2,1866,2025-08-02,S,Red,Cotton Blend,2.38,In Stock,FALSE,15 days,5 days,FALSE,318
+Men Shirts,Shirt,802,879,3.8,898,2025-08-02,XXL,Grey,Cotton Blend,8.76,In Stock,FALSE,15 days,3 days,FALSE,314
+Men Shirts,Shirt,669,728,4.2,1274,2025-08-02,XS,Black,Cotton,8.1,In Stock,FALSE,15 days,7 days,FALSE,49
+Men Shirts,Shirt,675,770,3.8,1362,2025-08-02,L,Beige,Cotton,12.34,Limited Stock,FALSE,15 days,5 days,TRUE,359
+Men Shirts,Shirt,464,555,4.5,829,2025-08-02,XXL,White,Cotton Blend,16.4,In Stock,FALSE,15 days,3 days,FALSE,270
+Men Shirts,Shirt,635,793,4,205,2025-08-02,L,Beige,Cotton,19.92,Back in Stock,FALSE,15 days,6 days,FALSE,206
+Men Shirts,Shirt,798,913,4.3,451,2025-08-02,XXL,Pink,Cotton,12.6,Back in Stock,FALSE,15 days,4 days,FALSE,69
+Men Shirts,Shirt,740,890,4.3,489,2025-08-02,XS,Beige,Viscose,16.85,Few Left,FALSE,15 days,6 days,FALSE,435
+Men Shirts,Shirt,541,643,3.8,774,2025-08-02,XS,Maroon,Cotton Blend,15.86,In Stock,FALSE,15 days,3 days,TRUE,220
+Men Shirts,Shirt,755,1253,4,1508,2025-08-02,XS,Yellow,Polyester,39.74,Limited Stock,TRUE,15 days,6 days,FALSE,3
+Women Dresses,Dress,740,938,4.3,1319,2025-08-02,XS,Yellow,Cotton Blend,21.11,Few Left,FALSE,15 days,3 days,FALSE,224
+Women Dresses,Dress,683,868,3.9,1313,2025-08-02,XL,White,Cotton,21.31,Limited Stock,FALSE,15 days,6 days,FALSE,392
+Women Dresses,Dress,644,925,4.4,338,2025-08-02,XS,Brown,Viscose,30.38,Back in Stock,FALSE,15 days,6 days,FALSE,256
+Women Dresses,Dress,757,879,4.3,1445,2025-08-02,XXL,Olive,Polyester,13.88,In Stock,FALSE,15 days,4 days,FALSE,467
+Women Dresses,Dress,943,990,4.4,1291,2025-08-02,L,Navy,Viscose,4.75,Back in Stock,FALSE,15 days,6 days,FALSE,75
+Women Dresses,Dress,590,691,4.4,222,2025-08-02,XXL,Blue,Cotton,14.62,Back in Stock,FALSE,15 days,5 days,FALSE,499
+Women Dresses,Dress,686,977,4.2,312,2025-08-02,S,Grey,Cotton,29.79,Back in Stock,FALSE,15 days,5 days,FALSE,207
+Women Dresses,Dress,720,743,4.5,1530,2025-08-02,L,Beige,Cotton,3.1,In Stock,FALSE,15 days,8 days,FALSE,242
+Women Dresses,Dress,725,802,4.2,1109,2025-08-02,XS,Blue,Viscose,9.6,In Stock,FALSE,15 days,7 days,FALSE,208
+Women Dresses,Dress,826,931,4.4,1855,2025-08-02,3XL,Olive,Polyester,11.28,Only 1 Left,FALSE,15 days,8 days,TRUE,52
+Women Dresses,Dress,912,1056,4.2,804,2025-08-02,XL,Orange,Polyester,13.64,In Stock,FALSE,15 days,3 days,FALSE,209
+Women Dresses,Dress,823,1009,4.3,776,2025-08-02,XL,White,Viscose,18.43,Only 1 Left,FALSE,15 days,7 days,FALSE,89
+Women Dresses,Dress,806,808,4.3,963,2025-08-02,XXL,Beige,Cotton,0.25,Only 1 Left,FALSE,15 days,3 days,FALSE,134
+Women Tops,T-Shirt,420,620,4.5,1048,2025-08-02,L,Brown,Viscose,32.26,In Stock,FALSE,15 days,5 days,FALSE,495
+Women Tops,T-Shirt,325,364,4,287,2025-08-02,S,Grey,Polyester,10.71,Back in Stock,FALSE,15 days,5 days,FALSE,199
+Women Tops,Tunic,371,403,4,783,2025-08-02,XL,Beige,Cotton,7.94,In Stock,FALSE,15 days,8 days,FALSE,311
+Women Tops,Tunic,516,518,4.5,371,2025-08-02,XL,White,Polyester,0.39,In Stock,FALSE,15 days,5 days,FALSE,117
+Women Tops,T-Shirt,299,441,4.4,1401,2025-08-02,S,Olive,Polyester,32.2,Only 1 Left,FALSE,15 days,8 days,FALSE,395
+Women Tops,T-Shirt,468,656,4.4,590,2025-08-02,L,Purple,Polyester,28.66,Limited Stock,FALSE,15 days,4 days,FALSE,278
+Women Tops,Tunic,455,605,4,1078,2025-08-02,XL,Brown,Cotton,24.79,Limited Stock,FALSE,15 days,4 days,FALSE,331
+Women Tops,T-Shirt,575,656,4.5,562,2025-08-02,3XL,Blue,Polyester,12.35,Limited Stock,FALSE,15 days,4 days,FALSE,478
+Women Tops,Blouse,514,603,4,853,2025-08-02,M,Purple,Cotton,14.76,Back in Stock,FALSE,15 days,6 days,FALSE,464
+Women Tops,Shirt,486,635,3.8,1146,2025-08-02,S,Black,Cotton Blend,23.46,In Stock,FALSE,15 days,6 days,FALSE,338
+Women Tops,T-Shirt,304,383,3.9,905,2025-08-02,3XL,Maroon,Cotton,20.63,Limited Stock,FALSE,15 days,8 days,FALSE,86
+Women Tops,T-Shirt,561,631,4.2,269,2025-08-02,M,Brown,Cotton,11.09,Few Left,FALSE,15 days,3 days,FALSE,75
+Women Tops,Casual Top,495,642,4.2,1162,2025-08-02,3XL,Olive,Viscose,22.9,Only 1 Left,FALSE,15 days,3 days,FALSE,469
+Women Jeans,Jeans,775,812,4.6,1979,2025-08-02,M,Pink,Cotton Blend,4.56,Only 1 Left,FALSE,15 days,7 days,FALSE,363
+Women Jeans,Jeans,989,1021,4.4,140,2025-08-02,L,Green,Cotton,3.13,Back in Stock,TRUE,15 days,7 days,FALSE,43
+Women Jeans,Jeans,839,993,4,824,2025-08-02,L,Brown,Cotton Blend,15.51,Few Left,FALSE,15 days,7 days,FALSE,222
+Women Jeans,Jeans,989,1049,4.3,312,2025-08-02,M,Purple,Polyester,5.72,In Stock,TRUE,15 days,8 days,FALSE,135
+Women Jeans,Jeans,1064,1188,4,1912,2025-08-02,XXL,Purple,Polyester,10.44,Limited Stock,FALSE,15 days,4 days,FALSE,70
+Women Jeans,Jeans,1207,1299,4,399,2025-08-02,S,Red,Polyester,7.08,Few Left,FALSE,15 days,7 days,FALSE,211
+Women Jeans,Jeans,1228,1268,4.6,1777,2025-08-02,M,Grey,Cotton Blend,3.15,Limited Stock,FALSE,15 days,4 days,FALSE,135
+Women Jeans,Jeans,800,913,4.3,870,2025-08-02,L,White,Viscose,12.38,Limited Stock,FALSE,15 days,7 days,FALSE,174
+Women Jeans,Jeans,919,1167,3.9,1288,2025-08-02,M,Yellow,Polyester,21.25,Only 1 Left,FALSE,15 days,7 days,FALSE,263
+Women Jeans,Jeans,1176,1371,3.9,754,2025-08-02,XL,Red,Cotton,14.22,Few Left,FALSE,15 days,3 days,FALSE,154
+Women Jeans,Jeans,1023,1175,4.1,1453,2025-08-02,L,Red,Cotton Blend,12.94,Few Left,FALSE,15 days,8 days,FALSE,6
+Women Jeans,Jeans,1189,1226,4.2,1922,2025-08-02,XS,Orange,Cotton Blend,3.02,Limited Stock,FALSE,15 days,6 days,FALSE,125
+Women Jeans,Jeans,804,889,4.3,1843,2025-08-02,XXL,Navy,Viscose,9.56,Back in Stock,FALSE,15 days,6 days,FALSE,499
+Men Tshirts,T-Shirt,469,769,3.4,8398,2025-08-02,L,Brown,Polyester,39.01,In Stock,FALSE,30 days,2 days,FALSE,274
+Men Tshirts,T-Shirt,578,1579,3.1,8934,2025-08-02,3XL,Red,Denim,63.39,Limited Stock,FALSE,30 days,3 days,FALSE,252
+Men Tshirts,T-Shirt,704,965,4.2,4743,2025-08-02,XXL,Blue,Rayon,27.05,Limited Stock,FALSE,30 days,1 days,FALSE,375
+Men Tshirts,T-Shirt,495,779,3.5,8798,2025-08-02,XL,Navy,Polyester,36.46,Back in Stock,TRUE,30 days,1 days,FALSE,346
+Men Tshirts,T-Shirt,324,373,3.4,9923,2025-08-02,L,Maroon,Rayon,13.14,Few Left,FALSE,30 days,3 days,FALSE,104
+Men Tshirts,T-Shirt,591,881,3.4,9466,2025-08-02,L,Navy,Cotton Blend,32.92,Few Left,FALSE,30 days,1 days,FALSE,385
+Men Tshirts,T-Shirt,730,1517,4.4,913,2025-08-02,L,Pink,Cotton Blend,51.88,Limited Stock,FALSE,30 days,4 days,FALSE,282
+Men Tshirts,T-Shirt,246,272,3.4,1181,2025-08-02,XL,Orange,Cotton,9.56,Back in Stock,FALSE,30 days,2 days,FALSE,270
+Men Tshirts,T-Shirt,475,1194,3.6,9254,2025-08-02,XS,Yellow,Spandex,60.22,Only 1 Left,FALSE,30 days,3 days,FALSE,88
+Men Tshirts,T-Shirt,451,790,4.3,8195,2025-08-02,S,Black,Spandex,42.91,Limited Stock,TRUE,30 days,3 days,FALSE,493
+Men Tshirts,T-Shirt,570,686,4.5,9307,2025-08-02,M,White,Cotton Blend,16.91,Only 1 Left,FALSE,30 days,3 days,FALSE,378
+Men Tshirts,T-Shirt,571,966,3.4,2702,2025-08-02,L,Maroon,Cotton Blend,40.89,Limited Stock,FALSE,30 days,1 days,FALSE,41
+Men Tshirts,T-Shirt,487,1329,3.4,4334,2025-08-02,M,Olive,Polyester,63.36,Back in Stock,FALSE,30 days,2 days,FALSE,264
+Men Tshirts,T-Shirt,794,950,3.9,4472,2025-08-02,M,Brown,Denim,16.42,Few Left,FALSE,30 days,1 days,FALSE,332
+Men Tshirts,T-Shirt,683,843,4.1,7638,2025-08-02,XL,Yellow,Spandex,18.98,In Stock,FALSE,30 days,1 days,FALSE,384
+Men Tshirts,T-Shirt,652,1545,3.5,1689,2025-08-02,XXL,Pink,Denim,57.8,Few Left,FALSE,30 days,4 days,TRUE,363
+Men Tshirts,T-Shirt,753,1185,3.1,5770,2025-08-02,S,Green,Denim,36.46,Few Left,FALSE,30 days,2 days,FALSE,122
+Men Tshirts,T-Shirt,245,261,3.1,8298,2025-08-02,3XL,Grey,Cotton,6.13,In Stock,FALSE,30 days,4 days,FALSE,465
+Men Tshirts,T-Shirt,577,734,3.5,1122,2025-08-02,XS,Purple,Cotton,21.39,Only 1 Left,FALSE,30 days,3 days,TRUE,347
+Men Tshirts,T-Shirt,239,368,3.1,110,2025-08-02,L,Navy,Cotton,35.05,Back in Stock,FALSE,30 days,4 days,FALSE,312
+Men Jeans,Jeans,1207,1530,3.8,6169,2025-08-02,XXL,Olive,Spandex,21.11,Few Left,FALSE,30 days,3 days,FALSE,89
+Men Jeans,Jeans,1456,1515,4.5,1188,2025-08-02,XL,Brown,Rayon,3.89,Few Left,TRUE,30 days,4 days,FALSE,469
+Men Jeans,Jeans,1776,2036,3.2,7239,2025-08-02,M,Yellow,Denim,12.77,Limited Stock,FALSE,30 days,3 days,FALSE,380
+Men Jeans,Jeans,900,1051,4,5879,2025-08-02,XS,Grey,Polyester,14.37,Back in Stock,FALSE,30 days,4 days,FALSE,358
+Men Jeans,Jeans,1277,1756,4.2,3559,2025-08-02,XL,Navy,Spandex,27.28,In Stock,FALSE,30 days,4 days,FALSE,476
+Men Jeans,Jeans,657,980,4.5,6324,2025-08-02,L,Navy,Rayon,32.96,Back in Stock,FALSE,30 days,3 days,FALSE,348
+Men Jeans,Jeans,2088,2249,3.3,9650,2025-08-02,M,Orange,Polyester,7.16,Only 1 Left,FALSE,30 days,1 days,FALSE,178
+Men Jeans,Jeans,662,910,3.4,1708,2025-08-02,3XL,Black,Rayon,27.25,In Stock,FALSE,30 days,1 days,FALSE,132
+Men Jeans,Jeans,1359,1664,3.5,1161,2025-08-02,M,Black,Cotton Blend,18.33,Few Left,FALSE,30 days,1 days,FALSE,387
+Men Jeans,Jeans,1785,2107,4,2256,2025-08-02,M,Beige,Denim,15.28,Limited Stock,FALSE,30 days,3 days,FALSE,460
+Men Jeans,Jeans,819,1045,3.5,6304,2025-08-02,L,Blue,Cotton Blend,21.63,Limited Stock,FALSE,30 days,1 days,FALSE,82
+Men Jeans,Jeans,1080,1545,3.1,2580,2025-08-02,M,Olive,Cotton Blend,30.1,Back in Stock,FALSE,30 days,2 days,FALSE,356
+Men Jeans,Jeans,1050,1166,3.7,1048,2025-08-02,3XL,Yellow,Spandex,9.95,Limited Stock,FALSE,30 days,2 days,FALSE,216
+Men Jeans,Jeans,948,1449,3.9,3396,2025-08-02,S,Pink,Polyester,34.58,Back in Stock,FALSE,30 days,2 days,FALSE,83
+Men Jeans,Jeans,2117,2326,4.3,8722,2025-08-02,XS,Navy,Polyester,8.99,Only 1 Left,FALSE,30 days,4 days,FALSE,253
+Men Jeans,Jeans,1537,1857,3.4,6442,2025-08-02,XL,Navy,Cotton,17.23,Back in Stock,FALSE,30 days,2 days,FALSE,413
+Men Jeans,Jeans,1378,1850,3.2,5352,2025-08-02,XS,Purple,Polyester,25.51,Only 1 Left,FALSE,30 days,4 days,FALSE,80
+Men Jeans,Jeans,724,775,3.6,2007,2025-08-02,S,Green,Polyester,6.58,Limited Stock,FALSE,30 days,1 days,FALSE,213
+Men Jeans,Jeans,1230,1857,3.4,2888,2025-08-02,L,Maroon,Cotton Blend,33.76,Limited Stock,FALSE,30 days,3 days,FALSE,110
+Men Jeans,Jeans,1036,1220,3.6,3319,2025-08-02,XS,White,Spandex,15.08,Few Left,FALSE,30 days,4 days,FALSE,22
+Men Shirts,Shirt,661,1064,3.1,3299,2025-08-02,L,Beige,Polyester,37.88,Back in Stock,TRUE,30 days,3 days,FALSE,126
+Men Shirts,Shirt,1340,1654,3.7,1691,2025-08-02,XXL,Black,Denim,18.98,Few Left,FALSE,30 days,4 days,FALSE,243
+Men Shirts,Shirt,1310,1491,4,3486,2025-08-02,XXL,Green,Polyester,12.14,In Stock,FALSE,30 days,2 days,FALSE,436
+Men Shirts,Shirt,560,693,3.2,3294,2025-08-02,L,Beige,Rayon,19.19,In Stock,FALSE,30 days,4 days,FALSE,402
+Men Shirts,Shirt,1306,1360,4.4,214,2025-08-02,XXL,Blue,Cotton,3.97,Back in Stock,FALSE,30 days,2 days,FALSE,494
+Men Shirts,Shirt,483,646,3.4,6969,2025-08-02,S,White,Polyester,25.23,Back in Stock,FALSE,30 days,2 days,FALSE,369
+Men Shirts,Shirt,870,1162,3.4,618,2025-08-02,M,Brown,Rayon,25.13,In Stock,TRUE,30 days,1 days,FALSE,448
+Men Shirts,Shirt,1104,1448,4.2,4317,2025-08-02,XXL,Navy,Polyester,23.76,Only 1 Left,FALSE,30 days,3 days,FALSE,3
+Men Shirts,Shirt,451,501,3.7,8520,2025-08-02,L,White,Rayon,9.98,In Stock,FALSE,30 days,4 days,FALSE,136
+Men Shirts,Shirt,1393,1450,3.7,1400,2025-08-02,XXL,Red,Cotton Blend,3.93,Few Left,FALSE,30 days,3 days,FALSE,240
+Men Shirts,Shirt,731,1058,3,7606,2025-08-02,L,Brown,Denim,30.91,Back in Stock,FALSE,30 days,3 days,FALSE,235
+Men Shirts,Shirt,1397,2897,3.7,9976,2025-08-02,3XL,Beige,Polyester,51.78,In Stock,FALSE,30 days,3 days,FALSE,404
+Men Shirts,Shirt,1046,1477,3.4,7283,2025-08-02,3XL,Navy,Spandex,29.18,Back in Stock,FALSE,30 days,1 days,FALSE,101
+Men Shirts,Shirt,855,877,3.2,7440,2025-08-02,L,White,Denim,2.51,Limited Stock,FALSE,30 days,3 days,FALSE,484
+Men Shirts,Shirt,557,748,3.9,444,2025-08-02,L,Olive,Cotton Blend,25.53,Only 1 Left,FALSE,30 days,4 days,FALSE,98
+Men Shirts,Shirt,689,1005,4.2,3044,2025-08-02,L,Olive,Cotton,31.44,Few Left,FALSE,30 days,4 days,FALSE,287
+Men Shirts,Shirt,588,880,3.4,5112,2025-08-02,S,Grey,Cotton,33.18,Few Left,FALSE,30 days,4 days,TRUE,102
+Men Shirts,Shirt,1423,2522,3.3,4746,2025-08-02,L,Beige,Cotton Blend,43.58,Only 1 Left,FALSE,30 days,4 days,FALSE,369
+Men Shirts,Shirt,1235,1505,4.4,9418,2025-08-02,M,Blue,Denim,17.94,In Stock,FALSE,30 days,2 days,FALSE,369
+Men Shirts,Shirt,481,799,3.4,4192,2025-08-02,XL,Purple,Rayon,39.8,Back in Stock,FALSE,30 days,4 days,FALSE,297
+Women Dresses,Dress,1516,1775,3.1,8738,2025-08-02,XXL,Pink,Polyester,14.59,Back in Stock,FALSE,30 days,2 days,FALSE,338
+Women Dresses,Dress,980,1182,3.7,6841,2025-08-02,XL,Yellow,Polyester,17.09,Few Left,TRUE,30 days,3 days,FALSE,60
+Women Dresses,Dress,1050,1491,3.1,4964,2025-08-02,XXL,Red,Polyester,29.58,Back in Stock,FALSE,30 days,3 days,FALSE,417
+Women Dresses,Dress,968,1430,4.5,6015,2025-08-02,S,Navy,Cotton,32.31,Limited Stock,FALSE,30 days,4 days,FALSE,96
+Women Dresses,Dress,1439,1868,4,7843,2025-08-02,M,Purple,Cotton,22.97,Back in Stock,FALSE,30 days,1 days,FALSE,406
+Women Dresses,Dress,1152,3037,3.1,1641,2025-08-02,XS,White,Denim,62.07,Only 1 Left,FALSE,30 days,3 days,FALSE,316
+Women Dresses,Dress,1400,1682,4.4,2768,2025-08-02,M,Orange,Denim,16.77,Back in Stock,FALSE,30 days,1 days,FALSE,287
+Women Dresses,Dress,1319,1645,3.1,47,2025-08-02,XS,Pink,Cotton,19.82,Only 1 Left,FALSE,30 days,4 days,FALSE,110
+Women Dresses,Dress,962,1043,3.7,8610,2025-08-02,M,Pink,Denim,7.77,In Stock,FALSE,30 days,3 days,FALSE,46
+Women Dresses,Dress,1485,3348,3.1,3310,2025-08-02,L,Green,Spandex,55.65,Back in Stock,FALSE,30 days,4 days,FALSE,146
+Women Dresses,Dress,1233,3074,3.8,6394,2025-08-02,3XL,Brown,Rayon,59.89,Back in Stock,FALSE,30 days,2 days,FALSE,476
+Women Dresses,Dress,1501,1677,3.4,5547,2025-08-02,XS,Pink,Polyester,10.49,In Stock,FALSE,30 days,3 days,FALSE,348
+Women Dresses,Dress,490,579,3.4,621,2025-08-02,3XL,Black,Rayon,15.37,Back in Stock,FALSE,30 days,3 days,FALSE,448
+Women Dresses,Dress,888,1171,4.2,9055,2025-08-02,3XL,Black,Rayon,24.17,Few Left,FALSE,30 days,1 days,FALSE,333
+Women Dresses,Dress,452,465,3.4,9833,2025-08-02,XS,Orange,Rayon,2.8,Few Left,TRUE,30 days,4 days,FALSE,360
+Women Dresses,Dress,1265,2343,4,908,2025-08-02,XL,Yellow,Rayon,46.01,Only 1 Left,FALSE,30 days,4 days,FALSE,103
+Women Dresses,Dress,1058,1392,3,6977,2025-08-02,M,Brown,Rayon,23.99,Back in Stock,FALSE,30 days,1 days,TRUE,55
+Women Dresses,Dress,895,925,4,3532,2025-08-02,XL,Yellow,Cotton,3.24,Few Left,FALSE,30 days,4 days,FALSE,111
+Women Dresses,Dress,562,902,3.9,4955,2025-08-02,L,Red,Spandex,37.69,Back in Stock,FALSE,30 days,2 days,FALSE,267
+Women Dresses,Dress,1023,1742,3.2,6976,2025-08-02,L,Navy,Denim,41.27,In Stock,FALSE,30 days,4 days,FALSE,76
+Women Tops,Crop Top,774,1031,3.8,2504,2025-08-02,XL,Purple,Polyester,24.93,Only 1 Left,FALSE,30 days,2 days,FALSE,427
+Women Tops,Casual Top,636,1068,3.7,1842,2025-08-02,XS,Brown,Spandex,40.45,Back in Stock,FALSE,30 days,3 days,FALSE,212
+Women Tops,Casual Top,464,788,4.3,6405,2025-08-02,XS,Grey,Denim,41.12,In Stock,FALSE,30 days,1 days,FALSE,191
+Women Tops,Tunic,893,1193,4.3,1190,2025-08-02,XL,Pink,Cotton,25.15,Limited Stock,FALSE,30 days,2 days,FALSE,182
+Women Tops,Blouse,501,1019,3.9,5018,2025-08-02,L,Beige,Cotton Blend,50.83,Back in Stock,FALSE,30 days,4 days,FALSE,56
+Women Tops,Shirt,564,980,3.2,7057,2025-08-02,3XL,Brown,Spandex,42.45,Back in Stock,FALSE,30 days,3 days,FALSE,435
+Women Tops,Tank Top,311,481,4.4,7413,2025-08-02,XS,Grey,Cotton Blend,35.34,In Stock,FALSE,30 days,1 days,FALSE,367
+Women Tops,Blouse,445,732,4,9622,2025-08-02,XXL,Pink,Spandex,39.21,Back in Stock,FALSE,30 days,3 days,FALSE,287
+Women Tops,Shirt,756,909,4.3,8149,2025-08-02,XXL,Black,Cotton,16.83,In Stock,FALSE,30 days,4 days,FALSE,496
+Women Tops,Blouse,350,391,4.5,5593,2025-08-02,L,Beige,Spandex,10.49,Back in Stock,FALSE,30 days,3 days,FALSE,494
+Women Tops,Blouse,889,2024,3.8,8713,2025-08-02,XL,Beige,Polyester,56.08,In Stock,FALSE,30 days,1 days,FALSE,48
+Women Tops,Crop Top,622,1023,4.4,8802,2025-08-02,XXL,White,Denim,39.2,Few Left,FALSE,30 days,3 days,TRUE,92
+Women Tops,Shirt,647,1484,3.6,7804,2025-08-02,XL,Red,Cotton,56.4,Back in Stock,TRUE,30 days,1 days,FALSE,195
+Women Tops,Casual Top,854,2271,3.3,7418,2025-08-02,S,Grey,Cotton Blend,62.4,Few Left,FALSE,30 days,2 days,FALSE,90
+Women Tops,T-Shirt,339,816,4.2,9228,2025-08-02,S,Beige,Cotton Blend,58.46,Back in Stock,FALSE,30 days,2 days,FALSE,253
+Women Tops,T-Shirt,364,433,3.5,4903,2025-08-02,M,Green,Rayon,15.94,Few Left,FALSE,30 days,4 days,FALSE,24
+Women Tops,Blouse,870,2446,3.1,7922,2025-08-02,S,Grey,Cotton,64.43,Back in Stock,FALSE,30 days,1 days,FALSE,329
+Women Tops,Tank Top,346,465,3.6,6986,2025-08-02,L,Navy,Spandex,25.59,In Stock,TRUE,30 days,2 days,FALSE,115
+Women Tops,Tunic,826,973,3.5,3577,2025-08-02,M,Olive,Spandex,15.11,Limited Stock,FALSE,30 days,4 days,TRUE,246
+Women Tops,Crop Top,796,1030,3.4,8272,2025-08-02,XXL,Navy,Spandex,22.72,Few Left,FALSE,30 days,4 days,FALSE,124
+Women Jeans,Jeans,1946,2968,3.3,5191,2025-08-02,3XL,Pink,Cotton,34.43,Only 1 Left,FALSE,30 days,3 days,FALSE,445
+Women Jeans,Jeans,1870,1898,4.2,128,2025-08-02,S,Green,Spandex,1.48,Only 1 Left,FALSE,30 days,1 days,FALSE,266
+Women Jeans,Jeans,729,880,4.1,1261,2025-08-02,S,Beige,Rayon,17.16,Few Left,TRUE,30 days,4 days,FALSE,466
+Women Jeans,Jeans,686,1050,4.2,7054,2025-08-02,XS,White,Denim,34.67,In Stock,FALSE,30 days,3 days,FALSE,353
+Women Jeans,Jeans,2083,3847,3.3,2142,2025-08-02,3XL,Yellow,Rayon,45.85,Back in Stock,FALSE,30 days,1 days,FALSE,186
+Women Jeans,Jeans,1430,1782,4.2,608,2025-08-02,S,White,Cotton,19.75,Limited Stock,FALSE,30 days,1 days,FALSE,407
+Women Jeans,Jeans,2176,2267,4.2,6141,2025-08-02,XS,Navy,Denim,4.01,Limited Stock,FALSE,30 days,3 days,FALSE,197
+Women Jeans,Jeans,1347,1364,4.5,6456,2025-08-02,XS,Yellow,Cotton,1.25,Few Left,FALSE,30 days,1 days,FALSE,61
+Women Jeans,Jeans,2293,2682,3.1,6146,2025-08-02,S,Maroon,Cotton Blend,14.5,In Stock,FALSE,30 days,1 days,FALSE,23
+Women Jeans,Jeans,2135,2758,3.1,1936,2025-08-02,S,Green,Cotton Blend,22.59,Only 1 Left,FALSE,30 days,3 days,FALSE,461
+Women Jeans,Jeans,2270,5327,4.5,51,2025-08-02,XXL,Maroon,Polyester,57.39,Only 1 Left,TRUE,30 days,3 days,FALSE,437
+Women Jeans,Jeans,2002,2167,4.3,5808,2025-08-02,XXL,Beige,Spandex,7.61,In Stock,FALSE,30 days,3 days,FALSE,261
+Women Jeans,Jeans,2163,2458,4.1,1087,2025-08-02,3XL,Yellow,Cotton,12,Back in Stock,FALSE,30 days,4 days,FALSE,210
+Women Jeans,Jeans,1475,1880,3.6,13,2025-08-02,XS,Purple,Polyester,21.54,Only 1 Left,FALSE,30 days,4 days,FALSE,283
+Women Jeans,Jeans,2189,2675,3.2,7722,2025-08-02,M,Beige,Cotton,18.17,Few Left,FALSE,30 days,4 days,FALSE,188
+Women Jeans,Jeans,1328,1628,4.3,9825,2025-08-02,3XL,Pink,Cotton Blend,18.43,Limited Stock,FALSE,30 days,3 days,FALSE,276
+Women Jeans,Jeans,1331,1685,3.9,7,2025-08-02,M,Orange,Polyester,21.01,Few Left,FALSE,30 days,4 days,FALSE,483
+Women Jeans,Jeans,816,978,3.7,686,2025-08-02,XL,White,Cotton,16.56,Limited Stock,FALSE,30 days,3 days,FALSE,186
+Women Jeans,Jeans,802,843,4,8096,2025-08-02,XL,Purple,Cotton,4.86,Limited Stock,FALSE,30 days,2 days,FALSE,144
+Women Jeans,Jeans,873,1083,3.7,9736,2025-08-02,XXL,Red,Cotton,19.39,In Stock,FALSE,30 days,3 days,FALSE,391
+Men Tshirts,T-Shirt,605,1003,4.1,33,2025-08-02,M,Khaki,Linen,39.68,2-3 pieces left,FALSE,10 days,1 days,FALSE,292
+Men Tshirts,T-Shirt,821,1126,4.2,3491,2025-08-02,XXL,Cream,Polyester,27.09,Limited Stock,FALSE,45 days,5 days,FALSE,499
+Men Tshirts,T-Shirt,742,878,4.7,3504,2025-08-02,XXL,Khaki,Lycra,15.49,2-3 pieces left,FALSE,10 days,3 days,FALSE,400
+Men Tshirts,T-Shirt,788,2012,4.8,7924,2025-08-02,XL,Orange,Cashmere,60.83,Pre-Order,FALSE,45 days,6 days,FALSE,393
+Men Tshirts,T-Shirt,579,1366,3.7,5262,2025-08-02,XXL,Mint,Silk,57.61,Limited Stock,FALSE,45 days,3 days,FALSE,341
+Men Tshirts,T-Shirt,582,656,4.1,1562,2025-08-02,XL,Coral,Linen,11.28,2-3 pieces left,FALSE,45 days,3 days,TRUE,248
+Men Tshirts,T-Shirt,516,568,4.5,2729,2025-08-02,S,Peach,Modal,9.15,In Stock,FALSE,45 days,6 days,FALSE,58
+Men Tshirts,T-Shirt,545,799,3.7,2102,2025-08-02,XXL,Mint,Cashmere,31.79,Limited Stock,FALSE,15 days,7 days,FALSE,347
+Men Tshirts,T-Shirt,556,754,3.6,4449,2025-08-02,3XL,Purple,Linen,26.26,Limited Stock,FALSE,15 days,1 days,FALSE,220
+Men Tshirts,T-Shirt,679,726,4.7,121,2025-08-02,M,Burgundy,Cotton Blend,6.47,Only 1 Left,FALSE,45 days,4 days,FALSE,39
+Men Tshirts,T-Shirt,639,715,4.4,6837,2025-08-02,S,White,Linen,10.63,Only 1 Left,FALSE,45 days,7 days,FALSE,495
+Men Tshirts,T-Shirt,481,693,4,225,2025-08-02,3XL,Black,Hemp,30.59,Only 1 Left,FALSE,10 days,3 days,FALSE,108
+Men Tshirts,T-Shirt,685,983,4.2,4291,2025-08-02,XXL,Coral,Silk,30.32,Only 1 Left,FALSE,10 days,5 days,FALSE,359
+Men Tshirts,T-Shirt,677,987,4.7,2629,2025-08-02,XXL,Yellow,Spandex,31.41,Back in Stock,FALSE,10 days,6 days,FALSE,85
+Men Jeans,Jeans,1711,1765,4.6,1869,2025-08-02,XL,Cream,Lycra,3.06,2-3 pieces left,FALSE,10 days,5 days,FALSE,106
+Men Jeans,Jeans,1238,1292,3.8,2993,2025-08-02,S,White,Lycra,4.18,2-3 pieces left,TRUE,30 days,2 days,FALSE,476
+Men Jeans,Jeans,1400,2404,4.2,4407,2025-08-02,3XL,White,Tencel,41.76,Limited Stock,FALSE,30 days,6 days,FALSE,152
+Men Jeans,Jeans,1558,1949,3.9,4135,2025-08-02,3XL,Olive,Jersey,20.06,Only 1 Left,FALSE,10 days,1 days,FALSE,317
+Men Jeans,Other,1356,4260,4,3178,2025-08-02,3XL,Cream,Cotton,68.17,Coming Soon,FALSE,30 days,6 days,FALSE,304
+Men Jeans,Jeans,1429,1684,3.6,1015,2025-08-02,XL,Peach,Wool,15.14,Limited Stock,FALSE,15 days,3 days,FALSE,424
+Men Jeans,Jeans,1736,1932,4.6,7250,2025-08-02,S,Lavender,Cashmere,10.14,Limited Stock,FALSE,15 days,5 days,TRUE,241
+Men Jeans,Jeans,1142,1397,4.5,6626,2025-08-02,S,Rose Gold,Rayon,18.25,Limited Stock,FALSE,15 days,3 days,FALSE,190
+Men Jeans,Other,1504,1743,3.6,6856,2025-08-02,XS,Red,Spandex,13.71,Back in Stock,FALSE,10 days,6 days,FALSE,495
+Men Jeans,Jeans,1159,1480,4.4,1275,2025-08-02,XS,Lavender,Bamboo,21.69,Coming Soon,FALSE,15 days,2 days,FALSE,344
+Men Jeans,Other,1721,3702,4.5,3315,2025-08-02,XXL,Sage,Silk,53.51,In Stock,FALSE,45 days,2 days,FALSE,279
+Men Jeans,Jeans,1188,1349,4.4,851,2025-08-02,XS,Green,Wool,11.93,Back in Stock,FALSE,30 days,3 days,FALSE,484
+Men Jeans,Jeans,1506,1887,4.5,4649,2025-08-02,L,Beige,Cotton,20.19,Coming Soon,FALSE,45 days,6 days,FALSE,404
+Men Jeans,Jeans,1451,4761,4.6,1827,2025-08-02,3XL,Pink,Spandex,69.52,Back in Stock,FALSE,10 days,3 days,FALSE,412
+Men Shirts,Shirt,1294,1648,3.7,3575,2025-08-02,M,Charcoal,Fleece,21.48,Limited Stock,FALSE,30 days,4 days,FALSE,320
+Men Shirts,Shirt,888,1058,4.2,6432,2025-08-02,XL,Peach,Cashmere,16.07,Back in Stock,FALSE,10 days,6 days,FALSE,454
+Men Shirts,Shirt,1144,1392,4.2,1424,2025-08-02,M,Burgundy,Tencel,17.82,Few Left,FALSE,10 days,5 days,FALSE,47
+Men Shirts,Shirt,818,954,4.1,1049,2025-08-02,XXL,Peach,Linen,14.26,Limited Stock,FALSE,30 days,1 days,FALSE,187
+Men Shirts,Shirt,973,1310,4.2,773,2025-08-02,M,Sage,Cotton,25.73,Only 1 Left,FALSE,15 days,5 days,FALSE,61
+Men Shirts,Shirt,1062,3293,3.5,4157,2025-08-02,XS,Coral,Jersey,67.75,Back in Stock,FALSE,45 days,7 days,FALSE,270
+Men Shirts,Shirt,1303,2552,4.1,6063,2025-08-02,XL,Maroon,Hemp,48.94,Only 1 Left,TRUE,10 days,6 days,FALSE,480
+Men Shirts,Shirt,1170,1374,4,980,2025-08-02,XS,Navy,Cashmere,14.85,In Stock,FALSE,30 days,2 days,FALSE,62
+Men Shirts,Shirt,1205,1552,3.9,5114,2025-08-02,XS,Red,Wool,22.36,Limited Stock,FALSE,10 days,5 days,FALSE,241
+Men Shirts,Shirt,949,1212,4.7,1922,2025-08-02,XXL,Orange,Modal,21.7,Only 1 Left,FALSE,10 days,5 days,FALSE,357
+Men Shirts,Shirt,1094,1356,4.8,4246,2025-08-02,3XL,Lavender,Spandex,19.32,Limited Stock,FALSE,30 days,1 days,FALSE,372
+Men Shirts,Shirt,1367,3790,3.8,4529,2025-08-02,3XL,Cream,Denim,63.93,Limited Stock,FALSE,10 days,6 days,FALSE,428
+Men Shirts,Shirt,1453,2451,4.7,7200,2025-08-02,L,White,Cotton,40.72,Coming Soon,FALSE,45 days,3 days,FALSE,186
+Men Shirts,Shirt,1828,2076,4.8,1887,2025-08-02,S,Beige,Fleece,11.95,2-3 pieces left,FALSE,10 days,4 days,FALSE,317
+Women Dresses,Dress,1547,1608,4.1,7450,2025-08-02,XS,Peach,Denim,3.79,Back in Stock,FALSE,10 days,7 days,FALSE,71
+Women Dresses,Dress,1346,1876,3.6,7754,2025-08-02,XL,Black,Wool,28.25,In Stock,FALSE,15 days,6 days,FALSE,385
+Women Dresses,Dress,1039,1182,4.7,331,2025-08-02,XS,White,Wool,12.1,Only 1 Left,FALSE,45 days,3 days,FALSE,454
+Women Dresses,Dress,1607,1810,4.2,4853,2025-08-02,M,Cream,Cotton,11.22,Coming Soon,FALSE,45 days,4 days,FALSE,488
+Women Dresses,Dress,1372,1593,4.3,3524,2025-08-02,M,Maroon,Hemp,13.87,Pre-Order,FALSE,30 days,1 days,FALSE,273
+Women Dresses,Dress,1473,1539,3.9,3102,2025-08-02,S,Teal,Tencel,4.29,Only 1 Left,TRUE,45 days,7 days,FALSE,461
+Women Dresses,Dress,1583,1695,4.2,2811,2025-08-02,M,Beige,Wool,6.61,Back in Stock,FALSE,45 days,3 days,FALSE,438
+Women Dresses,Dress,1593,1943,3.9,6287,2025-08-02,XL,Red,Modal,18.01,Few Left,FALSE,10 days,5 days,FALSE,411
+Women Dresses,Dress,1270,1434,4.3,7627,2025-08-02,L,Pink,Hemp,11.44,In Stock,FALSE,15 days,4 days,FALSE,4
+Women Dresses,Dress,1075,1078,4.7,7885,2025-08-02,L,Orange,Cotton,0.28,Pre-Order,FALSE,30 days,3 days,FALSE,213
+Women Dresses,Dress,1569,2835,3.6,2028,2025-08-02,XS,Mustard,Rayon,44.66,Back in Stock,FALSE,45 days,6 days,FALSE,144
+Women Dresses,Dress,1376,3946,3.9,1258,2025-08-02,XL,Mint,Cotton,65.13,Pre-Order,FALSE,10 days,4 days,FALSE,418
+Women Dresses,Dress,1492,1652,3.8,5645,2025-08-02,XXL,Rose Gold,Tencel,9.69,Pre-Order,FALSE,45 days,2 days,FALSE,58
+Women Dresses,Dress,1245,1690,3.7,7737,2025-08-02,XXL,Black,Linen,26.33,2-3 pieces left,FALSE,10 days,5 days,TRUE,29
+Women Tops,Blouse,963,2627,4.8,5922,2025-08-02,3XL,Blue,Wool,63.34,Few Left,FALSE,45 days,2 days,TRUE,479
+Women Tops,Crop Top,926,2867,3.6,3470,2025-08-02,XL,Green,Modal,67.7,Limited Stock,FALSE,45 days,2 days,FALSE,324
+Women Tops,Peplum Top,799,924,4,3491,2025-08-02,S,Maroon,Cotton Blend,13.53,Only 1 Left,FALSE,15 days,5 days,FALSE,453
+Women Tops,Halter Top,646,880,4.3,3560,2025-08-02,XXL,Green,Cotton,26.59,Pre-Order,FALSE,10 days,2 days,FALSE,207
+Women Tops,T-Shirt,643,928,4.7,1659,2025-08-02,XXL,Sage,Cotton,30.71,In Stock,FALSE,15 days,6 days,FALSE,72
+Women Tops,T-Shirt,882,1282,3.5,2372,2025-08-02,L,Coral,Rayon,31.2,Few Left,FALSE,15 days,5 days,FALSE,189
+Women Tops,Shirt,752,820,3.6,50,2025-08-02,XXL,Blue,Rayon,8.29,Back in Stock,FALSE,30 days,5 days,FALSE,223
+Women Tops,Blouse,774,994,3.6,3946,2025-08-02,M,White,Denim,22.13,Only 1 Left,FALSE,30 days,7 days,FALSE,486
+Women Tops,Blouse,803,830,4.4,4815,2025-08-02,XL,Lavender,Silk,3.25,Only 1 Left,FALSE,45 days,5 days,FALSE,465
+Women Tops,Halter Top,675,1031,4.8,789,2025-08-02,L,Rose Gold,Polyester,34.53,Pre-Order,FALSE,10 days,3 days,FALSE,227
+Women Tops,Casual Top,770,896,4.2,5130,2025-08-02,S,Teal,Modal,14.06,2-3 pieces left,FALSE,15 days,5 days,FALSE,31
+Women Tops,Halter Top,1099,1451,4.1,180,2025-08-02,S,Brown,Cashmere,24.26,Only 1 Left,FALSE,15 days,7 days,TRUE,169
+Women Tops,Casual Top,610,859,3.9,5336,2025-08-02,L,Olive,Lycra,28.99,In Stock,FALSE,15 days,1 days,FALSE,299
+Women Tops,Cold Shoulder Top,684,2070,4.3,7360,2025-08-02,XS,Blue,Cashmere,66.96,Coming Soon,FALSE,15 days,3 days,FALSE,58
+Women Jeans,Jeans,1380,1424,3.6,4855,2025-08-02,L,Mint,Viscose,3.09,Back in Stock,FALSE,45 days,3 days,FALSE,307
+Women Jeans,Jeans,1389,1716,4.7,2443,2025-08-02,XS,Blue,Hemp,19.06,Pre-Order,FALSE,30 days,5 days,FALSE,73
+Women Jeans,Jeans,1284,1871,3.5,7951,2025-08-02,XS,Black,Jersey,31.37,Coming Soon,FALSE,45 days,1 days,FALSE,67
+Women Jeans,Jeans,1585,3364,3.8,4606,2025-08-02,M,Maroon,Viscose,52.88,Few Left,FALSE,10 days,3 days,FALSE,265
+Women Jeans,Jeans,1780,1787,4.1,3668,2025-08-02,M,Green,Viscose,0.39,Limited Stock,FALSE,10 days,3 days,FALSE,397
+Women Jeans,Jeans,1824,1942,4.3,2045,2025-08-02,XXL,Purple,Polyester,6.08,Limited Stock,FALSE,30 days,5 days,FALSE,439
+Women Jeans,Jeans,2239,2489,4,2932,2025-08-02,3XL,White,Hemp,10.04,Few Left,FALSE,15 days,5 days,FALSE,151
+Women Jeans,Jeans,1599,1831,4,3689,2025-08-02,L,Sage,Polyester,12.67,2-3 pieces left,FALSE,30 days,7 days,FALSE,60
+Women Jeans,Jeans,1159,1463,4.6,4256,2025-08-02,M,Brown,Lycra,20.78,Few Left,FALSE,10 days,7 days,FALSE,379
+Women Jeans,Jeans,1391,1785,3.5,3887,2025-08-02,XL,Rose Gold,Hemp,22.07,Few Left,FALSE,45 days,7 days,FALSE,419
+Women Jeans,Jeans,1757,2009,4.3,7886,2025-08-02,S,Red,Bamboo,12.54,Back in Stock,FALSE,15 days,1 days,FALSE,181
+Women Jeans,Jeans,1307,1793,4.2,1616,2025-08-02,S,Rose Gold,Viscose,27.11,Only 1 Left,FALSE,10 days,2 days,FALSE,488
+Women Jeans,Jeans,1876,5544,3.6,3215,2025-08-02,M,Navy,Denim,66.16,Back in Stock,FALSE,45 days,7 days,FALSE,440
+Women Jeans,Jeans,1137,1479,4.2,1807,2025-08-02,L,Purple,Cotton,23.12,2-3 pieces left,FALSE,30 days,5 days,FALSE,449
+Men Hoodies,Hoodie,1679,1982,4.6,3596,2025-08-02,XS,Charcoal,Cashmere,15.29,Only 1 Left,FALSE,45 days,5 days,FALSE,25
+Men Hoodies,Hoodie,1554,1830,3.6,2454,2025-08-02,S,Beige,Wool,15.08,Back in Stock,FALSE,15 days,7 days,FALSE,294
+Men Hoodies,Hoodie,1369,1684,3.6,7437,2025-08-02,3XL,Green,Jersey,18.71,Back in Stock,FALSE,45 days,6 days,FALSE,441
+Men Hoodies,Hoodie,1435,2529,3.8,7417,2025-08-02,3XL,Turquoise,Wool,43.26,Only 1 Left,TRUE,45 days,5 days,FALSE,317
+Men Hoodies,Hoodie,1618,1819,4.8,7272,2025-08-02,XXL,Burgundy,Cashmere,11.05,Few Left,FALSE,30 days,5 days,FALSE,9
+Men Hoodies,Hoodie,1227,1244,4.7,2449,2025-08-02,XS,Black,Cotton Blend,1.37,Limited Stock,TRUE,45 days,2 days,FALSE,4
+Men Hoodies,Hoodie,1802,2105,4.8,4331,2025-08-02,M,Teal,Tencel,14.39,Coming Soon,FALSE,30 days,4 days,FALSE,293
+Men Hoodies,Hoodie,1282,1876,3.7,1771,2025-08-02,S,Maroon,Cotton,31.66,Back in Stock,FALSE,30 days,2 days,FALSE,90
+Men Hoodies,Hoodie,1706,1932,4.3,5334,2025-08-02,M,Rose Gold,Fleece,11.7,Coming Soon,FALSE,10 days,6 days,FALSE,211
+Men Hoodies,Hoodie,1506,1593,3.8,2321,2025-08-02,3XL,Navy,Denim,5.46,Back in Stock,FALSE,15 days,6 days,FALSE,258
+Men Hoodies,Hoodie,2835,8787,4.1,6138,2025-08-02,XXL,Charcoal,Tencel,67.74,In Stock,FALSE,45 days,3 days,FALSE,497
+Men Hoodies,Hoodie,2046,2367,3.8,2092,2025-08-02,S,White,Denim,13.56,Only 1 Left,FALSE,10 days,6 days,FALSE,39
+Men Hoodies,Hoodie,1515,1760,4,1834,2025-08-02,XXL,Blue,Wool,13.92,Few Left,TRUE,45 days,3 days,FALSE,49
+Men Hoodies,Hoodie,2040,2214,4.4,4555,2025-08-02,XS,Black,Wool,7.86,Coming Soon,FALSE,45 days,7 days,FALSE,253
+Women Hoodies,Hoodie,1211,1601,3.8,2308,2025-08-02,3XL,Olive,Polyester,24.36,Few Left,FALSE,10 days,2 days,FALSE,227
+Women Hoodies,Hoodie,1459,1683,4.8,4456,2025-08-02,XXL,Grey,Bamboo,13.31,Back in Stock,FALSE,10 days,1 days,FALSE,309
+Women Hoodies,Hoodie,1676,1694,4.2,4989,2025-08-02,3XL,Coral,Cotton Blend,1.06,2-3 pieces left,FALSE,10 days,2 days,FALSE,180
+Women Hoodies,Hoodie,1565,1772,4,7737,2025-08-02,M,Red,Jersey,11.68,Limited Stock,TRUE,30 days,5 days,FALSE,373
+Women Hoodies,Hoodie,1715,1878,4,4407,2025-08-02,XL,Navy,Silk,8.68,Few Left,FALSE,30 days,3 days,FALSE,12
+Women Hoodies,Hoodie,1919,2080,4.5,4981,2025-08-02,3XL,Burgundy,Denim,7.74,Coming Soon,FALSE,10 days,3 days,TRUE,445
+Women Hoodies,Hoodie,1471,1491,4.2,3753,2025-08-02,XS,Red,Viscose,1.34,Limited Stock,FALSE,10 days,1 days,FALSE,438
+Women Hoodies,Hoodie,1388,1783,3.6,6788,2025-08-02,XL,Purple,Tencel,22.15,Limited Stock,FALSE,45 days,3 days,TRUE,174
+Women Hoodies,Hoodie,1683,2608,3.9,2706,2025-08-02,3XL,Black,Jersey,35.47,Few Left,FALSE,10 days,5 days,FALSE,5
+Women Hoodies,Hoodie,1759,2014,3.9,2400,2025-08-02,M,Maroon,Hemp,12.66,Limited Stock,FALSE,10 days,3 days,FALSE,481
+Women Hoodies,Hoodie,1786,1940,4.3,6348,2025-08-02,M,Mustard,Tencel,7.94,Only 1 Left,FALSE,30 days,3 days,FALSE,377
+Women Hoodies,Hoodie,1383,2650,4.6,1827,2025-08-02,XS,Maroon,Cashmere,47.81,Limited Stock,FALSE,30 days,2 days,FALSE,289
+Women Hoodies,Hoodie,1212,1422,4.5,5059,2025-08-02,L,Grey,Tencel,14.77,Back in Stock,FALSE,15 days,4 days,FALSE,500
+Women Hoodies,Hoodie,1139,1445,3.6,1414,2025-08-02,XS,Cream,Tencel,21.18,Back in Stock,FALSE,45 days,1 days,FALSE,34
+Men Shorts,Shorts,947,1276,3.6,4960,2025-08-02,3XL,Purple,Wool,25.78,Few Left,FALSE,45 days,1 days,FALSE,267
+Men Shorts,Shorts,1063,1133,4.4,3843,2025-08-02,XXL,Peach,Jersey,6.18,2-3 pieces left,FALSE,45 days,5 days,FALSE,4
+Men Shorts,Shorts,718,789,4.1,4706,2025-08-02,M,Lavender,Hemp,9,Pre-Order,FALSE,45 days,4 days,FALSE,298
+Men Shorts,Shorts,884,1144,4.4,2787,2025-08-02,L,Maroon,Cashmere,22.73,Only 1 Left,FALSE,45 days,5 days,FALSE,93
+Men Shorts,Shorts,958,1959,4,1351,2025-08-02,S,Mint,Rayon,51.1,Only 1 Left,FALSE,10 days,5 days,FALSE,464
+Men Shorts,Shorts,649,902,4.5,1823,2025-08-02,XXL,Black,Hemp,28.05,Only 1 Left,FALSE,45 days,7 days,FALSE,138
+Men Shorts,Shorts,840,1794,3.7,7015,2025-08-02,XXL,Navy,Rayon,53.18,Back in Stock,FALSE,30 days,2 days,TRUE,281
+Men Shorts,Shorts,1064,3214,3.5,614,2025-08-02,L,Sage,Lycra,66.89,Coming Soon,FALSE,45 days,6 days,FALSE,72
+Men Shorts,Shorts,1115,1196,4.7,5804,2025-08-02,XS,Navy,Rayon,6.77,Few Left,FALSE,15 days,1 days,FALSE,430
+Men Shorts,Shorts,750,1282,3.9,2151,2025-08-02,XXL,Navy,Tencel,41.5,Only 1 Left,FALSE,10 days,6 days,FALSE,242
+Men Shorts,Shorts,716,951,4.4,3812,2025-08-02,XL,Burgundy,Modal,24.71,Few Left,FALSE,15 days,5 days,FALSE,424
+Men Shorts,Shorts,918,1286,4.5,2984,2025-08-02,XS,Coral,Fleece,28.62,Limited Stock,FALSE,30 days,6 days,FALSE,257
+Men Shorts,Shorts,685,1175,3.6,5054,2025-08-02,XXL,Black,Denim,41.7,Pre-Order,FALSE,15 days,3 days,FALSE,47
+Men Shorts,Shorts,668,935,3.8,5141,2025-08-02,L,Peach,Cotton,28.56,2-3 pieces left,FALSE,15 days,2 days,FALSE,20
+Women Skirts,Skirt,1229,1516,4,1949,2025-08-02,XS,Rose Gold,Spandex,18.93,2-3 pieces left,FALSE,15 days,5 days,FALSE,6
+Women Skirts,Skirt,1172,1634,3.9,6829,2025-08-02,XL,Sage,Linen,28.27,2-3 pieces left,FALSE,15 days,7 days,FALSE,472
+Women Skirts,Skirt,1219,2715,3.5,7674,2025-08-02,XL,Khaki,Silk,55.1,Few Left,FALSE,45 days,2 days,FALSE,226
+Women Skirts,Skirt,1066,1481,4.7,2881,2025-08-02,XL,Charcoal,Viscose,28.02,Pre-Order,FALSE,10 days,4 days,FALSE,94
+Women Skirts,Skirt,1068,1348,4.1,7831,2025-08-02,XL,Mustard,Hemp,20.77,Few Left,FALSE,15 days,2 days,FALSE,263
+Women Skirts,Skirt,1183,1563,3.5,2745,2025-08-02,3XL,Lavender,Fleece,24.31,In Stock,FALSE,45 days,1 days,FALSE,468
+Women Skirts,Skirt,1078,1101,4.4,3190,2025-08-02,XXL,Green,Denim,2.09,In Stock,FALSE,15 days,4 days,TRUE,435
+Women Skirts,Skirt,1019,1556,4,201,2025-08-02,3XL,Grey,Wool,34.51,Pre-Order,FALSE,45 days,2 days,FALSE,203
+Women Skirts,Skirt,803,920,3.6,6582,2025-08-02,3XL,Blue,Bamboo,12.72,Only 1 Left,FALSE,30 days,7 days,FALSE,165
+Women Skirts,Skirt,947,1996,4,3258,2025-08-02,S,Teal,Jersey,52.56,2-3 pieces left,FALSE,45 days,1 days,FALSE,62
+Women Skirts,Skirt,922,1609,4,7089,2025-08-02,XL,Khaki,Rayon,42.7,Back in Stock,FALSE,10 days,3 days,FALSE,30
+Women Skirts,Skirt,1254,2936,4.6,1259,2025-08-02,XS,Yellow,Linen,57.29,Few Left,FALSE,10 days,5 days,FALSE,463
+Women Skirts,Skirt,973,1360,3.8,769,2025-08-02,XXL,Lavender,Viscose,28.46,In Stock,FALSE,30 days,6 days,FALSE,233
+Women Skirts,Skirt,1215,1326,4,2042,2025-08-02,L,Sage,Jersey,8.37,Only 1 Left,TRUE,15 days,3 days,FALSE,432
+Men Tshirts,T-Shirt,714,1041,3.5,1346,2025-08-02,3XL,Beige,Spandex,31.41,2-3 pieces left,FALSE,15 days,6 days,FALSE,416
+Men Tshirts,T-Shirt,448,906,4,4408,2025-08-02,L,Brown,Tencel,50.55,Only 1 Left,FALSE,10 days,3 days,FALSE,406
+Men Tshirts,T-Shirt,408,548,4.2,3732,2025-08-02,XXL,Khaki,Denim,25.55,Back in Stock,FALSE,30 days,5 days,FALSE,155
+Men Tshirts,T-Shirt,488,1350,3.8,6487,2025-08-02,3XL,Pink,Jersey,63.85,Only 1 Left,FALSE,45 days,5 days,FALSE,195
+Men Tshirts,T-Shirt,494,857,3.6,5438,2025-08-02,XS,Olive,Viscose,42.36,In Stock,FALSE,10 days,3 days,FALSE,83
+Men Tshirts,T-Shirt,499,778,4,4712,2025-08-02,3XL,Yellow,Lycra,35.86,In Stock,FALSE,10 days,7 days,FALSE,273
+Men Tshirts,T-Shirt,519,695,4,6809,2025-08-02,L,Black,Jersey,25.32,Only 1 Left,FALSE,10 days,1 days,FALSE,264
+Men Tshirts,T-Shirt,449,550,3.5,3347,2025-08-02,3XL,Blue,Cotton Blend,18.36,Back in Stock,FALSE,10 days,4 days,FALSE,94
+Men Tshirts,T-Shirt,584,596,3.8,1999,2025-08-02,XS,Burgundy,Cotton Blend,2.01,2-3 pieces left,FALSE,45 days,3 days,FALSE,460
+Men Tshirts,T-Shirt,504,691,3.9,5899,2025-08-02,XL,Lavender,Spandex,27.06,Pre-Order,FALSE,45 days,5 days,FALSE,40
+Men Tshirts,T-Shirt,697,824,3.3,7134,2025-08-02,M,Pink,Silk,15.41,Coming Soon,FALSE,15 days,5 days,FALSE,251
+Men Tshirts,T-Shirt,548,736,3.2,3038,2025-08-02,XXL,Grey,Fleece,25.54,Back in Stock,FALSE,45 days,5 days,FALSE,455
+Men Tshirts,T-Shirt,421,602,3.6,3558,2025-08-02,S,White,Cashmere,30.07,2-3 pieces left,FALSE,15 days,2 days,FALSE,496
+Men Tshirts,T-Shirt,538,651,4.3,3557,2025-08-02,XS,Black,Fleece,17.36,Back in Stock,FALSE,30 days,4 days,FALSE,216
+Men Jeans,Other,895,1080,4.2,6054,2025-08-02,M,Grey,Fleece,17.13,Few Left,FALSE,30 days,4 days,TRUE,66
+Men Jeans,Jeans,1479,1877,3.9,5595,2025-08-02,3XL,Beige,Lycra,21.2,In Stock,FALSE,15 days,2 days,FALSE,198
+Men Jeans,Jeans,950,2701,3.7,5705,2025-08-02,XXL,Olive,Viscose,64.83,Back in Stock,FALSE,15 days,3 days,FALSE,45
+Men Jeans,Jeans,1015,1264,4,4203,2025-08-02,M,Turquoise,Linen,19.7,Limited Stock,FALSE,10 days,5 days,FALSE,158
+Men Jeans,Other,1201,1595,3.3,722,2025-08-02,L,Brown,Fleece,24.7,In Stock,FALSE,45 days,2 days,FALSE,2
+Men Jeans,Jeans,1728,1887,3.7,3927,2025-08-02,XL,Maroon,Fleece,8.43,Few Left,FALSE,15 days,4 days,FALSE,60
+Men Jeans,Jeans,1066,1174,4.2,3470,2025-08-02,XXL,Sage,Spandex,9.2,Only 1 Left,FALSE,45 days,7 days,FALSE,300
+Men Jeans,Jeans,1158,1507,3.6,4768,2025-08-02,XS,Teal,Viscose,23.16,Pre-Order,FALSE,30 days,6 days,FALSE,388
+Men Jeans,Jeans,904,1238,3.7,4613,2025-08-02,3XL,Navy,Cashmere,26.98,2-3 pieces left,FALSE,30 days,7 days,FALSE,399
+Men Jeans,Jeans,1652,2752,4.7,313,2025-08-02,L,Lavender,Modal,39.97,Pre-Order,FALSE,45 days,4 days,FALSE,413
+Men Jeans,Jeans,1034,1317,4.4,5434,2025-08-02,XXL,Purple,Hemp,21.49,Limited Stock,FALSE,10 days,4 days,FALSE,151
+Men Jeans,Other,1143,1327,3.3,1444,2025-08-02,L,Red,Viscose,13.87,Coming Soon,FALSE,15 days,4 days,FALSE,407
+Men Jeans,Jeans,1501,1850,3.9,4019,2025-08-02,S,Mustard,Rayon,18.86,Only 1 Left,FALSE,30 days,2 days,FALSE,219
+Men Jeans,Jeans,2086,2102,4.3,633,2025-08-02,S,Lavender,Cotton Blend,0.76,In Stock,FALSE,30 days,2 days,FALSE,244
+Men Shirts,Shirt,757,922,4.1,5456,2025-08-02,S,Mustard,Cotton Blend,17.9,Only 1 Left,FALSE,10 days,5 days,FALSE,156
+Men Shirts,Shirt,1484,1818,3.3,7251,2025-08-02,3XL,Mint,Linen,18.37,Pre-Order,FALSE,30 days,7 days,FALSE,416
+Men Shirts,Shirt,1305,2313,4.3,7886,2025-08-02,M,Turquoise,Wool,43.58,Coming Soon,FALSE,45 days,2 days,FALSE,155
+Men Shirts,Shirt,1164,1881,4.2,6614,2025-08-02,L,Mint,Viscose,38.12,Limited Stock,FALSE,45 days,4 days,FALSE,81
+Men Shirts,Shirt,1034,1142,3.6,2963,2025-08-02,XL,Coral,Silk,9.46,Only 1 Left,FALSE,45 days,5 days,FALSE,19
+Men Shirts,Shirt,1097,1145,4.3,2197,2025-08-02,XL,Mustard,Jersey,4.19,Limited Stock,FALSE,10 days,4 days,FALSE,419
+Men Shirts,Shirt,1177,1521,4.5,4419,2025-08-02,XL,Peach,Linen,22.62,Coming Soon,FALSE,30 days,3 days,FALSE,114
+Men Shirts,Shirt,1243,1321,3.8,5880,2025-08-02,XL,Olive,Rayon,5.9,Back in Stock,FALSE,45 days,7 days,FALSE,168
+Men Shirts,Shirt,949,1311,4.6,7371,2025-08-02,XS,Green,Viscose,27.61,2-3 pieces left,FALSE,10 days,1 days,FALSE,497
+Men Shirts,Shirt,1768,2394,4.4,3588,2025-08-02,XL,Beige,Jersey,26.15,Few Left,TRUE,30 days,4 days,FALSE,111
+Men Shirts,Shirt,1207,2864,3.5,2473,2025-08-02,M,Mustard,Hemp,57.86,Back in Stock,FALSE,30 days,6 days,FALSE,438
+Men Shirts,Shirt,750,824,3.5,3643,2025-08-02,XL,Brown,Tencel,8.98,Only 1 Left,FALSE,15 days,3 days,FALSE,57
+Men Shirts,Shirt,1334,3219,3.8,2753,2025-08-02,S,Blue,Viscose,58.56,Limited Stock,TRUE,15 days,2 days,FALSE,177
+Men Shirts,Shirt,735,1576,4.4,2383,2025-08-02,M,Rose Gold,Cotton,53.36,Only 1 Left,FALSE,45 days,7 days,FALSE,89
+Women Dresses,Dress,1250,3425,4.3,2564,2025-08-02,M,Navy,Jersey,63.5,Limited Stock,FALSE,15 days,1 days,FALSE,169
+Women Dresses,Dress,1046,1677,4.3,7859,2025-08-02,L,Turquoise,Viscose,37.63,Back in Stock,FALSE,45 days,7 days,FALSE,104
+Women Dresses,Dress,1845,1965,4.6,2400,2025-08-02,XXL,Beige,Viscose,6.11,Pre-Order,FALSE,45 days,7 days,FALSE,185
+Women Dresses,Dress,1379,1683,3.3,7070,2025-08-02,M,Mustard,Fleece,18.06,Few Left,FALSE,10 days,1 days,FALSE,403
+Women Dresses,Dress,1272,1623,4.6,6927,2025-08-02,L,Charcoal,Bamboo,21.63,Few Left,FALSE,30 days,2 days,FALSE,349
+Women Dresses,Dress,1121,1815,3.9,505,2025-08-02,XS,Cream,Lycra,38.24,Limited Stock,TRUE,45 days,3 days,TRUE,377
+Women Dresses,Dress,1969,2343,3.4,6236,2025-08-02,XXL,Charcoal,Cashmere,15.96,Limited Stock,FALSE,10 days,3 days,FALSE,61
+Women Dresses,Dress,1005,1785,4.4,2670,2025-08-02,XXL,Green,Fleece,43.7,Limited Stock,FALSE,30 days,4 days,FALSE,285
+Women Dresses,Dress,1164,1355,4.4,920,2025-08-02,L,Grey,Denim,14.1,Limited Stock,FALSE,45 days,6 days,FALSE,426
+Women Dresses,Dress,986,1279,3.9,1892,2025-08-02,S,Mint,Linen,22.91,Pre-Order,FALSE,15 days,5 days,FALSE,306
+Women Dresses,Dress,1199,2515,3.6,3743,2025-08-02,3XL,Coral,Fleece,52.33,In Stock,TRUE,45 days,3 days,FALSE,193
+Women Dresses,Dress,905,2230,3.6,7632,2025-08-02,XS,Mint,Silk,59.42,Coming Soon,FALSE,15 days,2 days,FALSE,429
+Women Dresses,Dress,906,921,3.7,1024,2025-08-02,M,Brown,Hemp,1.63,Pre-Order,FALSE,15 days,4 days,FALSE,79
+Women Dresses,Dress,987,2161,3.5,2629,2025-08-02,3XL,Sage,Rayon,54.33,Back in Stock,FALSE,10 days,2 days,FALSE,403
+Women Tops,Camisole,790,1011,3.9,2818,2025-08-02,M,Yellow,Modal,21.86,Back in Stock,FALSE,15 days,3 days,FALSE,317
+Women Tops,Peplum Top,640,810,3.4,5974,2025-08-02,XS,Black,Jersey,20.99,Coming Soon,FALSE,10 days,6 days,FALSE,491
+Women Tops,Camisole,752,800,4.4,3430,2025-08-02,3XL,Orange,Denim,6,In Stock,FALSE,45 days,3 days,FALSE,245
+Women Tops,Casual Top,685,862,3.8,6265,2025-08-02,XS,Orange,Spandex,20.53,Only 1 Left,FALSE,45 days,5 days,FALSE,216
+Women Tops,Blouse,759,1044,4.7,2855,2025-08-02,XL,White,Rayon,27.3,2-3 pieces left,FALSE,45 days,1 days,FALSE,498
+Women Tops,Crop Top,763,1275,4.3,7643,2025-08-02,3XL,Charcoal,Hemp,40.16,Back in Stock,FALSE,15 days,3 days,FALSE,248
+Women Tops,Crop Top,804,821,3.2,1850,2025-08-02,3XL,Green,Spandex,2.07,Pre-Order,FALSE,15 days,5 days,FALSE,43
+Women Tops,Casual Top,542,668,4.1,3251,2025-08-02,S,Orange,Cotton Blend,18.86,Only 1 Left,FALSE,30 days,2 days,FALSE,250
+Women Tops,Peasant Top,533,583,3.5,4026,2025-08-02,3XL,Peach,Fleece,8.58,Pre-Order,TRUE,30 days,7 days,FALSE,300
+Women Tops,Shirt,725,1033,3.2,7933,2025-08-02,3XL,Turquoise,Spandex,29.82,Few Left,FALSE,10 days,2 days,FALSE,36
+Women Tops,Shirt,821,849,4.4,7394,2025-08-02,XXL,Maroon,Wool,3.3,Pre-Order,FALSE,45 days,5 days,FALSE,338
+Women Tops,Camisole,736,1014,3.6,3033,2025-08-02,XXL,Burgundy,Linen,27.42,In Stock,FALSE,15 days,3 days,FALSE,407
+Women Tops,T-Shirt,508,526,4.2,2819,2025-08-02,XS,Khaki,Linen,3.42,Coming Soon,FALSE,45 days,4 days,FALSE,215
+Women Tops,Casual Top,610,825,3.5,6568,2025-08-02,XS,Burgundy,Denim,26.06,In Stock,FALSE,45 days,2 days,FALSE,108
+Women Jeans,Jeans,1378,1596,3.4,3710,2025-08-02,XL,Orange,Wool,13.66,2-3 pieces left,FALSE,15 days,4 days,FALSE,158
+Women Jeans,Jeans,1362,1762,3.4,865,2025-08-02,XS,Navy,Modal,22.7,Coming Soon,FALSE,15 days,7 days,FALSE,398
+Women Jeans,Jeans,1089,2875,3.9,4826,2025-08-02,M,Yellow,Spandex,62.12,Few Left,FALSE,15 days,2 days,FALSE,431
+Women Jeans,Other,1255,1438,4.1,6720,2025-08-02,XL,Peach,Lycra,12.73,In Stock,FALSE,45 days,2 days,TRUE,319
+Women Jeans,Jeans,1453,1778,4.1,3794,2025-08-02,3XL,Navy,Cashmere,18.28,Back in Stock,FALSE,45 days,1 days,FALSE,262
+Women Jeans,Jeans,1631,1658,4.2,4341,2025-08-02,3XL,Mint,Cashmere,1.63,Limited Stock,FALSE,15 days,1 days,FALSE,148
+Women Jeans,Jeans,1268,1485,3.9,7356,2025-08-02,XXL,Lavender,Jersey,14.61,Pre-Order,FALSE,10 days,3 days,TRUE,418
+Women Jeans,Jeans,1526,1553,3.3,3685,2025-08-02,L,Orange,Modal,1.74,Back in Stock,FALSE,45 days,7 days,FALSE,230
+Women Jeans,Jeans,2303,2378,4.2,3522,2025-08-02,XS,Teal,Hemp,3.15,Back in Stock,FALSE,45 days,2 days,FALSE,389
+Women Jeans,Jeans,979,1255,3.6,2259,2025-08-02,XL,Cream,Modal,21.99,Limited Stock,FALSE,15 days,4 days,FALSE,420
+Women Jeans,Jeans,1416,1478,3.9,3381,2025-08-02,XXL,Rose Gold,Bamboo,4.19,Coming Soon,FALSE,30 days,7 days,FALSE,322
+Women Jeans,Jeans,1274,1540,3.4,7266,2025-08-02,3XL,Charcoal,Viscose,17.27,Few Left,FALSE,10 days,1 days,FALSE,94
+Women Jeans,Jeans,1380,1755,3.8,524,2025-08-02,XL,Yellow,Denim,21.37,Back in Stock,FALSE,45 days,4 days,FALSE,201
+Women Jeans,Other,1629,1663,3.8,1930,2025-08-02,XXL,Green,Cotton Blend,2.04,Few Left,FALSE,10 days,1 days,FALSE,286
+Men Hoodies,Hoodie,1232,1441,3.3,7226,2025-08-02,XXL,Black,Jersey,14.5,Only 1 Left,FALSE,45 days,6 days,FALSE,320
+Men Hoodies,Hoodie,1546,1683,3.6,5799,2025-08-02,XS,Peach,Polyester,8.14,Only 1 Left,FALSE,45 days,5 days,TRUE,273
+Men Hoodies,Hoodie,1053,1396,3.3,648,2025-08-02,XS,Rose Gold,Fleece,24.57,Few Left,FALSE,45 days,6 days,FALSE,477
+Men Hoodies,Hoodie,1397,2850,4.1,2729,2025-08-02,S,Black,Polyester,50.98,In Stock,FALSE,45 days,6 days,FALSE,29
+Men Hoodies,Hoodie,1786,2134,3.8,3889,2025-08-02,M,Blue,Tencel,16.31,2-3 pieces left,FALSE,30 days,3 days,FALSE,230
+Men Hoodies,Hoodie,1273,1298,4.1,114,2025-08-02,XS,Cream,Linen,1.93,2-3 pieces left,TRUE,45 days,4 days,FALSE,167
+Men Hoodies,Hoodie,1633,1836,3.6,5261,2025-08-02,XXL,Charcoal,Cotton Blend,11.06,2-3 pieces left,FALSE,45 days,3 days,TRUE,224
+Men Hoodies,Hoodie,1181,1735,4.5,2232,2025-08-02,L,Red,Lycra,31.93,Only 1 Left,FALSE,15 days,2 days,TRUE,172
+Men Hoodies,Hoodie,1267,1426,4.7,1681,2025-08-02,M,Khaki,Spandex,11.15,Only 1 Left,FALSE,30 days,1 days,FALSE,374
+Men Hoodies,Hoodie,1140,1445,3.2,3963,2025-08-02,XXL,Cream,Rayon,21.11,2-3 pieces left,FALSE,30 days,2 days,FALSE,192
+Men Hoodies,Hoodie,1230,1373,3.3,6156,2025-08-02,XL,Peach,Spandex,10.42,2-3 pieces left,FALSE,45 days,6 days,FALSE,421
+Men Hoodies,Hoodie,1617,1994,4.1,515,2025-08-02,S,Khaki,Lycra,18.91,Only 1 Left,FALSE,30 days,6 days,FALSE,42
+Men Hoodies,Hoodie,1103,1442,4.1,97,2025-08-02,L,Khaki,Cotton Blend,23.51,Pre-Order,FALSE,10 days,5 days,FALSE,442
+Men Hoodies,Hoodie,1621,1736,4,7015,2025-08-02,XL,Charcoal,Bamboo,6.62,Pre-Order,FALSE,30 days,6 days,TRUE,398
+Women Hoodies,Hoodie,975,990,3.5,2253,2025-08-02,XXL,Pink,Jersey,1.52,2-3 pieces left,FALSE,45 days,6 days,FALSE,301
+Women Hoodies,Hoodie,1076,1468,3.9,493,2025-08-02,S,Pink,Lycra,26.7,Coming Soon,FALSE,10 days,1 days,FALSE,393
+Women Hoodies,Hoodie,1475,3218,3.3,4298,2025-08-02,3XL,Green,Fleece,54.16,In Stock,FALSE,10 days,7 days,FALSE,399
+Women Hoodies,Hoodie,1154,1299,4.4,3122,2025-08-02,L,Turquoise,Modal,11.16,Coming Soon,FALSE,15 days,6 days,FALSE,447
+Women Hoodies,Hoodie,1356,1721,4.4,3913,2025-08-02,S,Sage,Denim,21.21,Pre-Order,FALSE,45 days,2 days,FALSE,167
+Women Hoodies,Hoodie,1715,2033,4.4,7668,2025-08-02,3XL,Khaki,Jersey,15.64,Pre-Order,FALSE,45 days,6 days,FALSE,327
+Women Hoodies,Hoodie,1394,1662,4.1,973,2025-08-02,XXL,Peach,Viscose,16.13,2-3 pieces left,FALSE,30 days,4 days,FALSE,107
+Women Hoodies,Hoodie,1144,1396,4.6,2750,2025-08-02,M,White,Jersey,18.05,Limited Stock,FALSE,45 days,3 days,FALSE,10
+Women Hoodies,Hoodie,1463,1750,3.7,7514,2025-08-02,XS,Orange,Viscose,16.4,Limited Stock,FALSE,30 days,5 days,FALSE,32
+Women Hoodies,Hoodie,1478,2018,3.4,7758,2025-08-02,L,Green,Cotton Blend,26.76,In Stock,FALSE,10 days,3 days,FALSE,358
+Women Hoodies,Hoodie,1572,2207,3.2,7071,2025-08-02,S,Teal,Denim,28.77,2-3 pieces left,FALSE,10 days,5 days,FALSE,360
+Women Hoodies,Hoodie,994,1276,3.4,188,2025-08-02,3XL,Peach,Cotton Blend,22.1,Pre-Order,FALSE,30 days,4 days,FALSE,470
+Women Hoodies,Hoodie,2178,2323,3.2,3749,2025-08-02,L,Rose Gold,Hemp,6.24,Back in Stock,FALSE,10 days,6 days,FALSE,315
+Women Hoodies,Hoodie,1939,3547,4.4,5843,2025-08-02,XS,White,Linen,45.33,2-3 pieces left,FALSE,15 days,1 days,FALSE,18
+Men Shorts,Shorts,882,1594,4.3,1966,2025-08-02,S,Mustard,Denim,44.67,In Stock,FALSE,10 days,1 days,FALSE,50
+Men Shorts,Shorts,809,1290,4.5,7953,2025-08-02,M,Turquoise,Polyester,37.29,Few Left,FALSE,15 days,2 days,FALSE,386
+Men Shorts,Shorts,903,996,4.4,3037,2025-08-02,XL,Mint,Lycra,9.34,Coming Soon,FALSE,10 days,7 days,FALSE,41
+Men Shorts,Shorts,839,1207,3.9,2477,2025-08-02,XXL,Purple,Cotton Blend,30.49,Pre-Order,TRUE,45 days,1 days,FALSE,148
+Men Shorts,Shorts,931,2585,4.1,6079,2025-08-02,M,Teal,Cotton,63.98,Pre-Order,TRUE,30 days,7 days,FALSE,34
+Men Shorts,Shorts,900,1228,4.2,4589,2025-08-02,L,Lavender,Wool,26.71,Few Left,FALSE,15 days,2 days,TRUE,341
+Men Shorts,Shorts,1164,1361,4.4,4661,2025-08-02,XS,Teal,Jersey,14.47,Only 1 Left,FALSE,45 days,7 days,FALSE,396
+Men Shorts,Shorts,662,829,4.3,6383,2025-08-02,3XL,Mustard,Bamboo,20.14,Limited Stock,FALSE,45 days,3 days,FALSE,171
+Men Shorts,Shorts,825,2279,4.7,6413,2025-08-02,L,Navy,Modal,63.8,Few Left,FALSE,45 days,2 days,FALSE,456
+Men Shorts,Shorts,668,801,3.8,1739,2025-08-02,M,Purple,Polyester,16.6,2-3 pieces left,FALSE,10 days,7 days,FALSE,387
+Men Shorts,Shorts,661,741,3.8,5217,2025-08-02,M,Maroon,Tencel,10.8,Pre-Order,FALSE,10 days,1 days,FALSE,86
+Men Shorts,Shorts,911,964,3.2,7878,2025-08-02,S,Maroon,Viscose,5.5,Only 1 Left,FALSE,45 days,5 days,FALSE,275
+Men Shorts,Shorts,1371,1813,3.6,516,2025-08-02,M,Orange,Viscose,24.38,Limited Stock,FALSE,45 days,1 days,FALSE,260
+Men Shorts,Shorts,599,602,4.4,6424,2025-08-02,S,Peach,Cotton,0.5,In Stock,FALSE,30 days,6 days,FALSE,60
+Women Skirts,Skirt,1004,1315,3.6,6931,2025-08-02,XL,Black,Fleece,23.65,Limited Stock,FALSE,15 days,4 days,FALSE,333
+Women Skirts,Skirt,1067,1093,4.1,657,2025-08-02,XL,Mustard,Viscose,2.38,Pre-Order,FALSE,15 days,6 days,FALSE,380
+Women Skirts,Skirt,1099,1317,4.7,2153,2025-08-02,L,Orange,Spandex,16.55,In Stock,TRUE,45 days,1 days,FALSE,56
+Women Skirts,Skirt,925,942,3.6,7499,2025-08-02,XL,Mint,Jersey,1.8,Only 1 Left,FALSE,30 days,2 days,FALSE,20
+Women Skirts,Skirt,1102,1130,3.9,6659,2025-08-02,XS,Beige,Cotton,2.48,Few Left,FALSE,30 days,7 days,FALSE,174
+Women Skirts,Skirt,1114,1306,4.2,3590,2025-08-02,S,Orange,Bamboo,14.7,In Stock,FALSE,15 days,4 days,FALSE,488
+Women Skirts,Skirt,864,1328,4.2,3628,2025-08-02,XL,Charcoal,Silk,34.94,Few Left,FALSE,30 days,6 days,FALSE,24
+Women Skirts,Skirt,710,717,3.5,4397,2025-08-02,XS,Olive,Denim,0.98,Pre-Order,FALSE,15 days,5 days,FALSE,450
+Women Skirts,Skirt,730,1063,4.6,2934,2025-08-02,3XL,Beige,Spandex,31.33,Limited Stock,FALSE,30 days,4 days,FALSE,467
+Women Skirts,Skirt,849,1439,4.2,5799,2025-08-02,S,Charcoal,Bamboo,41,In Stock,FALSE,10 days,3 days,FALSE,7
+Women Skirts,Skirt,720,972,3.6,3733,2025-08-02,3XL,Lavender,Tencel,25.93,2-3 pieces left,FALSE,30 days,7 days,FALSE,476
+Women Skirts,Skirt,942,1315,3.4,7828,2025-08-02,XS,Mustard,Silk,28.37,2-3 pieces left,FALSE,45 days,7 days,FALSE,342
+Women Skirts,Skirt,875,881,4.6,7965,2025-08-02,XXL,Black,Lycra,0.68,Coming Soon,FALSE,45 days,3 days,FALSE,477
+Women Skirts,Skirt,806,2288,4.4,5041,2025-08-02,XL,Turquoise,Modal,64.77,Coming Soon,FALSE,15 days,5 days,FALSE,196
+Men Tshirts,T-Shirt,363,584,4.1,7282,2025-08-02,M,Charcoal,Fleece,37.84,Back in Stock,FALSE,10 days,2 days,FALSE,198
+Men Tshirts,T-Shirt,422,606,4.1,4166,2025-08-02,L,Rose Gold,Bamboo,30.36,Few Left,FALSE,10 days,6 days,FALSE,315
+Men Tshirts,T-Shirt,349,457,4.5,3101,2025-08-02,L,Orange,Polyester,23.63,Only 1 Left,FALSE,45 days,6 days,FALSE,474
+Men Tshirts,T-Shirt,415,666,4,5024,2025-08-02,L,Sage,Linen,37.69,Pre-Order,FALSE,45 days,2 days,FALSE,423
+Men Tshirts,T-Shirt,730,808,4.4,4943,2025-08-02,XS,Black,Silk,9.65,Pre-Order,FALSE,45 days,2 days,FALSE,215
+Men Tshirts,T-Shirt,510,1152,4.4,6598,2025-08-02,3XL,Rose Gold,Fleece,55.73,Coming Soon,FALSE,10 days,4 days,FALSE,379
+Men Tshirts,T-Shirt,479,812,4.2,3839,2025-08-02,L,Sage,Rayon,41.01,Back in Stock,FALSE,15 days,5 days,FALSE,297
+Men Tshirts,T-Shirt,444,601,4.4,5936,2025-08-02,M,Purple,Spandex,26.12,Back in Stock,FALSE,30 days,4 days,FALSE,145
+Men Tshirts,T-Shirt,411,799,3.9,2082,2025-08-02,M,Brown,Cashmere,48.56,In Stock,TRUE,10 days,5 days,FALSE,411
+Men Tshirts,T-Shirt,264,781,4.5,799,2025-08-02,M,Red,Fleece,66.2,Few Left,FALSE,10 days,7 days,FALSE,135
+Men Tshirts,T-Shirt,481,582,4.5,2525,2025-08-02,3XL,Teal,Viscose,17.35,Only 1 Left,FALSE,30 days,7 days,FALSE,247
+Men Tshirts,T-Shirt,363,411,4.6,779,2025-08-02,XL,Green,Wool,11.68,Limited Stock,FALSE,45 days,4 days,FALSE,311
+Men Tshirts,T-Shirt,352,622,4.5,241,2025-08-02,3XL,Pink,Jersey,43.41,In Stock,FALSE,10 days,6 days,FALSE,6
+Men Tshirts,T-Shirt,418,648,4.3,7551,2025-08-02,XS,Coral,Polyester,35.49,2-3 pieces left,FALSE,30 days,4 days,FALSE,11
+Men Jeans,Jeans,1027,1285,4.3,5069,2025-08-02,3XL,Black,Polyester,20.08,In Stock,FALSE,15 days,4 days,FALSE,483
+Men Jeans,Jeans,1364,3477,3.8,7044,2025-08-02,S,Teal,Lycra,60.77,Pre-Order,FALSE,45 days,3 days,TRUE,332
+Men Jeans,Jeans,1255,1444,4.6,1158,2025-08-02,XXL,Mustard,Spandex,13.09,Only 1 Left,FALSE,30 days,7 days,FALSE,487
+Men Jeans,Jeans,1975,2317,4.3,7160,2025-08-02,M,Purple,Silk,14.76,Back in Stock,FALSE,10 days,2 days,FALSE,322
+Men Jeans,Jeans,1048,1393,3.9,3912,2025-08-02,XL,Peach,Polyester,24.77,2-3 pieces left,FALSE,10 days,4 days,FALSE,425
+Men Jeans,Jeans,1218,1684,4.3,2648,2025-08-02,XXL,Cream,Denim,27.67,Few Left,FALSE,45 days,4 days,FALSE,333
+Men Jeans,Jeans,1375,1693,3.8,5005,2025-08-02,S,Lavender,Jersey,18.78,Few Left,FALSE,30 days,1 days,FALSE,41
+Men Jeans,Jeans,1192,1435,3.8,6081,2025-08-02,XXL,Peach,Silk,16.93,Coming Soon,FALSE,45 days,2 days,FALSE,193
+Men Jeans,Other,1585,2544,4.4,7829,2025-08-02,S,Brown,Hemp,37.7,In Stock,FALSE,10 days,7 days,FALSE,329
+Men Jeans,Jeans,1315,1501,4.3,7804,2025-08-02,3XL,Pink,Lycra,12.39,Coming Soon,FALSE,10 days,6 days,FALSE,82
+Men Jeans,Jeans,1073,1090,4.3,6568,2025-08-02,M,Navy,Wool,1.56,In Stock,FALSE,45 days,2 days,FALSE,248
+Men Jeans,Jeans,1259,1506,4.1,4500,2025-08-02,L,Purple,Silk,16.4,Coming Soon,FALSE,15 days,4 days,FALSE,101
+Men Jeans,Jeans,1297,1390,3.9,7647,2025-08-02,M,Navy,Tencel,6.69,Few Left,FALSE,15 days,7 days,FALSE,308
+Men Jeans,Jeans,1275,1396,4.4,3437,2025-08-02,M,Mustard,Tencel,8.67,Few Left,FALSE,15 days,2 days,FALSE,318
+Men Shirts,Shirt,872,1206,4.1,5459,2025-08-02,XL,Brown,Linen,27.69,In Stock,FALSE,45 days,3 days,FALSE,157
+Men Shirts,Shirt,627,655,4.5,1864,2025-08-02,XS,Sage,Lycra,4.27,Only 1 Left,FALSE,10 days,6 days,FALSE,480
+Men Shirts,Shirt,960,1077,4.5,1480,2025-08-02,S,Mint,Modal,10.86,Few Left,FALSE,10 days,1 days,FALSE,208
+Men Shirts,Shirt,843,1122,4,1039,2025-08-02,3XL,Charcoal,Viscose,24.87,Only 1 Left,FALSE,15 days,2 days,FALSE,56
+Men Shirts,Shirt,812,2366,4,6420,2025-08-02,XXL,Red,Cashmere,65.68,Few Left,FALSE,45 days,4 days,FALSE,292
+Men Shirts,Shirt,909,1107,4.4,7751,2025-08-02,L,Purple,Tencel,17.89,2-3 pieces left,FALSE,30 days,2 days,FALSE,108
+Men Shirts,Shirt,525,1025,4,1435,2025-08-02,XS,Lavender,Cashmere,48.78,Limited Stock,FALSE,30 days,2 days,FALSE,450
+Men Shirts,Shirt,560,1382,4.4,4459,2025-08-02,M,Maroon,Denim,59.48,Back in Stock,FALSE,30 days,7 days,FALSE,107
+Men Shirts,Shirt,1191,1495,3.8,639,2025-08-02,XL,Navy,Tencel,20.33,Coming Soon,FALSE,15 days,5 days,FALSE,352
+Men Shirts,Shirt,615,908,4,5704,2025-08-02,M,Teal,Hemp,32.27,Few Left,FALSE,45 days,7 days,FALSE,250
+Men Shirts,Shirt,652,1016,4.2,7997,2025-08-02,S,White,Cotton,35.83,2-3 pieces left,FALSE,45 days,7 days,FALSE,301
+Men Shirts,Shirt,942,1702,4,475,2025-08-02,L,Green,Fleece,44.65,Back in Stock,FALSE,45 days,3 days,FALSE,340
+Men Shirts,Shirt,827,969,4.4,4323,2025-08-02,3XL,Pink,Cotton,14.65,Limited Stock,TRUE,15 days,1 days,FALSE,404
+Men Shirts,Shirt,767,894,4.3,6736,2025-08-02,XXL,Peach,Silk,14.21,Few Left,FALSE,15 days,7 days,FALSE,201
+Women Dresses,Dress,690,913,4.1,5721,2025-08-02,M,Grey,Fleece,24.42,2-3 pieces left,FALSE,10 days,7 days,FALSE,24
+Women Dresses,Dress,766,1147,4.4,1857,2025-08-02,3XL,Teal,Modal,33.22,Pre-Order,FALSE,30 days,5 days,FALSE,115
+Women Dresses,Dress,883,1103,3.9,3931,2025-08-02,S,Khaki,Lycra,19.95,Only 1 Left,FALSE,15 days,5 days,FALSE,166
+Women Dresses,Dress,865,884,4.4,4397,2025-08-02,M,Green,Jersey,2.15,Back in Stock,FALSE,10 days,1 days,TRUE,67
+Women Dresses,Dress,1448,2251,4.3,7019,2025-08-02,XXL,Cream,Linen,35.67,Limited Stock,FALSE,45 days,7 days,FALSE,212
+Women Dresses,Dress,553,896,4.5,4332,2025-08-02,XXL,Blue,Spandex,38.28,Pre-Order,FALSE,15 days,6 days,FALSE,226
+Women Dresses,Dress,814,1187,4,3130,2025-08-02,L,Grey,Cotton,31.42,In Stock,FALSE,45 days,3 days,FALSE,308
+Women Dresses,Dress,823,1046,4.3,5129,2025-08-02,L,Mint,Polyester,21.32,Coming Soon,FALSE,10 days,4 days,FALSE,87
+Women Dresses,Dress,484,861,4.6,3654,2025-08-02,M,Peach,Linen,43.79,Only 1 Left,FALSE,10 days,4 days,FALSE,127
+Women Dresses,Dress,907,1175,4.4,4730,2025-08-02,M,Pink,Cashmere,22.81,Back in Stock,FALSE,15 days,6 days,FALSE,122
+Women Dresses,Dress,1030,2984,4.6,6046,2025-08-02,3XL,Cream,Polyester,65.48,Limited Stock,FALSE,30 days,5 days,FALSE,282
+Women Dresses,Dress,1066,1437,4.1,6983,2025-08-02,XL,Blue,Cotton Blend,25.82,Coming Soon,FALSE,15 days,6 days,FALSE,166
+Women Dresses,Dress,713,1008,4.4,7809,2025-08-02,3XL,Teal,Wool,29.27,Few Left,FALSE,10 days,3 days,TRUE,143
+Women Dresses,Dress,821,864,4,7842,2025-08-02,3XL,Mustard,Jersey,4.98,Only 1 Left,TRUE,30 days,2 days,FALSE,118
+Women Tops,Crop Top,469,707,4,1230,2025-08-02,XS,Blue,Polyester,33.66,Only 1 Left,FALSE,10 days,3 days,FALSE,436
+Women Tops,Crop Top,319,671,3.8,2662,2025-08-02,XS,Brown,Cotton,52.46,Only 1 Left,FALSE,10 days,3 days,FALSE,326
+Women Tops,Crop Top,338,647,4,4136,2025-08-02,XL,Green,Hemp,47.76,Back in Stock,FALSE,45 days,6 days,FALSE,192
+Women Tops,T-Shirt,561,936,3.9,1925,2025-08-02,XXL,Peach,Denim,40.06,Limited Stock,FALSE,45 days,7 days,FALSE,329
+Women Tops,Peasant Top,339,656,3.9,419,2025-08-02,M,Mint,Bamboo,48.32,Coming Soon,FALSE,10 days,4 days,FALSE,489
+Women Tops,Tank Top,583,832,4.4,5582,2025-08-02,M,Maroon,Jersey,29.93,2-3 pieces left,FALSE,30 days,5 days,FALSE,292
+Women Tops,Peplum Top,424,472,4.1,3305,2025-08-02,S,Yellow,Cotton Blend,10.17,Few Left,FALSE,15 days,5 days,FALSE,165
+Women Tops,Cold Shoulder Top,477,636,4.6,3988,2025-08-02,L,Mint,Bamboo,25,Only 1 Left,FALSE,45 days,7 days,FALSE,168
+Women Tops,T-Shirt,717,1091,4.4,349,2025-08-02,S,Grey,Cashmere,34.28,Pre-Order,FALSE,45 days,5 days,FALSE,375
+Women Tops,Tank Top,600,757,4,7245,2025-08-02,L,Mint,Cotton,20.74,Coming Soon,FALSE,45 days,3 days,FALSE,282
+Women Tops,Crop Top,620,851,3.9,2674,2025-08-02,XS,Burgundy,Hemp,27.14,Pre-Order,FALSE,30 days,2 days,FALSE,189
+Women Tops,Halter Top,561,893,4.4,458,2025-08-02,XL,Mint,Polyester,37.18,In Stock,TRUE,15 days,1 days,TRUE,268
+Women Tops,Casual Top,813,943,4.3,5408,2025-08-02,XL,Brown,Tencel,13.79,Few Left,FALSE,30 days,1 days,FALSE,220
+Women Tops,T-Shirt,516,744,3.8,7058,2025-08-02,3XL,Green,Jersey,30.65,Only 1 Left,FALSE,10 days,7 days,FALSE,285
+Women Jeans,Other,935,1492,3.9,4509,2025-08-02,M,Sage,Modal,37.33,2-3 pieces left,FALSE,15 days,7 days,FALSE,465
+Women Jeans,Jeans,1174,2012,3.8,1260,2025-08-02,M,Rose Gold,Fleece,41.65,2-3 pieces left,FALSE,10 days,6 days,FALSE,20
+Women Jeans,Jeans,995,1580,4,3423,2025-08-02,XS,Turquoise,Linen,37.03,2-3 pieces left,FALSE,30 days,2 days,FALSE,237
+Women Jeans,Jeans,1271,1295,3.9,532,2025-08-02,M,Peach,Bamboo,1.85,Coming Soon,FALSE,45 days,6 days,FALSE,322
+Women Jeans,Jeans,955,1086,3.8,3080,2025-08-02,L,White,Rayon,12.06,In Stock,FALSE,15 days,5 days,FALSE,348
+Women Jeans,Jeans,853,983,4.3,1389,2025-08-02,M,White,Jersey,13.22,Coming Soon,FALSE,30 days,4 days,FALSE,385
+Women Jeans,Jeans,917,1257,4,2608,2025-08-02,S,Charcoal,Modal,27.05,Only 1 Left,FALSE,30 days,4 days,FALSE,402
+Women Jeans,Jeans,1436,1602,4.4,2828,2025-08-02,XL,Brown,Polyester,10.36,2-3 pieces left,FALSE,30 days,5 days,FALSE,250
+Women Jeans,Jeans,1201,1356,4.4,6624,2025-08-02,3XL,Charcoal,Lycra,11.43,Limited Stock,FALSE,15 days,7 days,FALSE,422
+Women Jeans,Jeans,1072,1450,4.1,135,2025-08-02,L,Cream,Cotton Blend,26.07,Back in Stock,FALSE,45 days,4 days,FALSE,334
+Women Jeans,Jeans,1385,4250,4.2,5945,2025-08-02,L,White,Fleece,67.41,Pre-Order,FALSE,10 days,6 days,FALSE,316
+Women Jeans,Other,1429,1592,4,3599,2025-08-02,M,Teal,Denim,10.24,Limited Stock,FALSE,15 days,3 days,FALSE,43
+Women Jeans,Jeans,1403,1446,4.4,2738,2025-08-02,XS,Khaki,Spandex,2.97,Pre-Order,FALSE,15 days,6 days,FALSE,258
+Women Jeans,Jeans,1004,1183,4.6,1854,2025-08-02,XXL,Beige,Modal,15.13,Few Left,FALSE,30 days,1 days,TRUE,76
+Men Hoodies,Hoodie,1114,2206,4.5,1659,2025-08-02,XL,Mustard,Viscose,49.5,In Stock,FALSE,15 days,2 days,FALSE,55
+Men Hoodies,Hoodie,1636,3230,3.9,5317,2025-08-02,XXL,Grey,Cashmere,49.35,Coming Soon,FALSE,30 days,4 days,FALSE,30
+Men Hoodies,Hoodie,1197,1407,4.5,5978,2025-08-02,L,Orange,Wool,14.93,Limited Stock,FALSE,15 days,5 days,FALSE,116
+Men Hoodies,Hoodie,1289,1384,4.2,1167,2025-08-02,XL,Cream,Viscose,6.86,In Stock,FALSE,15 days,2 days,FALSE,101
+Men Hoodies,Hoodie,1137,1378,4.2,1919,2025-08-02,M,Pink,Bamboo,17.49,Limited Stock,TRUE,10 days,7 days,FALSE,300
+Men Hoodies,Hoodie,816,1154,3.8,1550,2025-08-02,3XL,Cream,Denim,29.29,Coming Soon,TRUE,10 days,7 days,TRUE,420
+Men Hoodies,Hoodie,976,1256,4.2,503,2025-08-02,L,Brown,Rayon,22.29,Only 1 Left,FALSE,30 days,7 days,FALSE,212
+Men Hoodies,Hoodie,1135,1864,4,7320,2025-08-02,XL,Charcoal,Tencel,39.11,Coming Soon,FALSE,10 days,7 days,FALSE,332
+Men Hoodies,Hoodie,760,953,3.8,5388,2025-08-02,3XL,Burgundy,Jersey,20.25,Few Left,FALSE,45 days,6 days,FALSE,215
+Men Hoodies,Hoodie,1483,1498,4.3,2037,2025-08-02,XXL,Lavender,Wool,1,Back in Stock,FALSE,15 days,4 days,FALSE,176
+Men Hoodies,Hoodie,1546,1602,4.1,383,2025-08-02,3XL,Orange,Modal,3.5,Few Left,FALSE,15 days,3 days,FALSE,110
+Men Hoodies,Hoodie,1030,1233,4.5,109,2025-08-02,M,Charcoal,Polyester,16.46,Coming Soon,FALSE,15 days,4 days,FALSE,418
+Men Hoodies,Hoodie,916,1049,4.6,4823,2025-08-02,M,Blue,Cotton Blend,12.68,In Stock,FALSE,15 days,2 days,FALSE,444
+Men Hoodies,Hoodie,1769,2066,4.3,1781,2025-08-02,3XL,Lavender,Cashmere,14.38,Coming Soon,FALSE,30 days,7 days,FALSE,110
+Women Hoodies,Hoodie,1530,1722,3.8,4470,2025-08-02,L,Red,Lycra,11.15,Few Left,FALSE,10 days,2 days,FALSE,157
+Women Hoodies,Hoodie,1552,1813,4.4,2635,2025-08-02,M,Turquoise,Tencel,14.4,Coming Soon,FALSE,30 days,7 days,FALSE,408
+Women Hoodies,Hoodie,1097,1925,3.9,4485,2025-08-02,XXL,Turquoise,Cotton,43.01,Limited Stock,FALSE,10 days,2 days,FALSE,131
+Women Hoodies,Hoodie,1368,1420,4.5,5902,2025-08-02,3XL,Cream,Viscose,3.66,Few Left,FALSE,10 days,3 days,FALSE,359
+Women Hoodies,Hoodie,2012,2145,4.2,6707,2025-08-02,L,Yellow,Hemp,6.2,Back in Stock,FALSE,15 days,5 days,FALSE,1
+Women Hoodies,Hoodie,863,1027,4.4,1336,2025-08-02,XXL,Peach,Viscose,15.97,Only 1 Left,FALSE,15 days,5 days,FALSE,407
+Women Hoodies,Hoodie,906,1278,4.1,3505,2025-08-02,M,Charcoal,Polyester,29.11,Coming Soon,FALSE,45 days,2 days,FALSE,388
+Women Hoodies,Hoodie,757,883,4.5,3601,2025-08-02,XS,Navy,Denim,14.27,Only 1 Left,FALSE,10 days,4 days,FALSE,26
+Women Hoodies,Hoodie,1483,1518,4.1,684,2025-08-02,M,Orange,Cashmere,2.31,Pre-Order,FALSE,30 days,1 days,FALSE,453
+Women Hoodies,Hoodie,905,1256,4.3,994,2025-08-02,S,Rose Gold,Lycra,27.95,Pre-Order,FALSE,15 days,1 days,FALSE,162
+Women Hoodies,Hoodie,706,827,4.5,3637,2025-08-02,XL,Sage,Viscose,14.63,Back in Stock,FALSE,45 days,2 days,FALSE,433
+Women Hoodies,Hoodie,1080,1157,4,7430,2025-08-02,XS,Beige,Fleece,6.66,Limited Stock,FALSE,30 days,4 days,FALSE,440
+Women Hoodies,Hoodie,897,1467,4.5,1260,2025-08-02,XXL,Rose Gold,Bamboo,38.85,In Stock,FALSE,30 days,2 days,FALSE,11
+Women Hoodies,Hoodie,1162,1460,4,4192,2025-08-02,XXL,Coral,Cashmere,20.41,Limited Stock,FALSE,10 days,1 days,FALSE,336
+Men Shorts,Shorts,789,1048,3.9,7833,2025-08-02,XL,Lavender,Cotton,24.71,Pre-Order,FALSE,30 days,5 days,FALSE,402
+Men Shorts,Shorts,415,508,4.4,4758,2025-08-02,L,Purple,Cotton Blend,18.31,Pre-Order,FALSE,15 days,5 days,FALSE,287
+Men Shorts,Shorts,485,712,4.3,4637,2025-08-02,M,Turquoise,Polyester,31.88,In Stock,TRUE,45 days,1 days,FALSE,423
+Men Shorts,Shorts,363,380,4,3449,2025-08-02,XXL,Brown,Polyester,4.47,Pre-Order,FALSE,45 days,3 days,FALSE,493
+Men Shorts,Shorts,652,963,4,7448,2025-08-02,M,Rose Gold,Wool,32.29,Limited Stock,FALSE,30 days,4 days,FALSE,228
+Men Shorts,Shorts,777,1080,4,4012,2025-08-02,3XL,White,Lycra,28.06,2-3 pieces left,FALSE,45 days,2 days,FALSE,298
+Men Shorts,Shorts,522,645,3.8,7755,2025-08-02,XL,Navy,Cotton Blend,19.07,Back in Stock,FALSE,30 days,2 days,FALSE,420
+Men Shorts,Shorts,429,441,4.3,4449,2025-08-02,XS,Beige,Denim,2.72,Pre-Order,FALSE,15 days,6 days,FALSE,106
+Men Shorts,Shorts,939,1115,4.3,1613,2025-08-02,S,Navy,Bamboo,15.78,Few Left,FALSE,30 days,2 days,FALSE,90
+Men Shorts,Shorts,429,779,3.9,6910,2025-08-02,XXL,Peach,Polyester,44.93,Coming Soon,FALSE,10 days,6 days,FALSE,303
+Men Shorts,Shorts,570,829,4.3,4281,2025-08-02,3XL,Cream,Denim,31.24,Limited Stock,FALSE,15 days,7 days,TRUE,329
+Men Shorts,Shorts,594,909,4,1733,2025-08-02,XXL,Peach,Polyester,34.65,Pre-Order,FALSE,10 days,3 days,FALSE,30
+Men Shorts,Shorts,806,1200,4.2,907,2025-08-02,XXL,Turquoise,Wool,32.83,Limited Stock,FALSE,15 days,4 days,TRUE,410
+Men Shorts,Shorts,586,857,4.2,4232,2025-08-02,L,Grey,Wool,31.62,Limited Stock,FALSE,45 days,1 days,FALSE,91
+Women Skirts,Skirt,579,956,4.1,2258,2025-08-02,XS,Teal,Silk,39.44,Pre-Order,FALSE,15 days,3 days,FALSE,368
+Women Skirts,Skirt,433,596,4.2,4932,2025-08-02,XL,Maroon,Wool,27.35,Back in Stock,FALSE,10 days,6 days,FALSE,389
+Women Skirts,Skirt,641,990,4,5255,2025-08-02,XXL,Sage,Wool,35.25,2-3 pieces left,FALSE,10 days,2 days,FALSE,187
+Women Skirts,Skirt,891,1021,4,3349,2025-08-02,S,Peach,Linen,12.73,Back in Stock,FALSE,15 days,5 days,FALSE,466
+Women Skirts,Skirt,632,761,4.4,6096,2025-08-02,XL,Burgundy,Wool,16.95,2-3 pieces left,FALSE,10 days,2 days,FALSE,26
+Women Skirts,Skirt,508,774,3.9,6443,2025-08-02,XL,Blue,Viscose,34.37,Limited Stock,FALSE,30 days,6 days,FALSE,7
+Women Skirts,Skirt,641,907,4.5,7029,2025-08-02,3XL,Coral,Bamboo,29.33,Few Left,FALSE,10 days,1 days,FALSE,211
+Women Skirts,Skirt,646,1037,3.9,6200,2025-08-02,XS,Rose Gold,Polyester,37.7,In Stock,TRUE,10 days,4 days,FALSE,482
+Women Skirts,Skirt,470,658,4.1,1865,2025-08-02,XS,Mustard,Modal,28.57,Pre-Order,FALSE,30 days,6 days,FALSE,266
+Women Skirts,Skirt,1224,2958,4.3,3346,2025-08-02,L,Coral,Spandex,58.62,Pre-Order,FALSE,45 days,5 days,FALSE,145
+Women Skirts,Skirt,1186,1556,4.2,1520,2025-08-02,XL,Navy,Polyester,23.78,Limited Stock,FALSE,15 days,3 days,FALSE,283
+Women Skirts,Skirt,680,1071,4.5,5893,2025-08-02,L,Lavender,Cotton,36.51,2-3 pieces left,FALSE,45 days,5 days,FALSE,306
+Women Skirts,Skirt,705,913,4,4453,2025-08-02,XL,Green,Spandex,22.78,Back in Stock,FALSE,15 days,5 days,FALSE,486
+Women Skirts,Skirt,1141,1444,3.9,3437,2025-08-02,XS,Red,Viscose,20.98,Back in Stock,FALSE,30 days,1 days,FALSE,482
+Men Tshirts,T-Shirt,490,587,3,1331,2025-08-02,3XL,Burgundy,Spandex,16.52,Back in Stock,FALSE,10 days,2 days,FALSE,93
+Men Tshirts,T-Shirt,549,598,3.3,456,2025-08-02,L,Blue,Rayon,8.19,In Stock,FALSE,30 days,7 days,FALSE,159
+Men Tshirts,T-Shirt,464,580,3.6,1502,2025-08-02,M,Maroon,Rayon,20,Pre-Order,FALSE,10 days,6 days,TRUE,135
+Men Tshirts,T-Shirt,553,832,4,7857,2025-08-02,XXL,Black,Bamboo,33.53,Pre-Order,FALSE,30 days,6 days,FALSE,340
+Men Tshirts,T-Shirt,517,669,3.6,5561,2025-08-02,XL,Purple,Silk,22.72,In Stock,FALSE,45 days,4 days,FALSE,230
+Men Tshirts,T-Shirt,523,842,3.8,568,2025-08-02,3XL,Cream,Viscose,37.89,Limited Stock,FALSE,15 days,5 days,FALSE,425
+Men Tshirts,T-Shirt,606,655,3.3,3422,2025-08-02,XXL,Beige,Fleece,7.48,Only 1 Left,FALSE,10 days,6 days,FALSE,459
+Men Tshirts,T-Shirt,518,719,4,6153,2025-08-02,XS,Coral,Spandex,27.96,Limited Stock,FALSE,45 days,4 days,FALSE,415
+Men Tshirts,T-Shirt,429,821,3.1,843,2025-08-02,S,Green,Denim,47.75,2-3 pieces left,FALSE,30 days,3 days,FALSE,486
+Men Tshirts,T-Shirt,591,967,4.4,284,2025-08-02,M,Maroon,Cotton Blend,38.88,2-3 pieces left,FALSE,10 days,2 days,FALSE,190
+Men Tshirts,T-Shirt,563,894,3.7,4189,2025-08-02,XS,Mustard,Hemp,37.02,Coming Soon,FALSE,10 days,6 days,TRUE,487
+Men Tshirts,T-Shirt,504,674,4.1,2146,2025-08-02,M,Rose Gold,Cotton,25.22,Coming Soon,FALSE,10 days,3 days,FALSE,166
+Men Tshirts,T-Shirt,521,706,3.7,4859,2025-08-02,L,Orange,Fleece,26.2,Coming Soon,TRUE,45 days,2 days,FALSE,384
+Men Tshirts,T-Shirt,518,806,4.3,7966,2025-08-02,XL,Lavender,Viscose,35.73,In Stock,FALSE,15 days,4 days,FALSE,482
+Men Jeans,Jeans,1727,1737,4.3,5357,2025-08-02,XL,Maroon,Linen,0.58,In Stock,FALSE,45 days,6 days,FALSE,210
+Men Jeans,Jeans,1428,1663,4,1412,2025-08-02,3XL,Mint,Polyester,14.13,2-3 pieces left,FALSE,10 days,4 days,FALSE,404
+Men Jeans,Jeans,1331,1817,3.6,3490,2025-08-02,XS,Brown,Linen,26.75,Only 1 Left,FALSE,15 days,4 days,FALSE,400
+Men Jeans,Jeans,962,1026,4.3,1375,2025-08-02,XXL,Rose Gold,Bamboo,6.24,Few Left,FALSE,45 days,3 days,FALSE,498
+Men Jeans,Jeans,1630,1690,4,5535,2025-08-02,XL,Orange,Cotton Blend,3.55,Back in Stock,FALSE,10 days,4 days,FALSE,183
+Men Jeans,Jeans,1425,1683,3.3,1185,2025-08-02,XXL,Charcoal,Viscose,15.33,Back in Stock,FALSE,45 days,4 days,FALSE,197
+Men Jeans,Jeans,1510,2070,4.3,3668,2025-08-02,M,Lavender,Bamboo,27.05,Only 1 Left,FALSE,10 days,7 days,FALSE,393
+Men Jeans,Jeans,1243,1955,3.6,5545,2025-08-02,XL,Beige,Lycra,36.42,Coming Soon,FALSE,30 days,3 days,FALSE,256
+Men Jeans,Jeans,977,1330,3.6,2377,2025-08-02,XS,Mustard,Rayon,26.54,In Stock,FALSE,10 days,1 days,FALSE,122
+Men Jeans,Jeans,1089,2150,3.1,7204,2025-08-02,XXL,Olive,Modal,49.35,2-3 pieces left,FALSE,30 days,7 days,FALSE,388
+Men Jeans,Jeans,1279,1362,3,4607,2025-08-02,XL,Grey,Linen,6.09,2-3 pieces left,FALSE,15 days,6 days,FALSE,413
+Men Jeans,Jeans,1400,1518,3.7,7265,2025-08-02,M,Turquoise,Wool,7.77,Pre-Order,FALSE,30 days,3 days,FALSE,485
+Men Jeans,Jeans,1280,1569,3.3,2340,2025-08-02,3XL,Sage,Cashmere,18.42,Only 1 Left,FALSE,45 days,3 days,FALSE,491
+Men Jeans,Jeans,1118,1730,3.8,828,2025-08-02,L,Charcoal,Hemp,35.38,Limited Stock,FALSE,30 days,4 days,FALSE,335
+Men Shirts,Shirt,894,934,4.3,1212,2025-08-02,XXL,Sage,Silk,4.28,Only 1 Left,FALSE,15 days,4 days,FALSE,455
+Men Shirts,Shirt,974,1089,3.2,5642,2025-08-02,S,Purple,Cashmere,10.56,In Stock,FALSE,30 days,1 days,FALSE,273
+Men Shirts,Shirt,746,922,4.2,4055,2025-08-02,M,White,Tencel,19.09,In Stock,FALSE,45 days,6 days,FALSE,254
+Men Shirts,Shirt,641,1011,3.4,1957,2025-08-02,3XL,Coral,Fleece,36.6,Pre-Order,FALSE,15 days,5 days,FALSE,434
+Men Shirts,Shirt,687,911,3.2,2399,2025-08-02,3XL,Sage,Fleece,24.59,Only 1 Left,FALSE,10 days,3 days,FALSE,310
+Men Shirts,Shirt,826,1418,3.7,4633,2025-08-02,S,Yellow,Cashmere,41.75,Only 1 Left,FALSE,45 days,4 days,FALSE,212
+Men Shirts,Shirt,751,1119,3.6,6952,2025-08-02,L,Navy,Cotton Blend,32.89,Coming Soon,FALSE,10 days,2 days,FALSE,289
+Men Shirts,Shirt,679,894,3.1,4296,2025-08-02,XS,Khaki,Spandex,24.05,Only 1 Left,FALSE,15 days,3 days,FALSE,360
+Men Shirts,Shirt,731,2193,3.2,6065,2025-08-02,XS,Mustard,Rayon,66.67,Only 1 Left,FALSE,15 days,7 days,FALSE,388
+Men Shirts,Shirt,860,889,4,292,2025-08-02,3XL,Maroon,Polyester,3.26,In Stock,FALSE,30 days,7 days,FALSE,468
+Men Shirts,Shirt,652,1012,3.7,5594,2025-08-02,S,Green,Cotton,35.57,Coming Soon,TRUE,30 days,3 days,FALSE,243
+Men Shirts,Shirt,865,1097,3.9,1695,2025-08-02,XXL,Orange,Bamboo,21.15,Pre-Order,FALSE,45 days,2 days,FALSE,268
+Men Shirts,Shirt,698,983,3.7,3222,2025-08-02,M,Black,Lycra,28.99,In Stock,FALSE,30 days,7 days,FALSE,124
+Men Shirts,Shirt,830,938,3.3,1983,2025-08-02,3XL,Peach,Hemp,11.51,In Stock,FALSE,45 days,6 days,FALSE,282
+Women Dresses,Dress,797,842,3,4719,2025-08-02,XS,Pink,Linen,5.34,Coming Soon,FALSE,30 days,5 days,FALSE,168
+Women Dresses,Dress,973,1458,3.3,2317,2025-08-02,XS,Blue,Modal,33.26,Coming Soon,TRUE,10 days,7 days,FALSE,494
+Women Dresses,Dress,791,1086,3.5,3930,2025-08-02,S,Red,Fleece,27.16,2-3 pieces left,FALSE,15 days,3 days,FALSE,210
+Women Dresses,Dress,955,1345,4.1,6846,2025-08-02,3XL,Lavender,Denim,29,Back in Stock,FALSE,15 days,6 days,FALSE,84
+Women Dresses,Dress,931,934,3.3,6120,2025-08-02,M,Red,Bamboo,0.32,In Stock,FALSE,30 days,7 days,FALSE,180
+Women Dresses,Dress,1248,3394,4.3,3360,2025-08-02,L,Charcoal,Linen,63.23,Pre-Order,FALSE,15 days,2 days,FALSE,312
+Women Dresses,Dress,954,1205,3.4,5436,2025-08-02,S,Brown,Tencel,20.83,2-3 pieces left,FALSE,45 days,7 days,FALSE,253
+Women Dresses,Dress,819,1199,3.9,5956,2025-08-02,M,White,Bamboo,31.69,Few Left,FALSE,15 days,2 days,FALSE,246
+Women Dresses,Dress,894,2261,3.6,1837,2025-08-02,L,Yellow,Fleece,60.46,In Stock,FALSE,10 days,1 days,FALSE,65
+Women Dresses,Dress,761,1115,3.5,7427,2025-08-02,S,Burgundy,Linen,31.75,In Stock,FALSE,30 days,6 days,FALSE,500
+Women Dresses,Dress,1035,1138,4,3807,2025-08-02,XL,Rose Gold,Denim,9.05,In Stock,TRUE,15 days,1 days,FALSE,6
+Women Dresses,Dress,1239,1569,3.9,7730,2025-08-02,S,Charcoal,Wool,21.03,Coming Soon,FALSE,45 days,2 days,FALSE,235
+Women Dresses,Dress,1007,1229,3.3,5627,2025-08-02,XS,Sage,Cotton Blend,18.06,Pre-Order,FALSE,10 days,3 days,FALSE,411
+Women Dresses,Dress,1093,1153,4,1175,2025-08-02,3XL,Beige,Bamboo,5.2,Back in Stock,TRUE,15 days,3 days,FALSE,288
+Women Tops,Halter Top,442,730,3,7596,2025-08-02,3XL,Khaki,Rayon,39.45,Pre-Order,TRUE,30 days,2 days,FALSE,204
+Women Tops,Peplum Top,495,713,4.2,7695,2025-08-02,L,Red,Bamboo,30.58,Pre-Order,FALSE,30 days,6 days,FALSE,233
+Women Tops,Tunic,563,720,3.9,7271,2025-08-02,3XL,Mustard,Cashmere,21.81,Coming Soon,FALSE,15 days,1 days,FALSE,443
+Women Tops,Tunic,494,1393,3.3,1181,2025-08-02,L,Green,Tencel,64.54,Few Left,FALSE,15 days,1 days,FALSE,154
+Women Tops,Crop Top,593,1052,4.4,651,2025-08-02,S,Teal,Spandex,43.63,Limited Stock,FALSE,10 days,7 days,FALSE,195
+Women Tops,Tunic,508,539,3.1,7667,2025-08-02,XL,Peach,Viscose,5.75,2-3 pieces left,FALSE,45 days,7 days,FALSE,117
+Women Tops,Shirt,575,797,3.7,2654,2025-08-02,3XL,Khaki,Cotton Blend,27.85,In Stock,FALSE,45 days,2 days,FALSE,115
+Women Tops,Tunic,664,885,3.6,4502,2025-08-02,XL,Mint,Tencel,24.97,Only 1 Left,FALSE,30 days,5 days,FALSE,421
+Women Tops,T-Shirt,627,786,3.3,7884,2025-08-02,S,Peach,Cashmere,20.23,In Stock,FALSE,10 days,4 days,FALSE,382
+Women Tops,Blouse,599,753,4.3,1533,2025-08-02,S,Sage,Tencel,20.45,In Stock,FALSE,10 days,2 days,FALSE,58
+Women Tops,Cold Shoulder Top,503,1219,3.5,459,2025-08-02,S,Rose Gold,Cotton Blend,58.74,Pre-Order,TRUE,10 days,4 days,TRUE,388
+Women Tops,Cold Shoulder Top,508,664,3,2042,2025-08-02,M,Green,Fleece,23.49,Coming Soon,FALSE,10 days,2 days,FALSE,484
+Women Tops,Crop Top,651,862,3.5,3086,2025-08-02,L,Grey,Cashmere,24.48,Limited Stock,FALSE,45 days,3 days,FALSE,376
+Women Tops,Shirt,688,882,3.2,2842,2025-08-02,3XL,Sage,Linen,22,Pre-Order,FALSE,15 days,5 days,FALSE,102
+Women Jeans,Jeans,1560,2421,4,3237,2025-08-02,L,Cream,Bamboo,35.56,Limited Stock,FALSE,10 days,2 days,TRUE,441
+Women Jeans,Jeans,1125,1429,3.3,195,2025-08-02,M,Purple,Tencel,21.27,In Stock,FALSE,45 days,4 days,FALSE,216
+Women Jeans,Other,1361,1705,4.1,2431,2025-08-02,L,Sage,Spandex,20.18,Limited Stock,FALSE,15 days,2 days,FALSE,103
+Women Jeans,Jeans,1764,2136,3.4,6976,2025-08-02,XL,Red,Hemp,17.42,Pre-Order,FALSE,45 days,3 days,FALSE,141
+Women Jeans,Jeans,1283,1360,4.3,3053,2025-08-02,S,Coral,Viscose,5.66,Back in Stock,FALSE,10 days,7 days,FALSE,165
+Women Jeans,Other,1429,3220,3.6,5096,2025-08-02,L,Teal,Viscose,55.62,Pre-Order,FALSE,30 days,2 days,FALSE,375
+Women Jeans,Jeans,1698,2041,4.3,6078,2025-08-02,L,Teal,Wool,16.81,Few Left,FALSE,30 days,2 days,FALSE,337
+Women Jeans,Jeans,1271,1457,3.7,5163,2025-08-02,L,Red,Cashmere,12.77,Coming Soon,FALSE,30 days,2 days,FALSE,291
+Women Jeans,Jeans,1501,2635,3.5,5493,2025-08-02,S,Olive,Cotton,43.04,2-3 pieces left,FALSE,45 days,7 days,FALSE,51
+Women Jeans,Jeans,1148,1506,3.9,3365,2025-08-02,M,Pink,Silk,23.77,Pre-Order,FALSE,45 days,1 days,FALSE,439
+Women Jeans,Jeans,1776,4374,3.3,5680,2025-08-02,XL,Beige,Denim,59.4,Only 1 Left,FALSE,45 days,1 days,FALSE,398
+Women Jeans,Jeans,1535,1579,3.4,3646,2025-08-02,L,Yellow,Modal,2.79,In Stock,FALSE,10 days,1 days,FALSE,206
+Women Jeans,Jeans,1652,1887,4.5,3878,2025-08-02,XXL,Beige,Bamboo,12.45,In Stock,FALSE,45 days,1 days,FALSE,250
+Women Jeans,Jeans,1813,2044,4.3,5002,2025-08-02,XXL,Pink,Cashmere,11.3,In Stock,FALSE,45 days,7 days,FALSE,253
+Men Hoodies,Hoodie,1924,5192,4.3,6156,2025-08-02,M,Lavender,Rayon,62.94,Limited Stock,FALSE,45 days,6 days,FALSE,397
+Men Hoodies,Hoodie,1374,1485,4.5,6212,2025-08-02,M,Purple,Bamboo,7.47,Coming Soon,FALSE,15 days,5 days,FALSE,14
+Men Hoodies,Hoodie,1235,3400,3.6,7659,2025-08-02,XL,Teal,Fleece,63.68,Limited Stock,FALSE,15 days,6 days,FALSE,30
+Men Hoodies,Hoodie,1431,1712,3.3,5830,2025-08-02,M,Teal,Rayon,16.41,Only 1 Left,FALSE,30 days,2 days,FALSE,354
+Men Hoodies,Hoodie,1398,1426,4.3,1576,2025-08-02,3XL,Red,Rayon,1.96,Back in Stock,FALSE,30 days,5 days,FALSE,268
+Men Hoodies,Hoodie,1492,2705,3.1,6347,2025-08-02,L,Red,Cashmere,44.84,In Stock,FALSE,15 days,1 days,FALSE,489
+Men Hoodies,Hoodie,1393,1480,3.9,979,2025-08-02,L,Yellow,Jersey,5.88,Few Left,FALSE,10 days,6 days,FALSE,122
+Men Hoodies,Hoodie,1912,2223,3.4,6394,2025-08-02,XS,Orange,Viscose,13.99,Limited Stock,FALSE,10 days,4 days,FALSE,67
+Men Hoodies,Hoodie,1598,1948,4.1,3182,2025-08-02,3XL,Blue,Cotton,17.97,In Stock,FALSE,30 days,6 days,FALSE,154
+Men Hoodies,Hoodie,2358,2690,4,7648,2025-08-02,XS,Khaki,Lycra,12.34,Coming Soon,FALSE,10 days,7 days,FALSE,493
+Men Hoodies,Hoodie,1696,1945,3.7,5040,2025-08-02,3XL,Burgundy,Cotton Blend,12.8,2-3 pieces left,FALSE,10 days,6 days,FALSE,235
+Men Hoodies,Hoodie,1939,2179,4,2504,2025-08-02,3XL,Grey,Tencel,11.01,Few Left,FALSE,30 days,6 days,FALSE,382
+Men Hoodies,Hoodie,1689,1930,3.1,7919,2025-08-02,XXL,Purple,Lycra,12.49,Limited Stock,FALSE,15 days,3 days,FALSE,498
+Men Hoodies,Hoodie,1888,4191,3.6,1108,2025-08-02,3XL,Red,Viscose,54.95,Coming Soon,FALSE,10 days,3 days,FALSE,56
+Women Hoodies,Hoodie,1601,2668,4.1,3866,2025-08-02,XXL,Grey,Lycra,39.99,In Stock,TRUE,15 days,4 days,FALSE,383
+Women Hoodies,Hoodie,1478,1514,4.2,6738,2025-08-02,M,White,Bamboo,2.38,Few Left,FALSE,30 days,2 days,FALSE,373
+Women Hoodies,Hoodie,1187,2410,4.3,6190,2025-08-02,L,Mint,Wool,50.75,Few Left,FALSE,30 days,6 days,FALSE,220
+Women Hoodies,Hoodie,1098,1310,4,1121,2025-08-02,XS,Beige,Rayon,16.18,In Stock,FALSE,30 days,2 days,TRUE,217
+Women Hoodies,Hoodie,1810,1997,4.2,3771,2025-08-02,3XL,Rose Gold,Modal,9.36,Limited Stock,FALSE,15 days,5 days,FALSE,38
+Women Hoodies,Hoodie,1670,2813,3.1,1407,2025-08-02,XS,Maroon,Cotton,40.63,2-3 pieces left,FALSE,45 days,1 days,FALSE,88
+Women Hoodies,Hoodie,1311,1477,3.2,4171,2025-08-02,S,Peach,Jersey,11.24,2-3 pieces left,TRUE,10 days,6 days,FALSE,464
+Women Hoodies,Hoodie,1267,2116,3.1,2478,2025-08-02,L,Sage,Cashmere,40.12,Few Left,TRUE,15 days,1 days,FALSE,232
+Women Hoodies,Hoodie,1747,1922,3.8,6067,2025-08-02,XXL,Orange,Bamboo,9.11,Coming Soon,TRUE,10 days,3 days,FALSE,268
+Women Hoodies,Hoodie,1087,1344,3.4,3246,2025-08-02,M,Sage,Viscose,19.12,Coming Soon,TRUE,10 days,1 days,TRUE,252
+Women Hoodies,Hoodie,2375,3080,4,3125,2025-08-02,XL,Green,Lycra,22.89,2-3 pieces left,FALSE,10 days,1 days,FALSE,419
+Women Hoodies,Hoodie,1871,2138,3.1,2625,2025-08-02,M,Charcoal,Denim,12.49,In Stock,FALSE,45 days,6 days,FALSE,355
+Women Hoodies,Hoodie,1244,1261,3.3,553,2025-08-02,XL,Navy,Wool,1.35,Few Left,FALSE,15 days,7 days,FALSE,398
+Women Hoodies,Hoodie,1067,1241,4.3,1318,2025-08-02,XS,Red,Cotton Blend,14.02,Pre-Order,FALSE,15 days,1 days,FALSE,47
+Men Shorts,Shorts,690,786,3.3,6075,2025-08-02,XXL,Yellow,Cashmere,12.21,Coming Soon,FALSE,10 days,7 days,FALSE,451
+Men Shorts,Shorts,1267,1663,3.3,595,2025-08-02,XS,Turquoise,Rayon,23.81,Only 1 Left,FALSE,45 days,4 days,FALSE,58
+Men Shorts,Shorts,639,706,4.1,6173,2025-08-02,3XL,Green,Cotton,9.49,Only 1 Left,FALSE,30 days,6 days,FALSE,445
+Men Shorts,Shorts,589,783,4.4,4997,2025-08-02,S,Turquoise,Cotton Blend,24.78,Few Left,FALSE,45 days,3 days,FALSE,299
+Men Shorts,Shorts,673,704,4.2,7387,2025-08-02,XXL,Maroon,Rayon,4.4,Only 1 Left,FALSE,30 days,7 days,FALSE,9
+Men Shorts,Shorts,888,1404,3.1,4386,2025-08-02,XS,Brown,Silk,36.75,Pre-Order,FALSE,10 days,6 days,FALSE,394
+Men Shorts,Shorts,580,1529,4.4,3915,2025-08-02,L,Black,Silk,62.07,Coming Soon,FALSE,30 days,7 days,FALSE,293
+Men Shorts,Shorts,866,1359,3.8,4113,2025-08-02,M,Turquoise,Modal,36.28,Pre-Order,FALSE,30 days,7 days,FALSE,479
+Men Shorts,Shorts,862,1134,3.5,2667,2025-08-02,S,Khaki,Fleece,23.99,Limited Stock,FALSE,10 days,2 days,FALSE,299
+Men Shorts,Shorts,891,1398,4.1,3070,2025-08-02,L,Brown,Bamboo,36.27,Pre-Order,FALSE,10 days,7 days,FALSE,96
+Men Shorts,Shorts,871,999,4.4,7425,2025-08-02,3XL,Pink,Cashmere,12.81,In Stock,TRUE,30 days,6 days,FALSE,13
+Men Shorts,Shorts,566,773,3.9,6917,2025-08-02,L,Beige,Polyester,26.78,Coming Soon,FALSE,45 days,5 days,FALSE,51
+Men Shorts,Shorts,707,1042,3.5,6100,2025-08-02,3XL,Maroon,Bamboo,32.15,Only 1 Left,FALSE,45 days,3 days,FALSE,459
+Men Shorts,Shorts,771,1510,4.4,2327,2025-08-02,XXL,Purple,Rayon,48.94,In Stock,FALSE,15 days,3 days,FALSE,453
+Women Skirts,Skirt,692,1068,3.2,7184,2025-08-02,S,Green,Spandex,35.21,Few Left,FALSE,15 days,3 days,FALSE,437
+Women Skirts,Skirt,898,1239,3.6,2562,2025-08-02,M,Pink,Viscose,27.52,Limited Stock,FALSE,15 days,7 days,TRUE,154
+Women Skirts,Skirt,695,1059,3.3,6767,2025-08-02,M,Mint,Viscose,34.37,Few Left,FALSE,45 days,1 days,FALSE,0
+Women Skirts,Skirt,979,2789,4.2,828,2025-08-02,L,Cream,Denim,64.9,Few Left,FALSE,15 days,6 days,FALSE,336
+Women Skirts,Skirt,617,633,4.3,3389,2025-08-02,M,Peach,Viscose,2.53,Few Left,FALSE,30 days,1 days,FALSE,424
+Women Skirts,Skirt,904,1105,4.3,647,2025-08-02,3XL,White,Linen,18.19,Few Left,FALSE,10 days,6 days,FALSE,401
+Women Skirts,Skirt,878,1257,4.2,2122,2025-08-02,XXL,Rose Gold,Denim,30.15,Few Left,FALSE,30 days,7 days,FALSE,91
+Women Skirts,Skirt,819,854,3.1,3290,2025-08-02,L,Sage,Cotton Blend,4.1,In Stock,FALSE,30 days,3 days,FALSE,154
+Women Skirts,Skirt,1013,1135,3.5,902,2025-08-02,XS,Peach,Cotton Blend,10.75,Coming Soon,FALSE,45 days,7 days,FALSE,498
+Women Skirts,Skirt,623,639,3,1556,2025-08-02,3XL,White,Hemp,2.5,Limited Stock,FALSE,15 days,4 days,FALSE,221
+Women Skirts,Skirt,728,1506,3.2,37,2025-08-02,M,Mustard,Viscose,51.66,Limited Stock,FALSE,10 days,7 days,FALSE,74
+Women Skirts,Skirt,859,1287,3.5,2340,2025-08-02,L,Blue,Rayon,33.26,Limited Stock,FALSE,45 days,7 days,FALSE,446
+Women Skirts,Skirt,840,1012,3.4,1409,2025-08-02,XL,Yellow,Tencel,17,Back in Stock,TRUE,30 days,6 days,FALSE,138
+Women Skirts,Skirt,609,740,3.8,2934,2025-08-02,S,Coral,Jersey,17.7,Coming Soon,TRUE,30 days,1 days,FALSE,177
+Men Tshirts,T-Shirt,776,1112,4,4269,2025-08-02,XL,Rose Gold,Viscose,30.22,Limited Stock,FALSE,30 days,4 days,FALSE,329
+Men Tshirts,T-Shirt,555,922,4,4742,2025-08-02,3XL,Khaki,Rayon,39.8,Limited Stock,FALSE,15 days,7 days,FALSE,27
+Men Tshirts,T-Shirt,519,1296,4.1,1637,2025-08-02,L,Burgundy,Linen,59.95,In Stock,FALSE,30 days,4 days,FALSE,192
+Men Tshirts,T-Shirt,652,2054,3.8,6739,2025-08-02,S,Blue,Fleece,68.26,Pre-Order,FALSE,30 days,4 days,FALSE,358
+Men Tshirts,T-Shirt,658,823,4.1,6459,2025-08-02,XS,Blue,Cashmere,20.05,Only 1 Left,FALSE,15 days,1 days,FALSE,22
+Men Tshirts,T-Shirt,1028,1247,3.9,555,2025-08-02,3XL,Grey,Hemp,17.56,Few Left,FALSE,15 days,1 days,FALSE,33
+Men Tshirts,T-Shirt,636,803,4.4,2957,2025-08-02,XXL,Orange,Hemp,20.8,Coming Soon,FALSE,10 days,5 days,FALSE,300
+Men Tshirts,T-Shirt,534,777,3.6,7373,2025-08-02,XXL,Charcoal,Denim,31.27,In Stock,FALSE,15 days,2 days,FALSE,230
+Men Tshirts,T-Shirt,723,1022,3.9,4415,2025-08-02,XL,Coral,Modal,29.26,Limited Stock,FALSE,10 days,7 days,FALSE,258
+Men Tshirts,T-Shirt,992,1173,4,4919,2025-08-02,L,Coral,Viscose,15.43,Only 1 Left,FALSE,10 days,4 days,FALSE,215
+Men Tshirts,T-Shirt,463,644,4.4,4773,2025-08-02,3XL,Sage,Cotton,28.11,2-3 pieces left,TRUE,10 days,4 days,FALSE,6
+Men Tshirts,T-Shirt,459,843,4.5,6928,2025-08-02,XXL,Mint,Linen,45.55,Only 1 Left,FALSE,45 days,3 days,FALSE,253
+Men Tshirts,T-Shirt,661,1422,4.1,1857,2025-08-02,XS,Mint,Denim,53.52,Limited Stock,FALSE,45 days,7 days,FALSE,244
+Men Tshirts,T-Shirt,534,731,3.8,6552,2025-08-02,XXL,Red,Polyester,26.95,Only 1 Left,FALSE,45 days,7 days,FALSE,123
+Men Jeans,Jeans,1590,2488,3.7,6985,2025-08-02,S,Rose Gold,Jersey,36.09,Only 1 Left,FALSE,10 days,7 days,TRUE,19
+Men Jeans,Jeans,1896,3200,4.5,6062,2025-08-02,XXL,Sage,Bamboo,40.75,Few Left,FALSE,15 days,6 days,FALSE,192
+Men Jeans,Jeans,1787,2087,3.7,4874,2025-08-02,L,Charcoal,Cashmere,14.37,Pre-Order,FALSE,45 days,7 days,FALSE,94
+Men Jeans,Jeans,1730,2028,4,1333,2025-08-02,3XL,Purple,Modal,14.69,Pre-Order,FALSE,30 days,7 days,FALSE,314
+Men Jeans,Other,1409,1577,4.1,5723,2025-08-02,XS,Sage,Wool,10.65,Few Left,FALSE,45 days,2 days,FALSE,73
+Men Jeans,Jeans,1529,1534,4.1,4695,2025-08-02,XL,Blue,Modal,0.33,Limited Stock,FALSE,30 days,6 days,FALSE,341
+Men Jeans,Jeans,1383,1569,3.7,7001,2025-08-02,XS,Coral,Jersey,11.85,In Stock,FALSE,15 days,3 days,FALSE,493
+Men Jeans,Jeans,1798,2106,4.3,6374,2025-08-02,XL,White,Modal,14.62,In Stock,FALSE,15 days,5 days,FALSE,316
+Men Jeans,Jeans,1689,1813,4.2,895,2025-08-02,L,Cream,Linen,6.84,Only 1 Left,FALSE,15 days,3 days,FALSE,400
+Men Jeans,Jeans,1402,1404,4.1,7385,2025-08-02,L,Navy,Viscose,0.14,Only 1 Left,FALSE,15 days,2 days,FALSE,34
+Men Jeans,Jeans,1562,1593,4.1,6177,2025-08-02,3XL,Brown,Cashmere,1.95,Few Left,FALSE,30 days,1 days,FALSE,483
+Men Jeans,Jeans,1479,3513,4.3,4758,2025-08-02,XS,Navy,Linen,57.9,2-3 pieces left,FALSE,45 days,1 days,FALSE,134
+Men Jeans,Jeans,1128,1306,3.8,4633,2025-08-02,S,Turquoise,Spandex,13.63,In Stock,FALSE,30 days,6 days,FALSE,262
+Men Jeans,Jeans,1231,1398,4.4,1402,2025-08-02,M,Rose Gold,Hemp,11.95,Back in Stock,FALSE,45 days,5 days,FALSE,164
+Men Shirts,Shirt,1326,1533,3.7,4105,2025-08-02,L,Mustard,Jersey,13.5,Few Left,FALSE,30 days,4 days,FALSE,389
+Men Shirts,Shirt,1200,1220,3.8,1227,2025-08-02,L,Green,Cashmere,1.64,Pre-Order,FALSE,10 days,1 days,FALSE,14
+Men Shirts,Shirt,1351,1624,3.7,3182,2025-08-02,XXL,Khaki,Denim,16.81,Few Left,FALSE,30 days,5 days,FALSE,172
+Men Shirts,Shirt,776,1122,4.4,3410,2025-08-02,L,Purple,Jersey,30.84,Pre-Order,FALSE,45 days,6 days,FALSE,62
+Men Shirts,Shirt,1271,1571,4.5,948,2025-08-02,L,Rose Gold,Cashmere,19.1,2-3 pieces left,FALSE,15 days,2 days,FALSE,114
+Men Shirts,Shirt,1011,2495,4.3,5191,2025-08-02,M,Burgundy,Viscose,59.48,Back in Stock,FALSE,45 days,3 days,FALSE,218
+Men Shirts,Shirt,898,2110,4.5,3442,2025-08-02,XL,Khaki,Bamboo,57.44,Few Left,FALSE,45 days,3 days,FALSE,196
+Men Shirts,Shirt,922,1029,3.7,6564,2025-08-02,S,Mustard,Hemp,10.4,Back in Stock,FALSE,10 days,7 days,FALSE,209
+Men Shirts,Shirt,777,1027,4,3234,2025-08-02,L,Burgundy,Polyester,24.34,2-3 pieces left,FALSE,15 days,4 days,TRUE,40
+Men Shirts,Shirt,968,1167,3.9,5805,2025-08-02,3XL,White,Linen,17.05,Back in Stock,FALSE,30 days,1 days,TRUE,249
+Men Shirts,Shirt,901,977,3.6,547,2025-08-02,M,Mustard,Viscose,7.78,In Stock,FALSE,30 days,6 days,FALSE,205
+Men Shirts,Shirt,1108,1504,4,6251,2025-08-02,L,Mint,Jersey,26.33,Pre-Order,FALSE,10 days,3 days,FALSE,281
+Men Shirts,Shirt,1212,1440,3.8,1906,2025-08-02,M,Black,Hemp,15.83,Few Left,FALSE,15 days,2 days,FALSE,62
+Men Shirts,Shirt,1514,1643,3.9,2323,2025-08-02,L,Cream,Rayon,7.85,Only 1 Left,FALSE,30 days,1 days,FALSE,256
+Women Dresses,Dress,966,1127,4.3,7868,2025-08-02,XXL,Maroon,Denim,14.29,Limited Stock,FALSE,10 days,5 days,FALSE,300
+Women Dresses,Dress,1377,1585,4.4,2933,2025-08-02,L,Charcoal,Wool,13.12,In Stock,FALSE,30 days,7 days,FALSE,124
+Women Dresses,Dress,1269,3310,3.7,1736,2025-08-02,L,Lavender,Lycra,61.66,Coming Soon,FALSE,45 days,4 days,FALSE,5
+Women Dresses,Dress,1783,3264,4.2,1464,2025-08-02,M,Rose Gold,Linen,45.37,Few Left,FALSE,10 days,5 days,FALSE,178
+Women Dresses,Dress,1070,2068,4.2,5497,2025-08-02,XXL,Mint,Fleece,48.26,Pre-Order,TRUE,15 days,1 days,FALSE,251
+Women Dresses,Dress,958,1077,3.6,4849,2025-08-02,S,Red,Spandex,11.05,Only 1 Left,FALSE,45 days,3 days,FALSE,372
+Women Dresses,Dress,1427,1716,4.4,7684,2025-08-02,L,Navy,Cashmere,16.84,Few Left,FALSE,30 days,6 days,FALSE,123
+Women Dresses,Dress,1477,1795,4.1,981,2025-08-02,XS,Black,Bamboo,17.72,Few Left,FALSE,15 days,3 days,FALSE,313
+Women Dresses,Dress,1229,1479,4,166,2025-08-02,S,Beige,Wool,16.9,Limited Stock,FALSE,15 days,6 days,FALSE,60
+Women Dresses,Dress,969,2368,3.9,5791,2025-08-02,S,Purple,Lycra,59.08,2-3 pieces left,FALSE,45 days,1 days,FALSE,14
+Women Dresses,Dress,1105,3148,4.5,2162,2025-08-02,L,Red,Linen,64.9,Coming Soon,FALSE,30 days,3 days,FALSE,192
+Women Dresses,Dress,1317,1389,4,23,2025-08-02,XS,Khaki,Wool,5.18,Limited Stock,FALSE,15 days,7 days,FALSE,485
+Women Dresses,Dress,1022,1378,4,6104,2025-08-02,3XL,Mustard,Hemp,25.83,Back in Stock,FALSE,45 days,6 days,FALSE,223
+Women Dresses,Dress,1283,2028,4.1,7004,2025-08-02,3XL,Orange,Cotton Blend,36.74,2-3 pieces left,FALSE,10 days,5 days,FALSE,72
+Women Tops,Cold Shoulder Top,887,1070,3.6,4455,2025-08-02,3XL,Red,Denim,17.1,Limited Stock,FALSE,15 days,1 days,FALSE,17
+Women Tops,Tunic,702,1047,3.7,7269,2025-08-02,3XL,Pink,Viscose,32.95,Only 1 Left,FALSE,30 days,4 days,FALSE,112
+Women Tops,Tank Top,657,979,4.2,7481,2025-08-02,3XL,Green,Spandex,32.89,Back in Stock,FALSE,15 days,5 days,FALSE,398
+Women Tops,T-Shirt,889,1395,3.7,7770,2025-08-02,XXL,Blue,Modal,36.27,In Stock,FALSE,45 days,3 days,FALSE,497
+Women Tops,Casual Top,552,799,3.7,93,2025-08-02,XXL,Black,Cotton Blend,30.91,2-3 pieces left,FALSE,10 days,5 days,FALSE,81
+Women Tops,Peasant Top,551,1406,4.2,2148,2025-08-02,XXL,Purple,Hemp,60.81,Only 1 Left,FALSE,15 days,2 days,FALSE,9
+Women Tops,Halter Top,1041,1203,4.2,7239,2025-08-02,M,Yellow,Lycra,13.47,Back in Stock,FALSE,45 days,5 days,FALSE,80
+Women Tops,Peasant Top,402,471,4,8000,2025-08-02,L,Teal,Hemp,14.65,2-3 pieces left,FALSE,15 days,2 days,FALSE,203
+Women Tops,Peasant Top,619,1009,4.1,3419,2025-08-02,XXL,Beige,Fleece,38.65,Pre-Order,FALSE,10 days,6 days,FALSE,373
+Women Tops,T-Shirt,531,635,3.7,3357,2025-08-02,XS,Khaki,Lycra,16.38,Limited Stock,FALSE,10 days,3 days,FALSE,109
+Women Tops,Tank Top,765,824,3.7,2677,2025-08-02,XL,Mint,Polyester,7.16,Coming Soon,FALSE,10 days,5 days,FALSE,451
+Women Tops,Tunic,703,707,4.4,6498,2025-08-02,XXL,Mustard,Fleece,0.57,Only 1 Left,FALSE,30 days,6 days,FALSE,38
+Women Tops,Halter Top,565,1134,4.1,30,2025-08-02,S,Black,Jersey,50.18,2-3 pieces left,FALSE,15 days,3 days,FALSE,466
+Women Tops,Peasant Top,635,1031,4.5,3968,2025-08-02,L,Black,Modal,38.41,Few Left,FALSE,15 days,4 days,FALSE,316
+Women Jeans,Jeans,1425,4253,4.1,3212,2025-08-02,XS,Pink,Spandex,66.49,Back in Stock,TRUE,45 days,2 days,FALSE,310
+Women Jeans,Jeans,1947,2150,3.6,5551,2025-08-02,M,Turquoise,Denim,9.44,Only 1 Left,FALSE,30 days,6 days,FALSE,102
+Women Jeans,Jeans,1304,1461,4.1,6662,2025-08-02,XS,White,Polyester,10.75,Only 1 Left,FALSE,30 days,7 days,FALSE,492
+Women Jeans,Jeans,2089,2433,3.7,2248,2025-08-02,S,Grey,Denim,14.14,Coming Soon,FALSE,15 days,1 days,FALSE,20
+Women Jeans,Jeans,1375,2732,4.2,7051,2025-08-02,M,Mustard,Lycra,49.67,2-3 pieces left,FALSE,30 days,5 days,FALSE,28
+Women Jeans,Jeans,1300,1495,3.7,7165,2025-08-02,XXL,Coral,Jersey,13.04,Few Left,FALSE,10 days,2 days,FALSE,392
+Women Jeans,Jeans,1636,4149,4,2303,2025-08-02,S,White,Cashmere,60.57,Coming Soon,FALSE,30 days,6 days,FALSE,324
+Women Jeans,Jeans,1972,2339,3.6,1298,2025-08-02,M,Black,Polyester,15.69,In Stock,FALSE,30 days,2 days,FALSE,209
+Women Jeans,Jeans,1588,1822,3.9,7372,2025-08-02,XS,Mustard,Rayon,12.84,Few Left,FALSE,10 days,4 days,TRUE,13
+Women Jeans,Jeans,1779,2673,4.1,53,2025-08-02,XL,Cream,Lycra,33.45,In Stock,FALSE,15 days,7 days,TRUE,219
+Women Jeans,Jeans,1894,2044,4.4,302,2025-08-02,M,Rose Gold,Cotton,7.34,In Stock,FALSE,45 days,2 days,FALSE,360
+Women Jeans,Jeans,1633,1720,4,3413,2025-08-02,XS,Khaki,Modal,5.06,Coming Soon,FALSE,45 days,2 days,FALSE,491
+Women Jeans,Jeans,1063,1302,3.6,241,2025-08-02,L,Beige,Modal,18.36,Back in Stock,FALSE,30 days,1 days,FALSE,241
+Women Jeans,Jeans,1689,1822,3.8,6860,2025-08-02,S,Maroon,Wool,7.3,Limited Stock,FALSE,30 days,7 days,FALSE,287
+Men Hoodies,Hoodie,2186,5285,4.4,852,2025-08-02,XXL,Brown,Modal,58.64,Back in Stock,FALSE,15 days,4 days,FALSE,403
+Men Hoodies,Hoodie,1131,1300,4.2,4529,2025-08-02,3XL,Sage,Denim,13,Back in Stock,FALSE,15 days,1 days,TRUE,214
+Men Hoodies,Hoodie,1538,1570,4,1793,2025-08-02,L,Rose Gold,Fleece,2.04,Back in Stock,FALSE,30 days,3 days,FALSE,425
+Men Hoodies,Hoodie,1675,1755,4.3,7762,2025-08-02,L,Beige,Wool,4.56,2-3 pieces left,FALSE,10 days,3 days,FALSE,328
+Men Hoodies,Hoodie,1536,2218,4.4,7727,2025-08-02,XS,Burgundy,Polyester,30.75,In Stock,FALSE,45 days,6 days,FALSE,411
+Men Hoodies,Hoodie,1825,4090,4.1,5800,2025-08-02,XXL,Blue,Jersey,55.38,Pre-Order,FALSE,10 days,7 days,FALSE,288
+Men Hoodies,Hoodie,1551,3967,4.1,4270,2025-08-02,M,Yellow,Linen,60.9,2-3 pieces left,FALSE,45 days,6 days,FALSE,280
+Men Hoodies,Hoodie,1354,1573,4,4812,2025-08-02,3XL,Rose Gold,Hemp,13.92,Coming Soon,FALSE,15 days,4 days,FALSE,250
+Men Hoodies,Hoodie,2079,2211,4.1,1325,2025-08-02,M,Maroon,Viscose,5.97,In Stock,FALSE,45 days,7 days,FALSE,129
+Men Hoodies,Hoodie,1774,1976,4.5,4499,2025-08-02,M,Sage,Denim,10.22,Limited Stock,FALSE,45 days,4 days,FALSE,79
+Men Hoodies,Hoodie,2012,2314,3.6,7353,2025-08-02,XL,Maroon,Fleece,13.05,Pre-Order,FALSE,15 days,4 days,FALSE,108
+Men Hoodies,Hoodie,1668,1799,4.3,6108,2025-08-02,XS,Navy,Tencel,7.28,Only 1 Left,FALSE,30 days,4 days,FALSE,280
+Men Hoodies,Hoodie,1289,4095,3.6,2138,2025-08-02,L,Green,Hemp,68.52,In Stock,FALSE,30 days,5 days,FALSE,58
+Men Hoodies,Hoodie,1429,1526,4.2,7597,2025-08-02,S,Sage,Denim,6.36,Few Left,FALSE,45 days,5 days,FALSE,63
+Women Hoodies,Hoodie,1373,3019,4,2242,2025-08-02,XL,Burgundy,Hemp,54.52,2-3 pieces left,FALSE,15 days,7 days,FALSE,213
+Women Hoodies,Hoodie,1987,2060,4,4943,2025-08-02,3XL,Rose Gold,Spandex,3.54,Back in Stock,FALSE,10 days,1 days,FALSE,59
+Women Hoodies,Hoodie,2136,7114,4,991,2025-08-02,L,Teal,Denim,69.97,In Stock,FALSE,15 days,4 days,FALSE,85
+Women Hoodies,Hoodie,1439,1492,3.7,1744,2025-08-02,S,Rose Gold,Wool,3.55,Coming Soon,FALSE,10 days,4 days,FALSE,93
+Women Hoodies,Hoodie,1518,4523,3.8,1493,2025-08-02,XXL,Rose Gold,Tencel,66.44,Only 1 Left,FALSE,30 days,4 days,FALSE,70
+Women Hoodies,Hoodie,2224,2389,4.4,6201,2025-08-02,3XL,Black,Cotton,6.91,Pre-Order,FALSE,30 days,7 days,FALSE,428
+Women Hoodies,Hoodie,1903,2756,3.6,4015,2025-08-02,3XL,Red,Rayon,30.95,2-3 pieces left,FALSE,15 days,3 days,FALSE,404
+Women Hoodies,Hoodie,1617,2069,4.2,4740,2025-08-02,S,Cream,Spandex,21.85,Back in Stock,FALSE,10 days,3 days,FALSE,297
+Women Hoodies,Hoodie,1941,4103,3.7,4665,2025-08-02,3XL,Beige,Hemp,52.69,Limited Stock,FALSE,45 days,5 days,FALSE,173
+Women Hoodies,Hoodie,1740,4835,4.1,1563,2025-08-02,XS,Grey,Lycra,64.01,2-3 pieces left,FALSE,30 days,6 days,FALSE,263
+Women Hoodies,Hoodie,1435,1714,4.3,1325,2025-08-02,M,Cream,Fleece,16.28,Limited Stock,FALSE,30 days,4 days,FALSE,113
+Women Hoodies,Hoodie,1814,2071,4.2,7240,2025-08-02,L,Blue,Hemp,12.41,In Stock,FALSE,30 days,6 days,FALSE,20
+Women Hoodies,Hoodie,1306,1619,3.9,4830,2025-08-02,S,Olive,Denim,19.33,Coming Soon,TRUE,45 days,5 days,FALSE,0
+Women Hoodies,Hoodie,1920,2242,4.4,629,2025-08-02,XXL,Turquoise,Wool,14.36,2-3 pieces left,FALSE,10 days,3 days,FALSE,475
+Men Shorts,Shorts,746,956,4.4,3718,2025-08-02,S,Grey,Linen,21.97,Few Left,FALSE,15 days,1 days,FALSE,140
+Men Shorts,Shorts,880,1980,3.9,1316,2025-08-02,XL,Rose Gold,Lycra,55.56,Limited Stock,FALSE,15 days,6 days,TRUE,348
+Men Shorts,Shorts,715,1118,4.1,6259,2025-08-02,XXL,Navy,Bamboo,36.05,Back in Stock,FALSE,15 days,3 days,FALSE,232
+Men Shorts,Shorts,1038,1269,4,7918,2025-08-02,XS,Orange,Linen,18.2,In Stock,FALSE,15 days,1 days,FALSE,249
+Men Shorts,Shorts,1042,2307,4.1,2043,2025-08-02,XL,Turquoise,Viscose,54.83,Only 1 Left,FALSE,10 days,1 days,TRUE,440
+Men Shorts,Shorts,740,1146,3.9,5446,2025-08-02,L,Blue,Cashmere,35.43,In Stock,FALSE,45 days,6 days,FALSE,489
+Men Shorts,Shorts,878,1095,3.7,4766,2025-08-02,XL,Mustard,Viscose,19.82,Coming Soon,FALSE,15 days,4 days,FALSE,474
+Men Shorts,Shorts,845,1173,3.9,3741,2025-08-02,M,Mint,Spandex,27.96,Pre-Order,FALSE,30 days,2 days,FALSE,310
+Men Shorts,Shorts,798,1173,3.6,5595,2025-08-02,XL,Lavender,Fleece,31.97,Back in Stock,FALSE,30 days,3 days,FALSE,105
+Men Shorts,Shorts,1019,2015,4.1,7801,2025-08-02,M,Black,Wool,49.43,2-3 pieces left,FALSE,45 days,6 days,TRUE,101
+Men Shorts,Shorts,1337,1402,4,7939,2025-08-02,L,Navy,Modal,4.64,Only 1 Left,FALSE,10 days,7 days,FALSE,303
+Men Shorts,Shorts,890,1070,4.2,2117,2025-08-02,XL,Lavender,Tencel,16.82,Back in Stock,FALSE,10 days,7 days,FALSE,81
+Men Shorts,Shorts,896,1361,4.2,3752,2025-08-02,S,Turquoise,Lycra,34.17,Pre-Order,TRUE,45 days,2 days,FALSE,410
+Men Shorts,Shorts,622,832,3.7,44,2025-08-02,XXL,Rose Gold,Linen,25.24,Coming Soon,TRUE,30 days,4 days,FALSE,462
+Women Skirts,Skirt,1027,1097,4.4,1176,2025-08-02,S,Olive,Linen,6.38,Coming Soon,FALSE,15 days,5 days,FALSE,483
+Women Skirts,Skirt,948,2445,4.2,4359,2025-08-02,S,Cream,Spandex,61.23,Back in Stock,FALSE,30 days,5 days,FALSE,168
+Women Skirts,Skirt,914,946,4.2,5204,2025-08-02,XS,White,Cotton,3.38,2-3 pieces left,FALSE,10 days,6 days,FALSE,349
+Women Skirts,Skirt,975,1621,4,6253,2025-08-02,XXL,Green,Fleece,39.85,Only 1 Left,FALSE,15 days,3 days,FALSE,198
+Women Skirts,Skirt,693,1851,4.1,2732,2025-08-02,XL,Orange,Cotton Blend,62.56,Only 1 Left,FALSE,30 days,4 days,FALSE,319
+Women Skirts,Skirt,687,1313,4.2,5704,2025-08-02,XL,Olive,Viscose,47.68,2-3 pieces left,FALSE,30 days,5 days,FALSE,348
+Women Skirts,Skirt,1459,2136,4.2,2353,2025-08-02,XL,Sage,Cashmere,31.69,Only 1 Left,FALSE,30 days,3 days,FALSE,441
+Women Skirts,Skirt,767,1042,3.6,3477,2025-08-02,L,Mustard,Bamboo,26.39,Coming Soon,FALSE,15 days,5 days,FALSE,61
+Women Skirts,Skirt,659,1769,4.3,7410,2025-08-02,M,Cream,Denim,62.75,Few Left,FALSE,15 days,1 days,FALSE,159
+Women Skirts,Skirt,1045,1287,4.2,7187,2025-08-02,XS,Orange,Bamboo,18.8,2-3 pieces left,FALSE,15 days,2 days,FALSE,75
+Women Skirts,Skirt,914,1946,4.3,3253,2025-08-02,M,Rose Gold,Cotton,53.03,Limited Stock,FALSE,45 days,3 days,FALSE,362
+Women Skirts,Skirt,1093,1465,4,5782,2025-08-02,3XL,Brown,Polyester,25.39,Few Left,FALSE,30 days,4 days,FALSE,358
+Women Skirts,Skirt,1121,1648,4,267,2025-08-02,XXL,Olive,Fleece,31.98,In Stock,FALSE,30 days,4 days,FALSE,349
+Women Skirts,Skirt,968,1380,4,2436,2025-08-02,XS,Turquoise,Bamboo,29.86,2-3 pieces left,FALSE,45 days,4 days,FALSE,14
+Men Tshirts,T-Shirt,619,991,4.2,7656,2025-08-02,3XL,White,Lycra,37.54,Only 1 Left,FALSE,15 days,4 days,FALSE,293
+Men Tshirts,T-Shirt,722,1192,3.9,6744,2025-08-02,S,Lavender,Lycra,39.43,Coming Soon,FALSE,30 days,6 days,FALSE,3
+Men Tshirts,T-Shirt,848,860,3.7,6235,2025-08-02,3XL,Navy,Viscose,1.4,In Stock,FALSE,10 days,6 days,FALSE,419
+Men Tshirts,T-Shirt,787,1073,4.3,2155,2025-08-02,XL,Cream,Tencel,26.65,2-3 pieces left,FALSE,45 days,6 days,FALSE,434
+Men Tshirts,T-Shirt,679,752,4.5,3131,2025-08-02,M,Maroon,Cashmere,9.71,In Stock,FALSE,10 days,6 days,FALSE,500
+Men Tshirts,T-Shirt,648,1008,4.1,5529,2025-08-02,3XL,Sage,Wool,35.71,Only 1 Left,FALSE,15 days,5 days,FALSE,314
+Men Tshirts,T-Shirt,725,1312,3.9,1298,2025-08-02,XXL,Purple,Cotton Blend,44.74,Coming Soon,FALSE,30 days,6 days,FALSE,448
+Men Tshirts,T-Shirt,936,2782,4.5,2888,2025-08-02,XS,Blue,Modal,66.36,Limited Stock,TRUE,45 days,2 days,FALSE,493
+Men Tshirts,T-Shirt,804,875,3.9,6925,2025-08-02,XS,Khaki,Silk,8.11,Coming Soon,FALSE,15 days,4 days,FALSE,57
+Men Tshirts,T-Shirt,810,955,3.8,1092,2025-08-02,L,Yellow,Cashmere,15.18,In Stock,FALSE,10 days,5 days,FALSE,488
+Men Tshirts,T-Shirt,973,1285,4.4,1820,2025-08-02,XS,Olive,Cotton Blend,24.28,Pre-Order,FALSE,10 days,6 days,FALSE,497
+Men Tshirts,T-Shirt,720,963,3.8,6225,2025-08-02,M,Blue,Rayon,25.23,Only 1 Left,FALSE,45 days,1 days,FALSE,464
+Men Tshirts,T-Shirt,928,1859,4.6,1076,2025-08-02,S,Yellow,Viscose,50.08,Back in Stock,FALSE,45 days,4 days,FALSE,154
+Men Tshirts,T-Shirt,683,804,4.5,3343,2025-08-02,3XL,Orange,Cashmere,15.05,Pre-Order,FALSE,30 days,1 days,FALSE,284
+Men Jeans,Jeans,1357,1472,3.8,7321,2025-08-02,XL,Brown,Lycra,7.81,Few Left,FALSE,10 days,3 days,FALSE,412
+Men Jeans,Jeans,2208,4622,4,3106,2025-08-02,L,Navy,Hemp,52.23,Limited Stock,FALSE,45 days,7 days,FALSE,431
+Men Jeans,Jeans,1464,1654,4.4,2185,2025-08-02,S,Orange,Tencel,11.49,2-3 pieces left,FALSE,45 days,3 days,FALSE,493
+Men Jeans,Jeans,1325,1583,4.3,3172,2025-08-02,XS,Teal,Hemp,16.3,2-3 pieces left,FALSE,10 days,4 days,FALSE,379
+Men Jeans,Jeans,1726,1814,4.2,184,2025-08-02,XS,Blue,Cotton Blend,4.85,Pre-Order,FALSE,30 days,2 days,FALSE,103
+Men Jeans,Jeans,1524,1549,4.2,129,2025-08-02,XS,Purple,Modal,1.61,Coming Soon,FALSE,30 days,4 days,FALSE,207
+Men Jeans,Jeans,1693,2014,3.8,6513,2025-08-02,M,Red,Denim,15.94,In Stock,FALSE,45 days,7 days,FALSE,415
+Men Jeans,Jeans,1991,2233,4.5,658,2025-08-02,M,Cream,Cotton,10.84,Only 1 Left,TRUE,30 days,1 days,FALSE,257
+Men Jeans,Jeans,1308,1638,4,243,2025-08-02,S,Rose Gold,Cashmere,20.15,Coming Soon,FALSE,30 days,2 days,FALSE,246
+Men Jeans,Jeans,2103,2386,4,7593,2025-08-02,L,Rose Gold,Wool,11.86,In Stock,FALSE,45 days,1 days,FALSE,56
+Men Jeans,Jeans,1922,1934,4.5,1828,2025-08-02,3XL,Pink,Linen,0.62,Few Left,FALSE,10 days,5 days,FALSE,273
+Men Jeans,Jeans,1953,2262,4.6,3217,2025-08-02,3XL,Coral,Viscose,13.66,Back in Stock,TRUE,30 days,4 days,FALSE,6
+Men Jeans,Jeans,1723,5302,4.4,6555,2025-08-02,M,Pink,Rayon,67.5,Pre-Order,TRUE,10 days,5 days,FALSE,126
+Men Jeans,Jeans,2202,2564,3.9,2131,2025-08-02,S,Olive,Cotton,14.12,Limited Stock,FALSE,45 days,2 days,FALSE,226
+Men Shirts,Shirt,1343,1427,4,7726,2025-08-02,M,Turquoise,Tencel,5.89,In Stock,FALSE,10 days,1 days,TRUE,412
+Men Shirts,Shirt,1160,1485,4.6,1942,2025-08-02,XL,Charcoal,Cotton,21.89,Few Left,FALSE,10 days,7 days,FALSE,448
+Men Shirts,Shirt,1285,1585,4.6,5101,2025-08-02,XL,Pink,Cotton,18.93,Coming Soon,FALSE,15 days,1 days,TRUE,321
+Men Shirts,Shirt,1571,3921,3.8,2798,2025-08-02,XL,Turquoise,Hemp,59.93,Few Left,FALSE,15 days,3 days,FALSE,388
+Men Shirts,Shirt,1398,1720,4.2,1679,2025-08-02,L,Teal,Rayon,18.72,Coming Soon,FALSE,30 days,3 days,FALSE,234
+Men Shirts,Shirt,1485,1645,4,5898,2025-08-02,XS,Lavender,Cotton Blend,9.73,Only 1 Left,FALSE,10 days,7 days,FALSE,156
+Men Shirts,Shirt,1317,1568,4.3,854,2025-08-02,S,Burgundy,Cotton Blend,16.01,Pre-Order,FALSE,45 days,4 days,FALSE,291
+Men Shirts,Shirt,1524,1657,4.5,1317,2025-08-02,L,Charcoal,Cotton,8.03,Few Left,FALSE,45 days,1 days,FALSE,149
+Men Shirts,Shirt,1400,3150,4,169,2025-08-02,XS,Coral,Lycra,55.56,Limited Stock,FALSE,30 days,5 days,FALSE,475
+Men Shirts,Shirt,1218,1411,4.5,933,2025-08-02,XS,Red,Lycra,13.68,Limited Stock,FALSE,45 days,6 days,FALSE,364
+Men Shirts,Shirt,1345,1666,4,2708,2025-08-02,3XL,Charcoal,Cashmere,19.27,Limited Stock,FALSE,45 days,7 days,FALSE,452
+Men Shirts,Shirt,1484,1951,4.1,5843,2025-08-02,XS,Red,Linen,23.94,Pre-Order,FALSE,30 days,5 days,FALSE,362
+Men Shirts,Shirt,1169,1831,3.9,757,2025-08-02,XL,Turquoise,Rayon,36.16,Only 1 Left,FALSE,45 days,2 days,FALSE,496
+Men Shirts,Shirt,1634,2860,4.5,2612,2025-08-02,XS,Peach,Linen,42.87,2-3 pieces left,FALSE,45 days,6 days,FALSE,425
+Women Dresses,Dress,1895,2091,4.3,7868,2025-08-02,XL,Blue,Rayon,9.37,Limited Stock,FALSE,30 days,2 days,FALSE,409
+Women Dresses,Dress,1827,2876,4.5,1736,2025-08-02,S,Blue,Denim,36.47,Only 1 Left,FALSE,30 days,3 days,FALSE,56
+Women Dresses,Dress,1740,1887,4,3968,2025-08-02,S,Khaki,Rayon,7.79,Limited Stock,FALSE,10 days,4 days,FALSE,449
+Women Dresses,Dress,1532,1603,4.1,2430,2025-08-02,S,Turquoise,Tencel,4.43,Coming Soon,FALSE,30 days,2 days,FALSE,138
+Women Dresses,Dress,1655,4376,4,1676,2025-08-02,XXL,Black,Silk,62.18,Pre-Order,FALSE,15 days,1 days,FALSE,254
+Women Dresses,Dress,1285,1494,4,4572,2025-08-02,L,Teal,Hemp,13.99,Pre-Order,FALSE,10 days,3 days,FALSE,258
+Women Dresses,Dress,1654,5287,3.8,4748,2025-08-02,3XL,Blue,Viscose,68.72,Pre-Order,FALSE,15 days,4 days,FALSE,405
+Women Dresses,Dress,1254,2652,4.2,2440,2025-08-02,3XL,Blue,Jersey,52.71,Limited Stock,FALSE,30 days,5 days,FALSE,88
+Women Dresses,Dress,1217,1562,3.9,1538,2025-08-02,XL,Maroon,Fleece,22.09,Pre-Order,FALSE,45 days,2 days,FALSE,274
+Women Dresses,Dress,1731,4118,4,1175,2025-08-02,XXL,Olive,Hemp,57.97,2-3 pieces left,FALSE,15 days,7 days,FALSE,175
+Women Dresses,Dress,1605,1747,4.4,5873,2025-08-02,M,Mustard,Cotton,8.13,Only 1 Left,FALSE,10 days,1 days,FALSE,404
+Women Dresses,Dress,1200,1240,4.2,202,2025-08-02,XS,Navy,Tencel,3.23,2-3 pieces left,FALSE,45 days,5 days,FALSE,242
+Women Dresses,Dress,1903,2039,4.3,2646,2025-08-02,XL,Beige,Wool,6.67,Limited Stock,FALSE,10 days,3 days,FALSE,266
+Women Dresses,Dress,1863,3049,3.8,5140,2025-08-02,3XL,Khaki,Linen,38.9,Only 1 Left,FALSE,15 days,3 days,FALSE,431
+Women Tops,Camisole,1067,1417,4.2,3834,2025-08-02,S,Cream,Fleece,24.7,Pre-Order,FALSE,30 days,5 days,FALSE,287
+Women Tops,Tank Top,950,971,4.3,1150,2025-08-02,XS,Khaki,Lycra,2.16,In Stock,TRUE,45 days,6 days,FALSE,372
+Women Tops,Cold Shoulder Top,804,1657,4.2,4350,2025-08-02,XXL,Brown,Spandex,51.48,Back in Stock,FALSE,30 days,3 days,FALSE,74
+Women Tops,Halter Top,882,1928,4.5,4472,2025-08-02,XL,Green,Cashmere,54.25,Limited Stock,FALSE,10 days,4 days,FALSE,66
+Women Tops,Tunic,1006,1329,4.4,7445,2025-08-02,XS,Brown,Hemp,24.3,Pre-Order,FALSE,15 days,5 days,FALSE,392
+Women Tops,Peplum Top,1093,1230,4.1,4175,2025-08-02,M,Charcoal,Cotton Blend,11.14,Limited Stock,FALSE,15 days,1 days,FALSE,333
+Women Tops,Tank Top,830,1067,3.9,3316,2025-08-02,,Sage,Wool,22.21,Few Left,FALSE,15 days,1 days,FALSE,298
+Women Tops,Tunic,725,944,3.9,6916,2025-08-02,3XL,Olive,Modal,23.2,Coming Soon,FALSE,15 days,4 days,FALSE,264
+Women Tops,T-Shirt,720,737,4.3,5480,2025-08-02,S,Yellow,Cotton,2.31,Only 1 Left,FALSE,30 days,2 days,FALSE,204
+Women Tops,Shirt,800,928,4.6,4303,2025-08-02,S,Navy,Cotton Blend,13.79,Pre-Order,FALSE,45 days,4 days,FALSE,475
+Women Tops,Casual Top,994,1150,4.2,2388,2025-08-02,M,Blue,Bamboo,13.57,In Stock,FALSE,45 days,6 days,FALSE,286
+Women Tops,Blouse,1071,1382,3.9,3224,2025-08-02,M,Cream,Viscose,22.5,Few Left,FALSE,10 days,1 days,FALSE,453
+Women Tops,T-Shirt,796,1097,4.3,1008,2025-08-02,M,Turquoise,Cotton,27.44,Coming Soon,TRUE,30 days,5 days,FALSE,175
+Women Tops,Halter Top,887,1273,4.3,7738,2025-08-02,M,Cream,Modal,30.32,In Stock,FALSE,30 days,6 days,FALSE,423
+Women Jeans,Jeans,1631,1861,4.3,4624,2025-08-02,L,Maroon,Modal,12.36,Few Left,FALSE,30 days,5 days,FALSE,143
+Women Jeans,Jeans,1742,2634,4,7870,2025-08-02,S,Cream,Cotton,33.86,Back in Stock,FALSE,15 days,3 days,FALSE,100
+Women Jeans,Jeans,2229,2287,4,810,2025-08-02,XXL,Coral,Spandex,2.54,Few Left,TRUE,30 days,5 days,FALSE,269
+Women Jeans,Other,1866,2118,4.3,6459,2025-08-02,3XL,Turquoise,Cotton,11.9,Only 1 Left,FALSE,15 days,1 days,FALSE,253
+Women Jeans,Dress,1418,1710,3.8,5131,2025-08-02,3XL,Lavender,Cotton Blend,17.08,Pre-Order,FALSE,45 days,7 days,FALSE,438
+Women Jeans,Jeans,1491,1828,4.3,4766,2025-08-02,M,Teal,Spandex,18.44,Limited Stock,FALSE,30 days,3 days,FALSE,243
+Women Jeans,Jeans,2141,4685,4,5366,2025-08-02,S,Olive,Spandex,54.3,Few Left,FALSE,30 days,3 days,FALSE,222
+Women Jeans,Other,2155,2238,4,744,2025-08-02,M,Coral,Wool,3.71,Limited Stock,FALSE,45 days,7 days,FALSE,308
+Women Jeans,Jeans,1647,2385,3.7,1519,2025-08-02,M,Coral,Cotton,30.94,Only 1 Left,FALSE,30 days,4 days,FALSE,458
+Women Jeans,Jeans,2346,2383,4,7430,2025-08-02,M,Pink,Wool,1.55,Coming Soon,FALSE,15 days,2 days,FALSE,367
+Women Jeans,Jeans,1804,2137,3.7,6345,2025-08-02,M,Mustard,Cotton Blend,15.58,Coming Soon,FALSE,15 days,4 days,FALSE,436
+Women Jeans,Jeans,1542,1939,4.6,1223,2025-08-02,XXL,Green,Rayon,20.47,Pre-Order,FALSE,30 days,1 days,FALSE,321
+Women Jeans,Jeans,2201,2648,4.3,6496,2025-08-02,3XL,Charcoal,Tencel,16.88,2-3 pieces left,FALSE,10 days,6 days,FALSE,395
+Women Jeans,Dress,2218,2276,3.8,6803,2025-08-02,M,Sage,Cotton,2.55,2-3 pieces left,FALSE,30 days,2 days,FALSE,402
+Men Hoodies,Hoodie,2499,7437,3.9,3626,2025-08-02,XXL,Lavender,Jersey,66.4,Few Left,TRUE,30 days,6 days,FALSE,433
+Men Hoodies,Hoodie,1552,1776,3.7,3987,2025-08-02,XS,Black,Fleece,12.61,Back in Stock,FALSE,30 days,6 days,FALSE,435
+Men Hoodies,Hoodie,2198,2218,3.8,4493,2025-08-02,L,Navy,Linen,0.9,Few Left,FALSE,45 days,3 days,FALSE,380
+Men Hoodies,Hoodie,1567,1584,4.5,4810,2025-08-02,L,Coral,Jersey,1.07,In Stock,FALSE,45 days,6 days,FALSE,37
+Men Hoodies,Hoodie,2224,2241,4,5006,2025-08-02,M,Turquoise,Lycra,0.76,Back in Stock,FALSE,30 days,2 days,FALSE,298
+Men Hoodies,Dress,1624,2074,4.4,309,2025-08-02,L,Mustard,Hemp,21.7,2-3 pieces left,FALSE,30 days,1 days,FALSE,116
+Men Hoodies,Hoodie,1525,1624,4.5,1277,2025-08-02,XXL,Sage,Cotton,6.1,Coming Soon,FALSE,10 days,5 days,FALSE,159
+Men Hoodies,Hoodie,1737,1934,3.8,2840,2025-08-02,S,Orange,Polyester,10.19,Limited Stock,FALSE,45 days,1 days,FALSE,341
+Men Hoodies,Dress,2200,2791,4.2,421,2025-08-02,L,Blue,Cashmere,21.18,Coming Soon,FALSE,30 days,3 days,FALSE,170
+Men Hoodies,Hoodie,2495,2866,3.9,2552,2025-08-02,XXL,Peach,Modal,12.94,In Stock,FALSE,10 days,1 days,FALSE,87
+Men Hoodies,Hoodie,2450,2697,4.2,2736,2025-08-02,XS,Lavender,Lycra,9.16,Only 1 Left,FALSE,10 days,4 days,FALSE,415
+Men Hoodies,Hoodie,2171,2388,4.2,4735,2025-08-02,XXL,Coral,Spandex,9.09,2-3 pieces left,FALSE,15 days,7 days,FALSE,443
+Men Hoodies,Hoodie,2268,2592,4.3,1639,2025-08-02,M,Pink,Denim,12.5,Few Left,FALSE,45 days,5 days,FALSE,297
+Men Hoodies,Hoodie,1886,2073,4.4,7039,2025-08-02,XS,Purple,Cotton,9.02,Back in Stock,FALSE,30 days,2 days,FALSE,255
+Women Hoodies,Hoodie,2039,2225,3.8,3624,2025-08-02,XXL,Beige,Spandex,8.36,Coming Soon,FALSE,10 days,1 days,FALSE,214
+Women Hoodies,Dress,1611,1979,4.5,1850,2025-08-02,S,Sage,Denim,18.6,Pre-Order,FALSE,10 days,1 days,FALSE,359
+Women Hoodies,Hoodie,1455,1695,3.9,178,2025-08-02,L,Orange,Bamboo,14.16,Limited Stock,TRUE,15 days,3 days,FALSE,77
+Women Hoodies,Hoodie,1520,2395,4.6,6582,2025-08-02,XS,Mustard,Viscose,36.53,In Stock,FALSE,30 days,6 days,FALSE,353
+Women Hoodies,Hoodie,2154,2196,4.6,3477,2025-08-02,L,Mint,Viscose,1.91,In Stock,FALSE,10 days,4 days,FALSE,262
+Women Hoodies,Dress,2321,2683,4.3,4681,2025-08-02,XL,Brown,Rayon,13.49,Limited Stock,FALSE,45 days,7 days,FALSE,130
+Women Hoodies,Hoodie,1455,1531,4.5,5854,2025-08-02,XL,Brown,Cotton,4.96,Pre-Order,FALSE,45 days,7 days,FALSE,401
+Women Hoodies,Hoodie,1359,1542,4.1,1016,2025-08-02,XS,Orange,Cotton Blend,11.87,Coming Soon,FALSE,30 days,3 days,FALSE,113
+Women Hoodies,Hoodie,2062,2292,4.1,5653,2025-08-02,L,Sage,Polyester,10.03,2-3 pieces left,FALSE,15 days,3 days,FALSE,320
+Women Hoodies,Hoodie,2263,2485,4.1,5206,2025-08-02,S,Mustard,Modal,8.93,Pre-Order,FALSE,30 days,6 days,FALSE,235
+Women Hoodies,Hoodie,2288,2986,4,2919,2025-08-02,XL,Brown,Cashmere,23.38,In Stock,FALSE,10 days,1 days,FALSE,98
+Women Hoodies,Hoodie,1961,2006,3.8,2196,2025-08-02,XXL,Grey,Fleece,2.24,Coming Soon,FALSE,10 days,2 days,FALSE,385
+Women Hoodies,Hoodie,2187,2307,4.4,400,2025-08-02,XL,Maroon,Spandex,5.2,Few Left,TRUE,10 days,4 days,FALSE,461
+Women Hoodies,Hoodie,1805,2023,4,3455,2025-08-02,L,Maroon,Spandex,10.78,Coming Soon,FALSE,10 days,7 days,FALSE,487
+Men Shorts,Shorts,913,1160,4.4,1672,2025-08-02,XS,Black,Cotton Blend,21.29,2-3 pieces left,FALSE,10 days,3 days,FALSE,333
+Men Shorts,Shorts,797,1146,4.4,805,2025-08-02,S,Brown,Denim,30.45,Pre-Order,FALSE,10 days,3 days,FALSE,313
+Men Shorts,Shorts,721,1070,3.8,3273,2025-08-02,3XL,Cream,Silk,32.62,Coming Soon,FALSE,15 days,7 days,FALSE,84
+Men Shorts,Shorts,940,1088,3.7,3195,2025-08-02,XXL,Burgundy,Tencel,13.6,Back in Stock,FALSE,15 days,2 days,FALSE,117
+Men Shorts,Shorts,1203,2133,4.2,392,2025-08-02,XS,Green,Silk,43.6,2-3 pieces left,FALSE,45 days,3 days,FALSE,103
+Men Shorts,Shorts,1078,1210,4.1,2051,2025-08-02,XL,Peach,Fleece,10.91,2-3 pieces left,FALSE,45 days,2 days,FALSE,227
+Men Shorts,Shorts,866,1067,4.5,5858,2025-08-02,3XL,Green,Wool,18.84,Few Left,FALSE,10 days,4 days,FALSE,109
+Men Shorts,Shorts,827,1207,4.5,1493,2025-08-02,XS,Brown,Rayon,31.48,Coming Soon,FALSE,10 days,5 days,FALSE,268
+Men Shorts,Shorts,777,1212,4.5,854,2025-08-02,XS,Orange,Denim,35.89,Coming Soon,FALSE,10 days,4 days,FALSE,203
+Men Shorts,Shorts,1124,1875,4.1,7927,2025-08-02,S,Lavender,Denim,40.05,Few Left,FALSE,15 days,7 days,FALSE,82
+Men Shorts,Shorts,1156,1511,4.3,5737,2025-08-02,XS,Grey,Rayon,23.49,Only 1 Left,FALSE,10 days,3 days,FALSE,286
+Men Shorts,Shorts,844,1045,3.7,538,2025-08-02,S,Pink,Cotton,19.23,Few Left,FALSE,10 days,5 days,FALSE,179
+Men Shorts,Shorts,1078,1541,3.9,310,2025-08-02,XL,Red,Denim,30.05,In Stock,FALSE,15 days,1 days,FALSE,109
+Men Shorts,Dress,802,1299,4.1,3571,2025-08-02,3XL,Lavender,Lycra,38.26,Coming Soon,FALSE,15 days,5 days,FALSE,455
+Women Skirts,Skirt,1154,1175,4.2,4595,2025-08-02,XXL,Teal,Jersey,1.79,Coming Soon,FALSE,30 days,6 days,FALSE,419
+Women Skirts,Skirt,916,1045,4.5,1564,2025-08-02,M,Maroon,Wool,12.34,Limited Stock,FALSE,15 days,4 days,FALSE,108
+Women Skirts,Skirt,1077,1119,4.2,1615,2025-08-02,XXL,Turquoise,Lycra,3.75,Only 1 Left,FALSE,45 days,6 days,FALSE,101
+Women Skirts,Dress,1167,1548,3.8,6062,2025-08-02,S,Yellow,Polyester,24.61,Few Left,FALSE,10 days,2 days,TRUE,303
+Women Skirts,Skirt,877,906,4.3,4495,2025-08-02,S,Rose Gold,Cashmere,3.2,Coming Soon,TRUE,45 days,3 days,FALSE,255
+Women Skirts,Skirt,1262,1573,4.5,854,2025-08-02,XL,Coral,Viscose,19.77,Few Left,FALSE,10 days,4 days,FALSE,124
+Women Skirts,Skirt,1258,1728,4,4674,2025-08-02,S,Purple,Hemp,27.2,Only 1 Left,FALSE,30 days,4 days,FALSE,487
+Women Skirts,Skirt,1184,1558,4.4,3345,2025-08-02,XS,Lavender,Cotton Blend,24.01,Pre-Order,FALSE,45 days,2 days,FALSE,263
+Women Skirts,Skirt,1344,1685,3.9,5195,2025-08-02,L,Black,Spandex,20.24,Pre-Order,FALSE,30 days,3 days,FALSE,210
+Women Skirts,Skirt,946,956,4.3,1353,2025-08-02,S,Orange,Silk,1.05,Few Left,FALSE,45 days,6 days,FALSE,323
+Women Skirts,Skirt,877,1194,4.4,3415,2025-08-02,3XL,Orange,Hemp,26.55,Only 1 Left,FALSE,30 days,3 days,FALSE,499
+Women Skirts,Dress,963,2295,4.2,3505,2025-08-02,L,Orange,Cashmere,58.04,2-3 pieces left,FALSE,15 days,3 days,FALSE,343
+Women Skirts,Dress,1336,2005,4.4,240,2025-08-02,S,White,Hemp,33.37,In Stock,FALSE,30 days,2 days,FALSE,4
+Women Skirts,Skirt,1337,1414,4.4,7467,2025-08-02,M,Blue,Wool,5.45,Only 1 Left,TRUE,10 days,1 days,FALSE,0
+Men Tshirts,T-Shirt,580,1089,4.4,2389,2025-08-02,L,White,Linen,46.74,Only 1 Left,FALSE,45 days,5 days,FALSE,86
+Men Jeans,Other,2658,3053,3.9,4297,2025-08-02,S,Mustard,Wool,12.94,In Stock,FALSE,30 days,2 days,FALSE,297
+Men Shirts,Shirt,1030,1382,4.1,7459,2025-08-02,XS,Sage,Hemp,25.47,Coming Soon,FALSE,30 days,3 days,FALSE,124
+Women Dresses,Dress,1819,2328,4.3,5486,2025-08-02,XL,Brown,Cashmere,21.86,Coming Soon,FALSE,10 days,6 days,FALSE,324
+Women Tops,Tunic,855,1021,3.8,7373,2025-08-02,XXL,Beige,Bamboo,16.26,Pre-Order,FALSE,10 days,7 days,FALSE,1
+Women Jeans,Jeans,1307,1371,3.9,5597,2025-08-02,S,Coral,Lycra,4.67,Back in Stock,FALSE,30 days,7 days,FALSE,338
+Men Hoodies,Hoodie,2006,2183,4.3,2029,2025-08-02,S,Mustard,Viscose,8.11,Only 1 Left,FALSE,10 days,5 days,FALSE,339
+Women Hoodies,Hoodie,1523,1839,4.4,2817,2025-08-02,M,Black,Silk,17.18,Few Left,TRUE,10 days,6 days,FALSE,497
+Men Shorts,Shorts,686,877,3.9,2953,2025-08-02,L,Purple,Cashmere,21.78,Few Left,FALSE,15 days,2 days,FALSE,257
+Women Skirts,Skirt,988,1374,3.9,3873,2025-08-02,XL,Turquoise,Cotton Blend,28.09,Coming Soon,FALSE,45 days,3 days,FALSE,4
