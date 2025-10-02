@@ -529,7 +529,7 @@ elif page == "Model Selection":
                         with open(config_path, "w") as f:
                             json.dump(config, f, indent=2)
                         
-                        st.success(f"✅ Saved model to models/model.joblib")
+                        st.success("✅ Saved model to models/model.joblib")
                         st.success(f"✅ Saved config to {config_path}")
                         st.info("Commit config/model_config.json to trigger CI/CD training with these exact parameters")
                         
@@ -779,7 +779,9 @@ elif page == "Containerization & API":
     st.info("CI/CD via GitHub Actions is configured in .github/workflows/ci.yml")
 
     st.markdown("**Automate container build & run (requires Docker Desktop)**")
-    import subprocess, webbrowser, shutil
+    import subprocess
+    import webbrowser
+    import shutil
     docker_ok = shutil.which("docker") is not None
     if not docker_ok:
         st.warning("Docker not found on PATH. Install Docker Desktop and restart.")

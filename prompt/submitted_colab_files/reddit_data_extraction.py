@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1G2fTRanUJ5coJQWTu7CjXaKl4Y9xM6b5
 """
 
-pip install praw
 
 import praw
 import pandas as pd

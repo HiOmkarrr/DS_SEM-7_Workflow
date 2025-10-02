@@ -6,7 +6,6 @@ import pandas as pd
 import joblib
 import os
 import sys
-from pathlib import Path
 from sklearn.model_selection import train_test_split
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
@@ -119,7 +118,7 @@ def train_and_validate(config_path: str = "config/model_config.json",
     mae = mean_absolute_error(y_test, y_pred)
     rmse = float(np.sqrt(mean_squared_error(y_test, y_pred)))
     
-    print(f"\nMetrics on test set:")
+    print("\nMetrics on test set:")
     print(f"  R²:   {r2:.4f}")
     print(f"  MAE:  {mae:.4f}")
     print(f"  RMSE: {rmse:.4f}")
@@ -128,10 +127,10 @@ def train_and_validate(config_path: str = "config/model_config.json",
     expected_metrics = config.get("metrics", {})
     if expected_metrics:
         r2_diff = abs(r2 - expected_metrics.get("R2", r2))
-        print(f"\nMetric drift from config:")
+        print("\nMetric drift from config:")
         print(f"  ΔR²: {r2_diff:.4f}")
         if r2_diff > 0.05:
-            print(f"  ⚠️  Warning: R² drift exceeds 0.05")
+            print("  ⚠️  Warning: R² drift exceeds 0.05")
     
     # Validation threshold
     if r2 < min_r2:

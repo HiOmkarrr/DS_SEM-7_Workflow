@@ -35,7 +35,6 @@ Data → Feature Engineering → Train/Test Split → Regression Models → SHAP
 
 import pandas as pd
 import numpy as np
-import os, re, json, math
 from pathlib import Path
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -56,7 +55,7 @@ import shap
 try:
     from lime.lime_tabular import LimeTabularExplainer
     LIME_AVAILABLE = True
-except Exception as e:
+except Exception:
     LIME_AVAILABLE = False
     print("LIME not available (install with: pip install lime). Skipping local explanations.")
 
@@ -69,7 +68,7 @@ DATA_PATH = Path('../../datasets/DS-2-8-25/processed_zudio_data.csv').resolve()
 
 raw = pd.read_csv(DATA_PATH)
 print(f"Loaded shape: {raw.shape}")
-print(f"Continuous engagement stats:")
+print("Continuous engagement stats:")
 print(raw['product_engagement'].describe())
 raw.head()
 
@@ -424,7 +423,7 @@ except Exception as e:
     print("Skipping beeswarm plot due to compatibility issues")
 
 # Dependence plots for top 4 features
-print(f"\nCreating dependence plots for top 4 features:")
+print("\nCreating dependence plots for top 4 features:")
 try:
     top_features_idx = np.argsort(feature_importance)[::-1][:4]
 
