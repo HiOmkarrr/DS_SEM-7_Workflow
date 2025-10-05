@@ -752,14 +752,26 @@ git push origin main
             """, language="bash")
 
 elif page == "XAI & Fairness":
-    st.subheader("Explainability & Fairness (Regression)")
+    st.subheader("🔍 Explainability & Fairness Analysis")
+
+    # Introduction section
+    st.markdown("""
+    ### What is XAI (Explainable AI)?
+
+    Machine learning models are often "black boxes" - they make predictions, but we don't know **why**.
+    XAI helps us understand:
+    - 📊 **Which features matter most?** (Global explanations)
+    - 🎯 **Why did the model predict THIS specific value?** (Local explanations)
+    - ⚖️ **Is the model fair across different groups?** (Fairness audit)
+    """)
+
     import joblib
     from pathlib import Path
     import numpy as np
     import matplotlib.pyplot as plt
     model_path = Path("models/model.joblib")
     if not model_path.exists():
-        st.warning("Train a model first in 'Model Selection'.")
+        st.warning("⚠️ Train a model first in 'Model Selection' page.")
     else:
         bundle = joblib.load(model_path)
         model = bundle["model"]
@@ -773,7 +785,11 @@ elif page == "XAI & Fairness":
             if "delivery_time" in df.columns and "delivery_days" not in df.columns:
                 try:
                     df["delivery_days"] = df["delivery_time"].astype(str).str.extract(r"(\d+)").astype(float)
-                    df["speed_bucket"] = pd.cut(df["delivery_days"], bins=[-np.inf, 3, 5, np.inf], labels=["Fast", "Standard", "Slow"])
+                    df["speed_bucket"] = pd.cut(
+                        df["delivery_days"],
+                        bins=[-np.inf, 3, 5, np.inf],
+                        labels=["Fast", "Standard", "Slow"]
+                    )
                 except Exception:
                     pass
 
@@ -798,7 +814,30 @@ elif page == "XAI & Fairness":
                         names = [f"f{i}" for i in range(X_enc.shape[1])]
                     return X_enc, names
 
-                st.markdown("**SHAP: global and local explanations**")
+                # SHAP Section
+                st.markdown("---")
+                st.markdown("### 📊 SHAP: Understanding Feature Importance")
+
+                with st.expander("ℹ️ What is SHAP? (Click to learn)", expanded=False):
+                    st.markdown("""
+                    **SHAP (SHapley Additive exPlanations)** is like giving credit to team players:
+
+                    **Simple Analogy:**
+                    Imagine you're baking a cake and it tastes great. SHAP tells you:
+                    - How much did sugar contribute? (+20 points for sweetness)
+                    - How much did flour contribute? (+15 points for texture)
+                    - How much did salt contribute? (-5 points, too much!)
+
+                    **In our case:**
+                    - Feature: `price` → SHAP value: **+2.5** means "price increased the prediction by 2.5"
+                    - Feature: `rating` → SHAP value: **-1.2** means "rating decreased the prediction by 1.2"
+
+                    **Three types of SHAP plots you'll see below:**
+                    1. **Bar Plot**: Shows average importance (which features matter most overall)
+                    2. **Beeswarm Plot**: Shows how feature values affect predictions (high/low values)
+                    3. **Dependence Plot**: Shows relationship between one feature and its impact
+                    """)
+
                 shap_ready = False
                 bar_fig = None
                 beeswarm_fig = None
@@ -819,24 +858,65 @@ elif page == "XAI & Fairness":
                             raise RuntimeError("fallback")
                     except Exception:
                         masker = shap.maskers.Independent(X_enc)
-                        explainer = shap.Explainer(lambda a: model.named_steps["model"].predict(a), masker, algorithm="permutation")
+                        explainer = shap.Explainer(
+                            lambda a: model.named_steps["model"].predict(a),
+                            masker,
+                            algorithm="permutation"
+                        )
                         shap_values = explainer(X_enc).values
                     shap_ready = True
+
                     # Bar plot
+                    st.markdown("#### 📊 Plot 1: Feature Importance Bar Chart")
+                    st.caption(
+                        "**What you're seeing:** Features ranked by average importance. "
+                        "Longer bars = more important features for predictions."
+                    )
                     try:
                         bar_fig = plt.figure(figsize=(8, 6))
-                        shap.summary_plot(shap_values, X_enc, plot_type='bar', feature_names=feature_names, show=False, max_display=20)
+                        shap.summary_plot(
+                            shap_values, X_enc, plot_type='bar',
+                            feature_names=feature_names, show=False, max_display=20
+                        )
                         st.pyplot(bar_fig)
+                        st.info(
+                            "💡 **How to read this:** The feature at the top has the biggest average impact "
+                            "on predictions. If you want to improve the model, focus on getting "
+                            "accurate data for these top features!"
+                        )
                     except Exception:
                         pass
+
                     # Beeswarm
+                    st.markdown("#### 🎨 Plot 2: SHAP Beeswarm (Detailed Impact)")
+                    st.caption(
+                        "**What you're seeing:** Each dot is one prediction. "
+                        "Color shows feature value (red=high, blue=low). "
+                        "Position shows impact (right=increases prediction, left=decreases)."
+                    )
                     try:
                         beeswarm_fig = plt.figure(figsize=(8, 8))
-                        shap.summary_plot(shap_values, X_enc, feature_names=feature_names, show=False, max_display=20)
+                        shap.summary_plot(
+                            shap_values, X_enc,
+                            feature_names=feature_names, show=False, max_display=20
+                        )
                         st.pyplot(beeswarm_fig)
+                        st.info(
+                            "💡 **How to read this:**\n"
+                            "- **Red dots on the right**: High feature values → increase prediction\n"
+                            "- **Blue dots on the left**: Low feature values → decrease prediction\n"
+                            "- **Wide spread**: Feature has varying effects (context-dependent)\n"
+                            "- **Narrow line**: Feature has consistent effect"
+                        )
                     except Exception:
                         pass
+
                     # Dependence for top 4
+                    st.markdown("#### 📈 Plot 3: Dependence Plots (Top 4 Features)")
+                    st.caption(
+                        "**What you're seeing:** How changing one feature value affects its impact. "
+                        "Each point is one data sample."
+                    )
                     try:
                         mean_abs = np.mean(np.abs(shap_values), axis=0)
                         top_idx = np.argsort(mean_abs)[-4:][::-1]
@@ -849,6 +929,15 @@ elif page == "XAI & Fairness":
                             axes[i].set_ylabel('SHAP value')
                         plt.tight_layout()
                         st.pyplot(dep_fig)
+                        st.info(
+                            "💡 **How to read this:**\n"
+                            "- **X-axis**: Actual feature value (e.g., price = $50)\n"
+                            "- **Y-axis**: SHAP value (impact on prediction)\n"
+                            "- **Red dashed line**: Zero impact\n"
+                            "- **Upward trend**: Higher values → increase prediction\n"
+                            "- **Downward trend**: Higher values → decrease prediction\n"
+                            "- **Scattered**: Complex non-linear relationship"
+                        )
                     except Exception:
                         pass
                 except Exception as exc:
@@ -857,61 +946,157 @@ elif page == "XAI & Fairness":
                     try:
                         from sklearn.inspection import permutation_importance
                         r = permutation_importance(model, X, y, n_repeats=5, random_state=42, n_jobs=-1)
-                        perm_df = pd.DataFrame({"feature": columns, "importance": r.importances_mean}).sort_values("importance", ascending=False).head(20)
+                        perm_df = pd.DataFrame({
+                            "feature": columns,
+                            "importance": r.importances_mean
+                        }).sort_values("importance", ascending=False).head(20)
                         st.dataframe(perm_df)
                     except Exception:
                         pass
 
-                st.markdown("**LIME: local explanations**")
+                # LIME Section
+                st.markdown("---")
+                st.markdown("### 🎯 LIME: Why This Specific Prediction?")
+
+                with st.expander("ℹ️ What is LIME? (Click to learn)", expanded=False):
+                    st.markdown("""
+                    **LIME (Local Interpretable Model-agnostic Explanations)** answers:
+                    **"Why did the model predict X for THIS particular product?"**
+
+                    **Simple Analogy:**
+                    Think of LIME as a detective investigating one specific case:
+                    - "This product got a high engagement score because..."
+                    - "...it has a 4.5 star rating (+1.2 impact)"
+                    - "...it's in the 'trending' category (+0.8 impact)"
+                    - "...but the price is high (-0.3 impact)"
+
+                    **What you'll see below:**
+                    We pick 3 sample products (High, Low, Median engagement) and show
+                    the top 10 features that influenced each prediction.
+
+                    **Numbers mean:**
+                    - Positive number = feature increased the prediction
+                    - Negative number = feature decreased the prediction
+                    - Larger absolute value = stronger influence
+                    """)
+
                 try:
                     from lime.lime_tabular import LimeTabularExplainer
                     X_enc_full, feature_names = get_encoded_and_names(X)
                     inner = model.named_steps["model"]
-                    explainer = LimeTabularExplainer(X_enc_full, feature_names=feature_names, mode='regression', discretize_continuous=True)
+                    explainer = LimeTabularExplainer(
+                        X_enc_full, feature_names=feature_names,
+                        mode='regression', discretize_continuous=True
+                    )
                     # pick three diverse samples: max, min, median target
                     y_order = y.reset_index(drop=True)
                     X_enc_order = X_enc_full
                     idx_max = int(y_order.idxmax()) if len(y_order) > 0 else 0
                     idx_min = int(y_order.idxmin()) if len(y_order) > 0 else 0
                     idx_med = int(np.argsort(y_order.values)[len(y_order)//2]) if len(y_order) > 0 else 0
-                    selected = [("High target", idx_max), ("Low target", idx_min), ("Median target", idx_med)]
+                    selected = [
+                        ("🔥 High Engagement Product", idx_max),
+                        ("❄️ Low Engagement Product", idx_min),
+                        ("📊 Median Engagement Product", idx_med)
+                    ]
+
                     for title, irow in selected:
                         irow = max(0, min(irow, len(X_enc_order)-1))
-                        exp = explainer.explain_instance(X_enc_order[irow], predict_fn=lambda a: inner.predict(a), num_features=10)
-                        st.markdown(f"{title}")
-                        st.json({k: float(v) for k, v in exp.as_list()})
+                        exp = explainer.explain_instance(
+                            X_enc_order[irow],
+                            predict_fn=lambda a: inner.predict(a),
+                            num_features=10
+                        )
+                        st.markdown(f"**{title}**")
+                        st.caption(
+                            f"Actual value: {y_order.iloc[irow]:.2f} | "
+                            f"Predicted value: {inner.predict(X_enc_order[irow:irow+1])[0]:.2f}"
+                        )
+                        explanation_dict = {k: float(v) for k, v in exp.as_list()}
+                        st.json(explanation_dict)
+                        st.caption(
+                            "💡 **How to read:** Positive values pushed the prediction up, "
+                            "negative values pulled it down. The sum approximates the final prediction."
+                        )
                 except Exception as exc:
                     st.info(f"LIME skipped: {exc}")
 
-                # Add human-readable insights based on SHAP/global importances and errors
+                # Insights Section
+                st.markdown("---")
+                st.markdown("### 🧠 Model Behavior Insights")
                 try:
-                    st.markdown("**Why are predictions behaving this way?**")
+                    st.caption("Simple correlation-based insights to complement SHAP analysis")
                     # Compute simple global correlations for intuition
                     num_cols = X.select_dtypes(include=["number"]).columns.tolist()
                     insights = []
                     if target in df.columns and num_cols:
-                        corr = df[num_cols + [target]].corr(numeric_only=True)[target].drop(target).sort_values(ascending=False)
+                        corr = df[num_cols + [target]].corr(numeric_only=True)[target].drop(target).sort_values(
+                            ascending=False
+                        )
                         top_pos = corr.head(3)
                         top_neg = corr.tail(3)
-                        insights.append(f"Top features positively correlated with target: {', '.join([f'{k} ({v:.2f})' for k,v in top_pos.items()])}.")
-                        insights.append(f"Top features negatively correlated with target: {', '.join([f'{k} ({v:.2f})' for k,v in top_neg.items()])}.")
+
+                        st.markdown("**Positive Correlations** (higher feature → higher target)")
+                        for k, v in top_pos.items():
+                            st.write(f"- `{k}`: {v:.2f} correlation")
+
+                        st.markdown("**Negative Correlations** (higher feature → lower target)")
+                        for k, v in top_neg.items():
+                            st.write(f"- `{k}`: {v:.2f} correlation")
+
                     # Residual behavior
                     preds_full = model.predict(X)
                     resid = preds_full - df[target]
                     over_rate = float((resid > 0).mean()) if len(resid) else 0.0
                     mean_abs_resid = float(resid.abs().mean()) if len(resid) else 0.0
-                    insights.append(f"Overprediction rate: {over_rate*100:.1f}%; average absolute error: {mean_abs_resid:.3f}.")
-                    # Short narrative
-                    st.write(" ".join(insights))
-                    st.caption("Correlations explain general directionality (not causation). SHAP plots show feature impact per prediction.")
+
+                    st.markdown("**Prediction Behavior**")
+                    col1, col2 = st.columns(2)
+                    col1.metric("Overprediction Rate", f"{over_rate*100:.1f}%")
+                    col2.metric("Average Absolute Error", f"{mean_abs_resid:.3f}")
+
+                    st.caption(
+                        "⚠️ **Note:** Correlations show general trends but don't prove causation. "
+                        "SHAP values are more reliable for understanding model decisions."
+                    )
                 except Exception:
                     pass
 
-                st.markdown("**Fairness audit and bias mitigation (regression)**")
+                # Fairness Section
+                st.markdown("---")
+                st.markdown("### ⚖️ Fairness Audit: Is the Model Biased?")
+
+                with st.expander("ℹ️ What is Fairness in ML? (Click to learn)", expanded=False):
+                    st.markdown("""
+                    **Fairness** means the model treats different groups equally.
+
+                    **Why it matters:**
+                    If our model predicts higher engagement for products in "Fast delivery" regions
+                    but lower for "Slow delivery" regions, is it because:
+                    1. **Legitimate difference** in customer behavior? ✅ Fair
+                    2. **Biased data** or model favoring one group? ❌ Unfair
+
+                    **What we check:**
+                    - Do different groups (e.g., Fast/Standard/Slow delivery) get similar prediction quality?
+                    - Is the model's error rate similar across groups?
+                    - Is there systematic over/under-prediction for certain groups?
+
+                    **Metrics explained:**
+                    - **RMSE** (Root Mean Square Error): Average prediction error (lower = better)
+                    - **MAE** (Mean Absolute Error): Average size of mistakes (lower = better)
+                    - **Bias**: Difference between average prediction and reality (closer to 0 = better)
+                    - **R²**: How well the model fits (closer to 1 = better)
+                    """)
+
                 # Default sensitive feature like notebook: speed_bucket if present, else user-select
                 default_opt = "speed_bucket" if "speed_bucket" in df.columns else "<select>"
                 options = [default_opt] + [c for c in df.columns if c != default_opt]
-                sensitive_col = st.selectbox("Sensitive feature column", options=options, index=0 if default_opt != "<select>" else 0)
+                sensitive_col = st.selectbox(
+                    "Select sensitive feature to audit (e.g., delivery speed, region)",
+                    options=options,
+                    index=0 if default_opt != "<select>" else 0
+                )
+
                 if sensitive_col != "<select>":
                     try:
                         from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
@@ -921,6 +1106,9 @@ elif page == "XAI & Fairness":
                         sens = df.loc[valid_mask, sensitive_col].astype(str)
                         preds = model.predict(X_valid)
                         groups_list = sorted(list(sens.unique()))
+
+                        st.markdown(f"**Analyzing fairness across `{sensitive_col}` groups:**")
+
                         # Per-group metrics
                         rows = []
                         for g in groups_list:
@@ -942,9 +1130,35 @@ elif page == "XAI & Fairness":
                         display_df = results_df.copy()
                         for col in ["Mean actual", "Mean pred", "RMSE", "MAE", "R2", "Bias"]:
                             display_df[col] = display_df[col].astype(float).round(3)
-                        st.dataframe(display_df)
+
+                        st.dataframe(display_df, use_container_width=True)
+
+                        st.caption(
+                            "💡 **How to interpret:**\n"
+                            "- **Similar RMSE/MAE across groups**: Model is equally accurate for all groups ✅\n"
+                            "- **Large difference in RMSE/MAE**: Model performs worse for some groups ⚠️\n"
+                            "- **Bias close to 0**: No systematic over/under-prediction ✅\n"
+                            "- **Large positive/negative Bias**: Model consistently over/under-predicts for that group ⚠️"
+                        )
+
                         # Mitigations
-                        with st.expander("Bias mitigation & comparison"):
+                        with st.expander("🛠️ Bias Mitigation Strategies", expanded=False):
+                            st.markdown("""
+                            **If you find unfairness, here are two mitigation techniques:**
+
+                            1. **Calibration Adjustment**
+                               - Calculate how much the model over/under-predicts for each group
+                               - Subtract that bias from predictions
+                               - Example: If model predicts 10 too high for "Slow" group, subtract 10
+
+                            2. **Residual Reweighting**
+                               - Partially adjust predictions based on group-specific errors
+                               - Less aggressive than full calibration
+                               - Balances fairness with overall accuracy
+
+                            **We'll show you the comparison below:**
+                            """)
+
                             # Calibration
                             adjusted_cal = preds.copy()
                             cal_adjust = {}

@@ -114,3 +114,6 @@ Desktop.ini
 *.bak
 *.swp
 *~.nib
+
+#Docs
+DEPLOYMENT_AND_RESPONSIBLE_AI.md
