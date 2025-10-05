@@ -66,19 +66,114 @@ def get_praw_credentials():
 
 
 if page == "Problem Statement":
-    st.subheader("Problem Statement")
-    st.markdown(
-        """
-        This application demonstrates a full MLOps pipeline:
-        1) Data ingestion (import and Reddit scraping), 2) Cleaning/Feature Engineering,
-        3) EDA, 4) Modeling, 5) Explainability (SHAP, LIME) & Fairness (Fairlearn),
-        6) Containerization & API, 7) CI/CD with GitHub Actions.
+    st.subheader("🎯 Problem Statement: Predictive Demand Forecasting for Fast Fashion")
 
-        Dataset used for Experiments 3–8: `/final_processed_zudio_data.csv`.
-        Experiment 2 is demonstrated on: `/original_raw_data.csv`.
-        """
-    )
-    st.success("Use the sidebar to navigate through the steps.")
+    # Why This Problem?
+    st.markdown("### 🤔 Why This Problem?")
+    col1, col2 = st.columns(2)
+    with col1:
+        st.error("**Current Challenge:**")
+        st.markdown("""
+        - **Overstocking**: Unpopular items pile up → clearance sales → lost profits
+        - **Understocking**: Trending items sell out → missed sales → unhappy customers
+        - **Root Cause**: Relying only on *past sales data* (reactive) instead of *real-time trends* (proactive)
+        """)
+    with col2:
+        st.success("**Why It Matters:**")
+        st.markdown("""
+        - Fast fashion changes rapidly (social media drives trends)
+        - Regional preferences vary (Chandigarh ≠ Jalna)
+        - Brands need to predict *what will sell* not just *what sold*
+        """)
+
+    # What We're Solving
+    st.markdown("### 💡 What We're Solving")
+    st.info("""
+    **Bridge the gap between social media buzz and actual sales**
+
+    Combine:
+    - 📊 **Sales Data** (what people bought) +
+    - 💬 **Reddit Sentiment** (what people are talking about)
+
+    → **Predict regional demand** for specific clothing categories
+    """)
+
+    # How We're Solving It
+    st.markdown("### 🛠️ How We're Solving It")
+
+    st.markdown("#### Our Approach vs. Traditional Methods")
+    comparison_data = {
+        "Aspect": [
+            "Data Sources",
+            "Analysis Type",
+            "Granularity",
+            "Output",
+            "Actionability"
+        ],
+        "Traditional Approach ❌": [
+            "Only historical sales data",
+            "Reactive (what happened)",
+            "National/regional level",
+            "Static reports",
+            "Generic insights"
+        ],
+        "Our Solution ✅": [
+            "Sales + Social Media sentiment",
+            "Predictive (what will happen)",
+            "City/state level",
+            "Interactive dashboard + API",
+            "Specific recommendations"
+        ]
+    }
+    st.dataframe(pd.DataFrame(comparison_data), use_container_width=True, hide_index=True)
+
+    # Key Features
+    st.markdown("#### ✨ Key Features")
+    feat1, feat2, feat3 = st.columns(3)
+    with feat1:
+        st.markdown("**🔗 Multi-Source Integration**")
+        st.caption("Fuse transactional + sentiment data")
+    with feat2:
+        st.markdown("**🎯 Regional Precision**")
+        st.caption("City-level demand insights")
+    with feat3:
+        st.markdown("**🤖 ML-Powered**")
+        st.caption("XGBoost, SHAP, Fairness audit")
+
+    # Success Metrics
+    st.markdown("### 📈 Success Metrics")
+    metric1, metric2, metric3 = st.columns(3)
+    with metric1:
+        st.metric("Model Accuracy", "RMSE 15% better", "vs baseline")
+    with metric2:
+        st.metric("Classification", "F1-Score > 0.75", "High/Low demand")
+    with metric3:
+        st.metric("Inventory Flags", "80% accurate", "Top/Bottom items")
+
+    # Tech Stack
+    st.markdown("### 🔧 Technology Stack")
+    tech_col1, tech_col2, tech_col3 = st.columns(3)
+    with tech_col1:
+        st.markdown("**Data & ML**")
+        st.code("pandas, numpy\nscikit-learn\nXGBoost, LightGBM", language="text")
+    with tech_col2:
+        st.markdown("**NLP & Sentiment**")
+        st.code("NLTK, spaCy\nTextBlob, VADER\nReddit (PRAW)", language="text")
+    with tech_col3:
+        st.markdown("**MLOps & Deploy**")
+        st.code("MLflow, DVC\nDocker, FastAPI\nGitHub Actions", language="text")
+
+    # Dataset Info
+    st.markdown("### 📦 Datasets")
+    st.markdown("""
+    **Primary Sources:**
+    1. **Sales Data** (`final_processed_zudio_data.csv`): Store, location, product, sales profit
+    2. **Reddit Data** (`original_raw_data.csv`): Scraped reviews, sentiment, engagement
+
+    **Target Variable:** `product_engagement` (captures rating × log(1+count) + trending effects)
+    """)
+
+    st.success("📍 **Navigate using the sidebar** to explore: Data Import → EDA → Modeling → XAI & Fairness → API")
 
 elif page == "Data Import / Scrape":
     st.subheader("Data Import / Reddit Scrape")
