@@ -1211,7 +1211,7 @@ elif page == "Containerization & API":
     import shutil
     docker_ok = shutil.which("docker") is not None
     if not docker_ok:
-        st.warning("Docker not found on PATH. Install Docker Desktop and restart.")
+        st.warning("Due to lack of resources provided by the streamlit deployment service, Docker cannot be installed on their servers")
     else:
         tag = st.text_input("Image tag", value="ds-lab-app")
         port_api = st.number_input("API port", 1, 65535, 8000)
